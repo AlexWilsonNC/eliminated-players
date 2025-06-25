@@ -109919,7 +109919,8 @@
       "flag": "AU"
     },
     {
-      "name": "Ashton Grant [AU]",
+      "name": "Ashton Grant",
+      "flag": "AU",
       "placing": 9999,
       "record": {
         "wins": 5,
@@ -109982,7 +109983,8 @@
       }
     },
     {
-      "name": "Daniel Pollard [AU]",
+      "name": "Daniel Pollard",
+      "flag": "AU",
       "placing": 9999,
       "record": {
         "wins": 3,
