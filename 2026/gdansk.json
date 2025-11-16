@@ -21741,169 +21741,169 @@
         "oppopp": 0.5212425595238095
       },
       "decklist": {
-        "pokemon": [
-          {
-            "name": "Iron Thorns ex",
-            "set": "PRE",
-            "number": "32",
-            "count": 4
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Lillie's Determination",
-            "number": "119",
-            "set": "MEG"
-          },
-          {
-            "count": 4,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 4,
-            "name": "Crispin",
-            "number": "105",
-            "set": "PRE"
-          },
-          {
-            "count": 3,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 3,
-            "name": "Boss's Orders",
-            "number": "114",
-            "set": "MEG"
-          },
-          {
-            "count": 2,
-            "name": "Professor's Research",
-            "number": "85",
-            "set": "BLK"
-          },
-          {
-            "name": "Crushing Hammer",
-            "set": "SVI",
-            "number": "168",
-            "count": 4
-          },
-          {
-            "name": "Pokémon Catcher",
-            "set": "SVI",
-            "number": "187",
-            "count": 4
-          },
-          {
-            "count": 4,
-            "name": "Pokegear 3.0",
-            "number": "84",
-            "set": "BLK"
-          },
-          {
-            "count": 1,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "name": "Techno Radar",
-            "set": "PRE",
-            "number": "130",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Secret Box - ACESPEC",
-            "number": "163",
-            "set": "TWM"
-          },
-          {
-            "count": 1,
-            "name": "Enhanced Hammer",
-            "number": "148",
-            "set": "TWM"
-          },
-          {
-            "count": 3,
-            "name": "Future Booster Energy Capsule",
-            "number": "164",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Technical Machine: Turbo Energize",
-            "number": "179",
-            "set": "PAR"
-          },
-          {
-            "count": 2,
-            "name": "Calamitous Wasteland",
-            "number": "175",
-            "set": "PAL"
-          },
-          {
-            "count": 1,
-            "name": "Gravity Mountain",
-            "number": "177",
-            "set": "SSP"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Lightning Energy",
-            "set": "MEE",
-            "number": "4",
-            "count": 6
-          },
-          {
-            "name": "Basic Grass Energy",
-            "set": "MEE",
-            "number": "1",
-            "count": 1
-          },
-          {
-            "name": "Basic Fire Energy",
-            "set": "MEE",
-            "number": "2",
-            "count": 1
-          },
-          {
-            "name": "Basic Water Energy",
-            "set": "MEE",
-            "number": "3",
-            "count": 1
-          },
-          {
-            "name": "Basic Psychic Energy",
-            "set": "MEE",
-            "number": "5",
-            "count": 1
-          },
-          {
-            "name": "Basic Fighting Energy",
-            "set": "MEE",
-            "number": "6",
-            "count": 1
-          },
-          {
-            "name": "Basic Darkness Energy",
-            "set": "MEE",
-            "number": "7",
-            "count": 1
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 4,
+      "name": "Iron Thorns ex",
+      "set": "TWM",
+      "number": "77"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Lillie's Determination",
+      "set": "MEG",
+      "number": "119"
+    },
+    {
+      "count": 4,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 4,
+      "name": "Crispin",
+      "set": "SCR",
+      "number": "133"
+    },
+    {
+      "count": 3,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 3,
+      "name": "Boss's Orders",
+      "set": "MEG",
+      "number": "114"
+    },
+    {
+      "count": 2,
+      "name": "Professor's Research",
+      "set": "JTG",
+      "number": "155"
+    },
+    {
+      "count": 4,
+      "name": "Crushing Hammer",
+      "set": "SVI",
+      "number": "168"
+    },
+    {
+      "count": 4,
+      "name": "Pokémon Catcher",
+      "set": "SVI",
+      "number": "187"
+    },
+    {
+      "count": 4,
+      "name": "Pokégear 3.0",
+      "set": "SVI",
+      "number": "186"
+    },
+    {
+      "count": 1,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 1,
+      "name": "Techno Radar",
+      "set": "PAR",
+      "number": "180"
+    },
+    {
+      "count": 1,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 1,
+      "name": "Secret Box",
+      "set": "TWM",
+      "number": "163"
+    },
+    {
+      "count": 1,
+      "name": "Enhanced Hammer",
+      "set": "TWM",
+      "number": "148"
+    },
+    {
+      "count": 3,
+      "name": "Future Booster Energy Capsule",
+      "set": "TEF",
+      "number": "149"
+    },
+    {
+      "count": 1,
+      "name": "Technical Machine: Turbo Energize",
+      "set": "PAR",
+      "number": "179"
+    },
+    {
+      "count": 2,
+      "name": "Calamitous Wasteland",
+      "set": "PAL",
+      "number": "175"
+    },
+    {
+      "count": 1,
+      "name": "Gravity Mountain",
+      "set": "SSP",
+      "number": "177"
+    }
+  ],
+  "energy": [
+    {
+      "count": 6,
+      "name": "Basic Lightning Energy",
+      "set": "SVE",
+      "number": "4"
+    },
+    {
+      "count": 1,
+      "name": "Basic Fire Energy",
+      "set": "SVE",
+      "number": "2"
+    },
+    {
+      "count": 1,
+      "name": "Basic Water Energy",
+      "set": "SVE",
+      "number": "3"
+    },
+    {
+      "count": 1,
+      "name": "Basic Grass Energy",
+      "set": "SVE",
+      "number": "1"
+    },
+    {
+      "count": 1,
+      "name": "Basic Psychic Energy",
+      "set": "SVE",
+      "number": "5"
+    },
+    {
+      "count": 1,
+      "name": "Basic Fighting Energy",
+      "set": "SVE",
+      "number": "6"
+    },
+    {
+      "count": 1,
+      "name": "Basic Darkness Energy",
+      "set": "SVE",
+      "number": "7"
+    }
+  ]
+},
       "drop": 8,
       "rounds": {
         "1": {
