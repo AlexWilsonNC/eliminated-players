@@ -171,21 +171,21 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -393,15 +393,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -663,9 +663,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -879,15 +879,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -1125,21 +1125,21 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -1389,27 +1389,27 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -1641,9 +1641,9 @@
         "energy": [
           {
             "count": 3,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
@@ -1653,21 +1653,21 @@
           },
           {
             "count": 2,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -1887,15 +1887,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -2109,9 +2109,9 @@
         "energy": [
           {
             "count": 3,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -2361,15 +2361,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -2637,9 +2637,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -2853,15 +2853,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -3117,9 +3117,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -3345,9 +3345,9 @@
         "energy": [
           {
             "count": 9,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -3621,15 +3621,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -3843,9 +3843,9 @@
           },
           {
             "count": 2,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -4071,15 +4071,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -4311,9 +4311,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -4521,15 +4521,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -4749,9 +4749,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -4983,9 +4983,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -5211,15 +5211,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -5445,15 +5445,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -5673,15 +5673,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -5895,15 +5895,15 @@
         "energy": [
           {
             "count": 11,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -6129,15 +6129,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -6357,21 +6357,21 @@
         "energy": [
           {
             "count": 6,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           }
         ]
       },
@@ -6597,15 +6597,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -6813,15 +6813,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -7047,15 +7047,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -7269,15 +7269,15 @@
         "energy": [
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -7503,15 +7503,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -7773,9 +7773,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -8001,15 +8001,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -8241,27 +8241,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -8487,27 +8487,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -8715,27 +8715,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -8991,9 +8991,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -9201,21 +9201,21 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -9459,9 +9459,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -9669,9 +9669,9 @@
         "energy": [
           {
             "count": 9,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -9873,9 +9873,9 @@
         "energy": [
           {
             "count": 10,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -10089,27 +10089,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -10341,27 +10341,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -10575,15 +10575,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -10827,9 +10827,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -11043,15 +11043,15 @@
         "energy": [
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -11319,15 +11319,15 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -11589,9 +11589,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -11835,21 +11835,21 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -12075,9 +12075,9 @@
           },
           {
             "count": 2,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -12309,15 +12309,15 @@
           },
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -12579,15 +12579,15 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -12807,15 +12807,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -13035,15 +13035,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -13281,27 +13281,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -13515,9 +13515,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -13731,21 +13731,21 @@
         "energy": [
           {
             "count": 6,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -14013,15 +14013,15 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -14241,15 +14241,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -14481,27 +14481,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -14709,15 +14709,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -14949,27 +14949,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -15219,9 +15219,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -15435,9 +15435,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -15669,15 +15669,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -15909,15 +15909,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -16137,15 +16137,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -16383,9 +16383,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -16641,9 +16641,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 3,
@@ -16914,9 +16914,9 @@
         "energy": [
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -16926,9 +16926,9 @@
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -17142,15 +17142,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -17394,9 +17394,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -17622,9 +17622,9 @@
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -17850,21 +17850,21 @@
         "energy": [
           {
             "count": 6,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           }
         ]
       },
@@ -18078,9 +18078,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -18306,27 +18306,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -18522,15 +18522,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -18792,9 +18792,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -19026,15 +19026,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -19296,9 +19296,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -19524,15 +19524,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -19746,27 +19746,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -19998,15 +19998,15 @@
           },
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -20250,9 +20250,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -20502,27 +20502,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -20736,15 +20736,15 @@
           },
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -20982,9 +20982,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -21240,39 +21240,39 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -21492,15 +21492,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -21720,15 +21720,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -21942,15 +21942,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -22194,9 +22194,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -22434,15 +22434,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -22668,9 +22668,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -22896,21 +22896,21 @@
         "energy": [
           {
             "count": 6,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -23148,21 +23148,21 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -23376,15 +23376,15 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -23622,15 +23622,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -23844,15 +23844,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -24090,15 +24090,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -24354,9 +24354,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -24618,9 +24618,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -24840,9 +24840,9 @@
         "energy": [
           {
             "count": 9,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -25086,27 +25086,27 @@
         "energy": [
           {
             "count": 6,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -25344,27 +25344,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -25590,15 +25590,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -25836,9 +25836,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -26046,15 +26046,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -26256,9 +26256,9 @@
         "energy": [
           {
             "count": 13,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           }
         ]
       },
@@ -26490,9 +26490,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -26736,21 +26736,21 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -26988,27 +26988,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -27234,9 +27234,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -27450,15 +27450,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -27672,15 +27672,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -27918,9 +27918,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -28152,9 +28152,9 @@
           },
           {
             "count": 2,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -28410,9 +28410,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -28632,9 +28632,9 @@
         "energy": [
           {
             "count": 10,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           }
         ]
       },
@@ -28854,15 +28854,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -29070,15 +29070,15 @@
         "energy": [
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -29310,9 +29310,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -29550,27 +29550,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -29790,9 +29790,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -30024,15 +30024,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -30288,9 +30288,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -30516,27 +30516,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -30756,15 +30756,15 @@
         "energy": [
           {
             "count": 3,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -30780,9 +30780,9 @@
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -31002,15 +31002,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -31230,15 +31230,15 @@
         "energy": [
           {
             "count": 3,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -31476,9 +31476,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -31668,15 +31668,15 @@
         "energy": [
           {
             "count": 12,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -31944,39 +31944,39 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -32196,27 +32196,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -32448,27 +32448,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -32688,21 +32688,21 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -32928,15 +32928,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -33198,9 +33198,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -33438,9 +33438,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -33672,27 +33672,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -33906,21 +33906,21 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -34140,15 +34140,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -34374,27 +34374,27 @@
         "energy": [
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -34656,33 +34656,33 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -34897,21 +34897,21 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -35138,9 +35138,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -35355,21 +35355,21 @@
         "energy": [
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -35602,15 +35602,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -35842,9 +35842,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -36082,15 +36082,15 @@
           },
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -36334,15 +36334,15 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -36533,15 +36533,15 @@
         "energy": [
           {
             "count": 9,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -36767,27 +36767,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -37037,9 +37037,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -37253,15 +37253,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -37517,9 +37517,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -37745,9 +37745,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -37967,15 +37967,15 @@
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -38207,27 +38207,27 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -38447,15 +38447,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -38687,9 +38687,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -38927,9 +38927,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -39192,27 +39192,27 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -39450,9 +39450,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -39684,9 +39684,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -39906,9 +39906,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Ignition Energy",
@@ -40134,15 +40134,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -40362,15 +40362,15 @@
           },
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -40578,9 +40578,9 @@
         "energy": [
           {
             "count": 4,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -40806,9 +40806,9 @@
         "energy": [
           {
             "count": 15,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           }
         ]
       },
@@ -41016,15 +41016,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -41263,9 +41263,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -41497,15 +41497,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -41738,15 +41738,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -41973,9 +41973,9 @@
         "energy": [
           {
             "count": 9,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           }
         ]
       },
@@ -42208,27 +42208,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -42467,9 +42467,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -42479,15 +42479,15 @@
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -42720,9 +42720,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -42954,9 +42954,9 @@
         "energy": [
           {
             "count": 9,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -43203,9 +43203,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -43618,9 +43618,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -43823,9 +43823,9 @@
         "energy": [
           {
             "count": 3,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -44071,15 +44071,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -44307,9 +44307,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -44525,15 +44525,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -44772,9 +44772,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -45038,39 +45038,39 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -45292,9 +45292,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "name": "Ignition Energy",
@@ -45550,9 +45550,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -45779,9 +45779,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -46002,15 +46002,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -46225,21 +46225,21 @@
         "energy": [
           {
             "count": 6,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           }
         ]
       },
@@ -46471,9 +46471,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -46725,15 +46725,15 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -46931,15 +46931,15 @@
         "energy": [
           {
             "count": 10,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -47165,9 +47165,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -47395,27 +47395,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           }
         ]
       },
@@ -47619,15 +47619,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -47895,9 +47895,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -48130,15 +48130,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -48394,9 +48394,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -48599,9 +48599,9 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 4,
@@ -48835,27 +48835,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           }
         ]
       },
@@ -49071,9 +49071,9 @@
         "energy": [
           {
             "count": 4,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -49329,9 +49329,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -49576,21 +49576,21 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -49805,15 +49805,15 @@
         "energy": [
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -50035,9 +50035,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -50252,15 +50252,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -50476,15 +50476,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -50706,9 +50706,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -50913,15 +50913,15 @@
           },
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -51149,15 +51149,15 @@
           },
           {
             "count": 3,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -51378,9 +51378,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -51624,15 +51624,15 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -51865,9 +51865,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -52123,9 +52123,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -52351,15 +52351,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -52580,15 +52580,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -52797,15 +52797,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -53019,15 +53019,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -53237,9 +53237,9 @@
         "energy": [
           {
             "count": 10,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -53431,9 +53431,9 @@
         "energy": [
           {
             "count": 4,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -53638,9 +53638,9 @@
         "energy": [
           {
             "count": 3,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -53845,9 +53845,9 @@
         "energy": [
           {
             "count": 3,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -54081,14 +54081,14 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
-            "name": "Basic Darkness Energy",
-            "set": "MEE",
-            "number": "7",
+            "name": "Basic Basic Darkness Energy",
+            "set": "7",
+            "numbMEE: "7",
             "count": 1
           },
           {
@@ -54335,9 +54335,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -54813,15 +54813,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -55024,15 +55024,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -55271,21 +55271,21 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -55508,15 +55508,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -55709,9 +55709,9 @@
         "energy": [
           {
             "count": 4,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -55910,15 +55910,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -56145,9 +56145,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -56381,9 +56381,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -56587,9 +56587,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 4,
@@ -56818,9 +56818,9 @@
         "energy": [
           {
             "count": 9,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           }
         ]
       },
@@ -57036,15 +57036,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -57266,27 +57266,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -57503,15 +57503,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -57728,27 +57728,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -57948,15 +57948,15 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -58409,15 +58409,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -58640,15 +58640,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -58871,15 +58871,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -59120,15 +59120,15 @@
           },
           {
             "count": 2,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -59344,27 +59344,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           }
         ]
       },
@@ -59581,9 +59581,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -59807,15 +59807,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -60027,9 +60027,9 @@
         "energy": [
           {
             "count": 9,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           }
         ]
       },
@@ -60262,9 +60262,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -60481,9 +60481,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -60710,9 +60710,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -60935,9 +60935,9 @@
         "energy": [
           {
             "count": 10,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           }
         ]
       },
@@ -61183,21 +61183,21 @@
         "energy": [
           {
             "count": 6,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -61373,9 +61373,9 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 4,
@@ -61385,9 +61385,9 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -61604,15 +61604,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -61846,9 +61846,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -62071,27 +62071,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -62302,15 +62302,15 @@
           },
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -62544,9 +62544,9 @@
         "energy": [
           {
             "count": 15,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           }
         ]
       },
@@ -62794,15 +62794,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -63043,15 +63043,15 @@
         "energy": [
           {
             "count": 5,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -63269,21 +63269,21 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -63505,15 +63505,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -63724,15 +63724,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -63949,21 +63949,21 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -64210,15 +64210,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -64440,9 +64440,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -64647,15 +64647,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -64726,9 +64726,9 @@
         "energy": [
           {
             "count": 58,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -64961,9 +64961,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -65142,9 +65142,9 @@
         "energy": [
           {
             "count": 14,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           }
         ]
       },
@@ -65353,9 +65353,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -65581,9 +65581,9 @@
         "energy": [
           {
             "count": 6,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -65593,9 +65593,9 @@
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -65777,15 +65777,15 @@
         "energy": [
           {
             "count": 3,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -66000,9 +66000,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "count": 2,
@@ -66246,39 +66246,39 @@
         "energy": [
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -66514,15 +66514,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           }
         ]
       },
@@ -66733,15 +66733,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -66976,15 +66976,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -67201,9 +67201,9 @@
         "energy": [
           {
             "count": 10,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           }
         ]
       },
@@ -67409,15 +67409,15 @@
           },
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -67545,9 +67545,9 @@
         "energy": [
           {
             "count": 28,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -67807,15 +67807,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -68065,15 +68065,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -68330,33 +68330,33 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -68565,15 +68565,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -68777,15 +68777,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -69037,39 +69037,39 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -69273,15 +69273,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -69485,21 +69485,21 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -69703,9 +69703,9 @@
           },
           {
             "count": 2,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Luminous Energy",
@@ -69927,27 +69927,27 @@
         "energy": [
           {
             "count": 5,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 5,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           }
         ]
       },
@@ -70333,15 +70333,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -70551,15 +70551,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -70805,9 +70805,9 @@
         "energy": [
           {
             "count": 9,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -71185,9 +71185,9 @@
         "energy": [
           {
             "count": 17,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -71411,15 +71411,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -71641,21 +71641,21 @@
         "energy": [
           {
             "count": 4,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 4,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -71859,15 +71859,15 @@
           },
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -72095,15 +72095,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -72337,9 +72337,9 @@
         "energy": [
           {
             "count": 8,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -72537,15 +72537,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -72749,15 +72749,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -73009,15 +73009,15 @@
         "energy": [
           {
             "count": 2,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 2,
-            "name": "Water Energy",
-            "number": "154",
-            "set": "CRZ"
+            "name": "Basic Water Energy",
+            "number": "3",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -73027,15 +73027,15 @@
           },
           {
             "count": 1,
-            "name": "Grass Energy",
-            "number": "152",
-            "set": "CRZ"
+            "name": "Basic Grass Energy",
+            "number": "1",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Lightning Energy",
-            "number": "155",
-            "set": "CRZ"
+            "name": "Basic Lightning Energy",
+            "number": "4",
+            "set": "MEE"
           }
         ]
       },
@@ -73257,15 +73257,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -73481,15 +73481,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -73681,9 +73681,9 @@
         "energy": [
           {
             "count": 10,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -73893,15 +73893,15 @@
         "energy": [
           {
             "count": 8,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Metal Energy",
-            "number": "159",
-            "set": "CRZ"
+            "name": "Basic Metal Energy",
+            "number": "8",
+            "set": "MEE"
           }
         ]
       },
@@ -74093,9 +74093,9 @@
         "energy": [
           {
             "count": 10,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           }
         ]
       },
@@ -74305,15 +74305,15 @@
           },
           {
             "count": 2,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 1,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "count": 1,
@@ -74571,15 +74571,15 @@
         "energy": [
           {
             "count": 7,
-            "name": "Psychic Energy",
-            "number": "156",
-            "set": "CRZ"
+            "name": "Basic Psychic Energy",
+            "number": "5",
+            "set": "MEE"
           },
           {
             "count": 3,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           }
         ]
       },
@@ -74753,15 +74753,15 @@
         "energy": [
           {
             "count": 9,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "count": 6,
-            "name": "Fire Energy",
-            "number": "153",
-            "set": "CRZ"
+            "name": "Basic Fire Energy",
+            "number": "2",
+            "set": "MEE"
           },
           {
             "name": "Jet Energy",
@@ -75001,9 +75001,9 @@
         "energy": [
           {
             "count": 7,
-            "name": "Darkness Energy",
-            "number": "158",
-            "set": "CRZ"
+            "name": "Basic Darkness Energy",
+            "number": "7",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
@@ -75201,9 +75201,9 @@
         "energy": [
           {
             "count": 9,
-            "name": "Fighting Energy",
-            "number": "157",
-            "set": "CRZ"
+            "name": "Basic Fighting Energy",
+            "number": "6",
+            "set": "MEE"
           },
           {
             "name": "Reversal Energy",
