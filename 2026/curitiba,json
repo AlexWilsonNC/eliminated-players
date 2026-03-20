@@ -1,5 +1,5 @@
 {
-    "masters": [
+  "masters": [
     {
       "name": "Matheus Domaradzki",
       "placing": 258,
@@ -277974,7 +277974,7 @@
       "flag": "CL"
     }
   ],
-  "seniors": [
+   "seniors": [
     {
       "name": "Vicente C.",
       "placing": 17,
