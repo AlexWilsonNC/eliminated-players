@@ -1,6 +1,5 @@
 {
-    "masters": [
-    
+  "masters": [
     {
       "name": "Quentin MATERNAT",
       "placing": 361,
@@ -391614,7 +391613,6 @@
     }
   ],
   "seniors": [
-    
     {
       "name": "Oscar B.",
       "placing": 69,
@@ -394682,7 +394680,7 @@
           "table": 144
         },
         "6": {
-          "name": ">ST05>Morgan M. [UK]",
+          "name": "Morgan M. [UK]",
           "result": "W",
           "table": 162
         },
@@ -401796,7 +401794,7 @@
       "drop": 7,
       "rounds": {
         "1": {
-          "name": ">ST05>Morgan M. [UK]",
+          "name": "Morgan M. [UK]",
           "result": "W",
           "table": 158
         },
@@ -401826,7 +401824,7 @@
           "table": 182
         },
         "7": {
-          "name": ">ST04>rio v. [UK]",
+          "name": "rio v. [UK]",
           "result": "W",
           "table": 162
         }
@@ -404598,7 +404596,7 @@
       "drop": 7,
       "rounds": {
         "1": {
-          "name": ">ST07>Joshua C. [UK]",
+          "name": "Joshua C. [UK]",
           "result": "W",
           "table": 152
         },
@@ -404844,7 +404842,7 @@
           "table": 142
         },
         "2": {
-          "name": ">ST01-TCGJRSR>Nicole V. [UK]",
+          "name": "Nicole V. [UK]",
           "result": "W",
           "table": 162
         },
@@ -406908,7 +406906,7 @@
       "flag": "UK"
     },
     {
-      "name": ">ST05>Morgan M.",
+      "name": "Morgan M.",
       "placing": 134,
       "record": {
         "wins": 3,
@@ -407974,7 +407972,7 @@
           "table": 183
         },
         "5": {
-          "name": ">ST06>Esmay R. [NL]",
+          "name": "Esmay R. [NL]",
           "result": "W",
           "table": 189
         },
@@ -409807,7 +409805,7 @@
           "table": 195
         },
         "4": {
-          "name": ">ST06>Esmay R. [NL]",
+          "name": "Esmay R. [NL]",
           "result": "W",
           "table": 169
         },
@@ -410678,7 +410676,7 @@
       "drop": 7,
       "rounds": {
         "1": {
-          "name": ">ST06>Esmay R. [NL]",
+          "name": "Esmay R. [NL]",
           "result": "W",
           "table": 193
         },
@@ -412859,7 +412857,7 @@
       "drop": 7,
       "rounds": {
         "1": {
-          "name": ">ST04>rio v. [UK]",
+          "name": "rio v. [UK]",
           "result": "T",
           "table": 146
         },
@@ -414991,7 +414989,7 @@
           "table": 152
         },
         "3": {
-          "name": ">ST04>rio v. [UK]",
+          "name": "rio v. [UK]",
           "result": "W",
           "table": 173
         },
@@ -416692,7 +416690,7 @@
       "drop": 7,
       "rounds": {
         "1": {
-          "name": ">ST01-TCGJRSR>Nicole V. [UK]",
+          "name": "Nicole V. [UK]",
           "result": "W",
           "table": 114
         },
@@ -416932,7 +416930,7 @@
           "table": 202
         },
         "2": {
-          "name": ">ST05>Morgan M. [UK]",
+          "name": "Morgan M. [UK]",
           "result": "L",
           "table": 175
         },
@@ -417441,7 +417439,7 @@
       "flag": "UK"
     },
     {
-      "name": ">ST06>Esmay R.",
+      "name": "Esmay R.",
       "placing": 179,
       "record": {
         "wins": 2,
@@ -418186,7 +418184,7 @@
           "table": 193
         },
         "7": {
-          "name": ">ST06>Esmay R. [NL]",
+          "name": "Esmay R. [NL]",
           "result": "T",
           "table": 179
         }
@@ -418194,7 +418192,7 @@
       "flag": "UK"
     },
     {
-      "name": ">ST04>rio v.",
+      "name": "rio v.",
       "placing": 183,
       "record": {
         "wins": 2,
@@ -418230,7 +418228,7 @@
           "table": 194
         },
         "5": {
-          "name": ">ST01-TCGJRSR>Nicole V. [UK]",
+          "name": "Nicole V. [UK]",
           "result": "W",
           "table": 197
         },
@@ -421470,7 +421468,7 @@
           "table": 187
         },
         "3": {
-          "name": ">ST07>Joshua C. [UK]",
+          "name": "Joshua C. [UK]",
           "result": "W",
           "table": 185
         },
@@ -421490,7 +421488,7 @@
           "table": 163
         },
         "7": {
-          "name": ">ST05>Morgan M. [UK]",
+          "name": "Morgan M. [UK]",
           "result": "L",
           "table": 181
         }
@@ -421675,7 +421673,7 @@
           "table": 179
         },
         "3": {
-          "name": ">ST01-TCGJRSR>Nicole V. [UK]",
+          "name": "Nicole V. [UK]",
           "result": "W",
           "table": 203
         },
@@ -422121,7 +422119,7 @@
           "table": 173
         },
         "3": {
-          "name": ">ST06>Esmay R. [NL]",
+          "name": "Esmay R. [NL]",
           "result": "L",
           "table": 191
         },
@@ -423386,12 +423384,12 @@
           "table": 205
         },
         "5": {
-          "name": ">ST07>Joshua C. [UK]",
+          "name": "Joshua C. [UK]",
           "result": "W",
           "table": 201
         },
         "6": {
-          "name": ">ST04>rio v. [UK]",
+          "name": "rio v. [UK]",
           "result": "L",
           "table": 185
         },
@@ -423700,7 +423698,7 @@
           "table": 178
         },
         "4": {
-          "name": ">ST04>rio v. [UK]",
+          "name": "rio v. [UK]",
           "result": "W",
           "table": 194
         },
@@ -423968,7 +423966,7 @@
           "table": 199
         },
         "7": {
-          "name": ">ST01-TCGJRSR>Nicole V. [UK]",
+          "name": "Nicole V. [UK]",
           "result": "W",
           "table": 198
         }
@@ -425833,7 +425831,7 @@
           "table": 196
         },
         "6": {
-          "name": ">ST01-TCGJRSR>Nicole V. [UK]",
+          "name": "Nicole V. [UK]",
           "result": "W",
           "table": 201
         },
@@ -427602,7 +427600,7 @@
           "table": 180
         },
         "6": {
-          "name": ">ST06>Esmay R. [NL]",
+          "name": "Esmay R. [NL]",
           "result": "L",
           "table": 192
         },
@@ -428347,7 +428345,7 @@
       "flag": "UK"
     },
     {
-      "name": ">ST07>Joshua C.",
+      "name": "Joshua C.",
       "placing": 227,
       "record": {
         "wins": 0,
@@ -428378,7 +428376,7 @@
           "table": 185
         },
         "4": {
-          "name": ">ST01-TCGJRSR>Nicole V. [UK]",
+          "name": "Nicole V. [UK]",
           "result": "T",
           "table": 203
         },
@@ -428391,7 +428389,7 @@
       "flag": "UK"
     },
     {
-      "name": ">ST01-TCGJRSR>Nicole V.",
+      "name": "Nicole V.",
       "placing": 228,
       "record": {
         "wins": 0,
@@ -428422,12 +428420,12 @@
           "table": 203
         },
         "4": {
-          "name": ">ST07>Joshua C. [UK]",
+          "name": "Joshua C. [UK]",
           "result": "T",
           "table": 203
         },
         "5": {
-          "name": ">ST04>rio v. [UK]",
+          "name": "rio v. [UK]",
           "result": "L",
           "table": 197
         },
@@ -428861,8 +428859,7 @@
       "flag": "IT"
     }
   ],
-   "juniors": [
-    
+  "juniors": [
     {
       "name": "Joshua W.",
       "placing": 46,
@@ -430339,7 +430336,7 @@
           "table": 34
         },
         "6": {
-          "name": ">ST08>Austin K. [UK]",
+          "name": "Austin K. [UK]",
           "result": "W",
           "table": 31
         },
@@ -431030,7 +431027,7 @@
           "table": 12
         },
         "2": {
-          "name": ">ST09>Ernest P. [UK]",
+          "name": "Ernest P. [UK]",
           "result": "T",
           "table": 7
         },
@@ -431260,7 +431257,7 @@
       "drop": 7,
       "rounds": {
         "1": {
-          "name": ">ST02>Herbie C. [UK]",
+          "name": "Herbie C. [UK]",
           "result": "W",
           "table": 27
         },
@@ -431950,7 +431947,7 @@
           "table": 39
         },
         "4": {
-          "name": ">ST08>Austin K. [UK]",
+          "name": "Austin K. [UK]",
           "result": "L",
           "table": 55
         },
@@ -432184,7 +432181,7 @@
       "flag": "UK"
     },
     {
-      "name": ">ST08>Austin K.",
+      "name": "Austin K.",
       "placing": 60,
       "record": {
         "wins": 4,
@@ -432932,7 +432929,7 @@
           "table": 8
         },
         "4": {
-          "name": ">ST09>Ernest P. [UK]",
+          "name": "Ernest P. [UK]",
           "result": "W",
           "table": 10
         },
@@ -435157,7 +435154,7 @@
           "table": 70
         },
         "2": {
-          "name": ">ST02>Herbie C. [UK]",
+          "name": "Herbie C. [UK]",
           "result": "W",
           "table": 45
         },
@@ -435373,7 +435370,7 @@
           "table": 25
         },
         "3": {
-          "name": ">ST08>Austin K. [UK]",
+          "name": "Austin K. [UK]",
           "result": "W",
           "table": 55
         },
@@ -435393,7 +435390,7 @@
           "table": 12
         },
         "7": {
-          "name": ">ST09>Ernest P. [UK]",
+          "name": "Ernest P. [UK]",
           "result": "L",
           "table": 23
         }
@@ -437483,7 +437480,7 @@
           "table": 26
         },
         "2": {
-          "name": ">ST03>Finlay T. [UK]",
+          "name": "Finlay T. [UK]",
           "result": "T",
           "table": 59
         },
@@ -437703,7 +437700,7 @@
           "table": 56
         },
         "5": {
-          "name": ">ST03>Finlay T. [UK]",
+          "name": "Finlay T. [UK]",
           "result": "W",
           "table": 57
         },
@@ -439450,7 +439447,7 @@
           "table": 54
         },
         "5": {
-          "name": ">ST08>Austin K. [UK]",
+          "name": "Austin K. [UK]",
           "result": "L",
           "table": 33
         },
@@ -442245,12 +442242,12 @@
           "table": 45
         },
         "6": {
-          "name": ">ST02>Herbie C. [UK]",
+          "name": "Herbie C. [UK]",
           "result": "W",
           "table": 53
         },
         "7": {
-          "name": ">ST08>Austin K. [UK]",
+          "name": "Austin K. [UK]",
           "result": "L",
           "table": 35
         }
@@ -442734,7 +442731,7 @@
       "flag": "UK"
     },
     {
-      "name": ">ST02>Herbie C.",
+      "name": "Herbie C.",
       "placing": 106,
       "record": {
         "wins": 3,
@@ -443252,7 +443249,7 @@
           "table": 18
         },
         "5": {
-          "name": ">ST09>Ernest P. [UK]",
+          "name": "Ernest P. [UK]",
           "result": "L",
           "table": 23
         },
@@ -444711,7 +444708,7 @@
           "table": 58
         },
         "4": {
-          "name": ">ST03>Finlay T. [UK]",
+          "name": "Finlay T. [UK]",
           "result": "W",
           "table": 38
         },
@@ -446767,7 +446764,7 @@
           "table": 74
         },
         "3": {
-          "name": ">ST02>Herbie C. [UK]",
+          "name": "Herbie C. [UK]",
           "result": "W",
           "table": 66
         },
@@ -447739,7 +447736,7 @@
           "table": 50
         },
         "7": {
-          "name": ">ST02>Herbie C. [UK]",
+          "name": "Herbie C. [UK]",
           "result": "L",
           "table": 58
         }
@@ -449087,7 +449084,7 @@
       "drop": 7,
       "rounds": {
         "1": {
-          "name": ">ST09>Ernest P. [UK]",
+          "name": "Ernest P. [UK]",
           "result": "L",
           "table": 8
         },
@@ -450553,7 +450550,7 @@
           "table": 74
         },
         "5": {
-          "name": ">ST02>Herbie C. [UK]",
+          "name": "Herbie C. [UK]",
           "result": "L",
           "table": 70
         },
@@ -451281,7 +451278,7 @@
       "flag": "UK"
     },
     {
-      "name": ">ST03>Finlay T.",
+      "name": "Finlay T.",
       "placing": 143,
       "record": {
         "wins": 1,
@@ -451510,7 +451507,7 @@
       "drop": 7,
       "rounds": {
         "1": {
-          "name": ">ST08>Austin K. [UK]",
+          "name": "Austin K. [UK]",
           "result": "W",
           "table": 20
         },
@@ -451997,7 +451994,7 @@
           "table": 79
         },
         "4": {
-          "name": ">ST02>Herbie C. [UK]",
+          "name": "Herbie C. [UK]",
           "result": "L",
           "table": 78
         },
@@ -453158,7 +453155,7 @@
           "table": 5
         },
         "2": {
-          "name": ">ST08>Austin K. [UK]",
+          "name": "Austin K. [UK]",
           "result": "L",
           "table": 79
         },
@@ -453630,7 +453627,7 @@
           "table": 73
         },
         "3": {
-          "name": ">ST03>Finlay T. [UK]",
+          "name": "Finlay T. [UK]",
           "result": "L",
           "table": 62
         },
