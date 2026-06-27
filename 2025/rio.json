@@ -1,6 +1,5 @@
 {
-    "masters": [
-   
+  "masters": [
     {
       "name": "Francisco Toloza",
       "placing": 198,
@@ -22215,7 +22214,7 @@
           "table": 300
         },
         "2": {
-          "name": ">TABLE 1 Talissa Silva[BR]",
+          "name": "Talissa Silva[BR]",
           "result": "T",
           "table": 511
         },
@@ -30693,7 +30692,7 @@
           "table": 490
         },
         "2": {
-          "name": ">TABLE 3 Luisa Duarte [BR]",
+          "name": "Luisa Duarte [BR]",
           "result": "W",
           "table": 521
         },
@@ -67265,7 +67264,7 @@
       "drop": 8,
       "rounds": {
         "1": {
-          "name": ">TABLE 1 Talissa Silva[BR]",
+          "name": "Talissa Silva[BR]",
           "result": "W",
           "table": 551
         },
@@ -126735,7 +126734,7 @@
       "drop": 8,
       "rounds": {
         "1": {
-          "name": ">TABLE 3 Luisa Duarte [BR]",
+          "name": "Luisa Duarte [BR]",
           "result": "W",
           "table": 262
         },
@@ -155227,7 +155226,7 @@
           "table": 414
         },
         "3": {
-          "name": ">TABLE 3 Luisa Duarte [BR]",
+          "name": "Luisa Duarte [BR]",
           "result": "W",
           "table": 532
         },
@@ -206243,7 +206242,8 @@
       "flag": "BR"
     },
     {
-      "name": ">TABLE 1 Talissa Silva[BR]",
+      "name": "Talissa Silva",
+      "flag": "BR",
       "placing": 1064,
       "record": {
         "wins": 0,
@@ -219864,7 +219864,7 @@
       "flag": "BR"
     },
     {
-      "name": ">TABLE 3 Luisa Duarte",
+      "name": "Luisa Duarte",
       "placing": 1129,
       "record": {
         "wins": 0,
@@ -221862,7 +221862,6 @@
     }
   ],
   "seniors": [
-    
     {
       "name": "Alberto G.",
       "placing": 36,
@@ -231575,7 +231574,6 @@
     }
   ],
   "juniors": [
-    
     {
       "name": "Kenneth C.",
       "placing": 31,
