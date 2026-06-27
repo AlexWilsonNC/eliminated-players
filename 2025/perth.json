@@ -1,6 +1,5 @@
 {
-    "masters": [
-    
+  "masters": [
     {
       "name": "Dylan van der Riet",
       "placing": 56,
@@ -1902,7 +1901,7 @@
           "table": 129
         },
         "2": {
-          "name": "STATIC SEATING (30) Edin Visca",
+          "name": "Edin Visca",
           "result": "T",
           "table": 49
         },
@@ -6567,175 +6566,175 @@
         "oppopp": 0.5250651041666666
       },
       "decklist": {
-  "pokemon": [
-    {
-      "count": 2,
-      "name": "Gardevoir ex",
-      "set": "SVI",
-      "number": "86"
-    },
-    {
-      "count": 4,
-      "name": "Kirlia",
-      "set": "SIT",
-      "number": "68"
-    },
-    {
-      "count": 4,
-      "name": "Ralts",
-      "set": "ASR",
-      "number": "60"
-    },
-    {
-      "count": 2,
-      "name": "Munkidori",
-      "set": "TWM",
-      "number": "95"
-    },
-    {
-      "count": 1,
-      "name": "Klefki",
-      "set": "SVI",
-      "number": "96"
-    },
-    {
-      "count": 1,
-      "name": "Drifloon",
-      "set": "SVI",
-      "number": "89"
-    },
-    {
-      "count": 1,
-      "name": "Scream Tail",
-      "set": "PAR",
-      "number": "86"
-    },
-    {
-      "count": 1,
-      "name": "Flutter Mane",
-      "set": "TEF",
-      "number": "78"
-    },
-    {
-      "count": 1,
-      "name": "Manaphy",
-      "set": "BRS",
-      "number": "41"
-    }
-  ],
-  "trainer": [
-    {
-      "count": 4,
-      "name": "Arven",
-      "set": "OBF",
-      "number": "186"
-    },
-    {
-      "count": 3,
-      "name": "Iono",
-      "set": "PAL",
-      "number": "185"
-    },
-    {
-      "count": 1,
-      "name": "Professor Turo's Scenario",
-      "set": "PAR",
-      "number": "171"
-    },
-    {
-      "count": 1,
-      "name": "Boss's Orders",
-      "set": "PAL",
-      "number": "172"
-    },
-    {
-      "count": 4,
-      "name": "Buddy-Buddy Poffin",
-      "set": "TEF",
-      "number": "144"
-    },
-    {
-      "count": 3,
-      "name": "Earthen Vessel",
-      "set": "PAR",
-      "number": "163"
-    },
-    {
-      "count": 2,
-      "name": "Counter Catcher",
-      "set": "PAR",
-      "number": "160"
-    },
-    {
-      "count": 2,
-      "name": "Ultra Ball",
-      "set": "SVI",
-      "number": "196"
-    },
-    {
-      "count": 2,
-      "name": "Super Rod",
-      "set": "PAL",
-      "number": "188"
-    },
-    {
-      "count": 1,
-      "name": "Pokégear 3.0",
-      "set": "SVI",
-      "number": "186"
-    },
-    {
-      "count": 1,
-      "name": "Hisuian Heavy Ball",
-      "set": "ASR",
-      "number": "146"
-    },
-    {
-      "count": 1,
-      "name": "Unfair Stamp",
-      "set": "TWM",
-      "number": "165"
-    },
-    {
-      "count": 2,
-      "name": "Technical Machine: Devolution",
-      "set": "PAR",
-      "number": "177"
-    },
-    {
-      "count": 2,
-      "name": "Technical Machine: Evolution",
-      "set": "PAR",
-      "number": "178"
-    },
-    {
-      "count": 2,
-      "name": "Bravery Charm",
-      "set": "PAL",
-      "number": "173"
-    },
-    {
-      "count": 2,
-      "name": "Artazon",
-      "set": "PAL",
-      "number": "171"
-    }
-  ],
-  "energy": [
-    {
-      "count": 7,
-      "name": "Basic Psychic Energy",
-      "set": "SVE",
-      "number": "5"
-    },
-    {
-      "count": 3,
-      "name": "Basic Darkness Energy",
-      "set": "SVE",
-      "number": "7"
-    }
-  ]
-},
+        "pokemon": [
+          {
+            "count": 2,
+            "name": "Gardevoir ex",
+            "set": "SVI",
+            "number": "86"
+          },
+          {
+            "count": 4,
+            "name": "Kirlia",
+            "set": "SIT",
+            "number": "68"
+          },
+          {
+            "count": 4,
+            "name": "Ralts",
+            "set": "ASR",
+            "number": "60"
+          },
+          {
+            "count": 2,
+            "name": "Munkidori",
+            "set": "TWM",
+            "number": "95"
+          },
+          {
+            "count": 1,
+            "name": "Klefki",
+            "set": "SVI",
+            "number": "96"
+          },
+          {
+            "count": 1,
+            "name": "Drifloon",
+            "set": "SVI",
+            "number": "89"
+          },
+          {
+            "count": 1,
+            "name": "Scream Tail",
+            "set": "PAR",
+            "number": "86"
+          },
+          {
+            "count": 1,
+            "name": "Flutter Mane",
+            "set": "TEF",
+            "number": "78"
+          },
+          {
+            "count": 1,
+            "name": "Manaphy",
+            "set": "BRS",
+            "number": "41"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Arven",
+            "set": "OBF",
+            "number": "186"
+          },
+          {
+            "count": 3,
+            "name": "Iono",
+            "set": "PAL",
+            "number": "185"
+          },
+          {
+            "count": 1,
+            "name": "Professor Turo's Scenario",
+            "set": "PAR",
+            "number": "171"
+          },
+          {
+            "count": 1,
+            "name": "Boss's Orders",
+            "set": "PAL",
+            "number": "172"
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "set": "TEF",
+            "number": "144"
+          },
+          {
+            "count": 3,
+            "name": "Earthen Vessel",
+            "set": "PAR",
+            "number": "163"
+          },
+          {
+            "count": 2,
+            "name": "Counter Catcher",
+            "set": "PAR",
+            "number": "160"
+          },
+          {
+            "count": 2,
+            "name": "Ultra Ball",
+            "set": "SVI",
+            "number": "196"
+          },
+          {
+            "count": 2,
+            "name": "Super Rod",
+            "set": "PAL",
+            "number": "188"
+          },
+          {
+            "count": 1,
+            "name": "Pokégear 3.0",
+            "set": "SVI",
+            "number": "186"
+          },
+          {
+            "count": 1,
+            "name": "Hisuian Heavy Ball",
+            "set": "ASR",
+            "number": "146"
+          },
+          {
+            "count": 1,
+            "name": "Unfair Stamp",
+            "set": "TWM",
+            "number": "165"
+          },
+          {
+            "count": 2,
+            "name": "Technical Machine: Devolution",
+            "set": "PAR",
+            "number": "177"
+          },
+          {
+            "count": 2,
+            "name": "Technical Machine: Evolution",
+            "set": "PAR",
+            "number": "178"
+          },
+          {
+            "count": 2,
+            "name": "Bravery Charm",
+            "set": "PAL",
+            "number": "173"
+          },
+          {
+            "count": 2,
+            "name": "Artazon",
+            "set": "PAL",
+            "number": "171"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Psychic Energy",
+            "set": "SVE",
+            "number": "13",
+            "count": 7
+          },
+          {
+            "name": "Basic Darkness Energy",
+            "set": "SVE",
+            "number": "15",
+            "count": 3
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -9468,7 +9467,7 @@
           "table": 42
         },
         "8": {
-          "name": "STATIC SEATING (30) Edin Visca",
+          "name": "Edin Visca",
           "result": "L",
           "table": 34
         }
@@ -39288,7 +39287,7 @@
       "drop": 8,
       "rounds": {
         "1": {
-          "name": "STATIC SEATING (30) Edin Visca",
+          "name": "Edin Visca",
           "result": "L",
           "table": 147
         },
@@ -39796,7 +39795,7 @@
           "table": 87
         },
         "3": {
-          "name": "STATIC SEATING (30) Edin Visca",
+          "name": "Edin Visca",
           "result": "L",
           "table": 45
         },
@@ -62137,7 +62136,6 @@
     }
   ],
   "seniors": [
-    
     {
       "name": "Elijah S.",
       "placing": 8,
@@ -75068,7 +75066,6 @@
     }
   ],
   "juniors": [
-    
     {
       "name": "Sebastian L.",
       "placing": 9,
