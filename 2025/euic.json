@@ -12299,175 +12299,175 @@
         "oppopp": 0.5599507292628986
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 2,
-            "name": "Miraidon ex",
-            "number": "94",
-            "set": "SV1V"
-          },
-          {
-            "count": 2,
-            "name": "Iron Hands ex",
-            "number": "79",
-            "set": "SV4M"
-          },
-          {
-            "name": "Magneton",
-            "set": "SSP",
-            "number": "59",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Magnemite",
-            "number": "58",
-            "set": "SSP"
-          },
-          {
-            "count": 1,
-            "name": "Raikou V",
-            "number": "218",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Raichu V",
-            "number": "106",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Squawkabilly ex",
-            "number": "337",
-            "set": "SVI"
-          },
-          {
-            "count": 1,
-            "name": "Mew ex",
-            "number": "327",
-            "set": "SVI"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "104",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Iron Bundle",
-            "number": "71",
-            "set": "SV4M"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 2,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Roxanne",
-            "number": "150",
-            "set": "ASR"
-          },
-          {
-            "count": 4,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 4,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Electric Generator",
-            "number": "79",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Switch Cart",
-            "number": "154",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Prime Catcher - ACESPEC",
-            "number": "119",
-            "set": "PRE"
-          },
-          {
-            "count": 2,
-            "name": "Bravery Charm",
-            "number": "173",
-            "set": "PAL"
-          },
-          {
-            "count": 2,
-            "name": "Forest Seal Stone",
-            "number": "156",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Rescue Board",
-            "number": "126",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Town Store",
-            "number": "196",
-            "set": "OBF"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Lightning Energy",
-            "set": "SVE",
-            "number": "12",
-            "count": 15
-          },
-          {
-            "name": "Double Turbo Energy",
-            "set": "BRS",
-            "number": "151",
-            "count": 2
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 2,
+      "name": "Miraidon ex",
+      "set": "SVI",
+      "number": "81"
+    },
+    {
+      "count": 2,
+      "name": "Iron Hands ex",
+      "set": "PAR",
+      "number": "70"
+    },
+    {
+      "count": 1,
+      "name": "Magneton",
+      "set": "SSP",
+      "number": "59"
+    },
+    {
+      "count": 1,
+      "name": "Magnemite",
+      "set": "SSP",
+      "number": "58"
+    },
+    {
+      "count": 1,
+      "name": "Raikou V",
+      "set": "BRS",
+      "number": "48"
+    },
+    {
+      "count": 1,
+      "name": "Raichu V",
+      "set": "BRS",
+      "number": "45"
+    },
+    {
+      "count": 1,
+      "name": "Squawkabilly ex",
+      "set": "PAL",
+      "number": "169"
+    },
+    {
+      "count": 1,
+      "name": "Mew ex",
+      "set": "MEW",
+      "number": "151"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Iron Bundle",
+      "set": "PAR",
+      "number": "56"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 2,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 1,
+      "name": "Roxanne",
+      "set": "ASR",
+      "number": "150"
+    },
+    {
+      "count": 4,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 4,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 4,
+      "name": "Electric Generator",
+      "set": "SVI",
+      "number": "170"
+    },
+    {
+      "count": 2,
+      "name": "Switch Cart",
+      "set": "ASR",
+      "number": "154"
+    },
+    {
+      "count": 1,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 1,
+      "name": "Prime Catcher",
+      "set": "TEF",
+      "number": "157"
+    },
+    {
+      "count": 2,
+      "name": "Bravery Charm",
+      "set": "PAL",
+      "number": "173"
+    },
+    {
+      "count": 2,
+      "name": "Forest Seal Stone",
+      "set": "SIT",
+      "number": "156"
+    },
+    {
+      "count": 1,
+      "name": "Rescue Board",
+      "set": "TEF",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Town Store",
+      "set": "OBF",
+      "number": "196"
+    }
+  ],
+  "energy": [
+    {
+      "count": 15,
+      "name": "Basic Lightning Energy",
+      "set": "SVE",
+      "number": "4"
+    },
+    {
+      "count": 2,
+      "name": "Double Turbo Energy",
+      "set": "BRS",
+      "number": "151"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -27680,199 +27680,199 @@
         "oppopp": 0.528000423420397
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 3,
-            "name": "Dragapult ex",
-            "number": "130",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Drakloak",
-            "number": "129",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Dreepy",
-            "number": "128",
-            "set": "TWM"
-          },
-          {
-            "count": 2,
-            "name": "Dusknoir",
-            "number": "20",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Dusclops",
-            "number": "19",
-            "set": "SFA"
-          },
-          {
-            "count": 2,
-            "name": "Duskull",
-            "number": "203",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Rotom V",
-            "number": "104",
-            "set": "S11"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "105",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Alakazam",
-            "number": "59",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 3,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Lance",
-            "number": "159",
-            "set": "SIT"
-          },
-          {
-            "count": 2,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Thorton",
-            "number": "167",
-            "set": "LOR"
-          },
-          {
-            "count": 4,
-            "name": "Buddy-Buddy Poffin",
-            "number": "101",
-            "set": "PRE"
-          },
-          {
-            "count": 3,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Rare Candy",
-            "number": "141",
-            "set": "CRZ"
-          },
-          {
-            "count": 2,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Lost Vacuum",
-            "number": "135",
-            "set": "CRZ"
-          },
-          {
-            "count": 1,
-            "name": "Bravery Charm",
-            "number": "173",
-            "set": "PAL"
-          },
-          {
-            "count": 1,
-            "name": "Rescue Board",
-            "number": "126",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Forest Seal Stone",
-            "number": "156",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Sparkling Crystal - ACESPEC",
-            "number": "129",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Collapsed Stadium",
-            "number": "137",
-            "set": "BRS"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Fire Energy",
-            "set": "SVE",
-            "number": "10",
-            "count": 3
-          },
-          {
-            "name": "Basic Psychic Energy",
-            "set": "SVE",
-            "number": "13",
-            "count": 3
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 3,
+      "name": "Dragapult ex",
+      "set": "TWM",
+      "number": "130"
+    },
+    {
+      "count": 4,
+      "name": "Drakloak",
+      "set": "TWM",
+      "number": "129"
+    },
+    {
+      "count": 4,
+      "name": "Dreepy",
+      "set": "TWM",
+      "number": "128"
+    },
+    {
+      "count": 2,
+      "name": "Dusknoir",
+      "set": "PRE",
+      "number": "37"
+    },
+    {
+      "count": 1,
+      "name": "Dusclops",
+      "set": "PRE",
+      "number": "36"
+    },
+    {
+      "count": 2,
+      "name": "Duskull",
+      "set": "BRS",
+      "number": "60"
+    },
+    {
+      "count": 1,
+      "name": "Rotom V",
+      "set": "LOR",
+      "number": "58"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Alakazam",
+      "set": "SIT",
+      "number": "59"
+    },
+    {
+      "count": 1,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 3,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 2,
+      "name": "Lance",
+      "set": "SIT",
+      "number": "159"
+    },
+    {
+      "count": 2,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 1,
+      "name": "Thorton",
+      "set": "LOR",
+      "number": "167"
+    },
+    {
+      "count": 4,
+      "name": "Buddy-Buddy Poffin",
+      "set": "TEF",
+      "number": "144"
+    },
+    {
+      "count": 3,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 2,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 2,
+      "name": "Rare Candy",
+      "set": "SVI",
+      "number": "191"
+    },
+    {
+      "count": 2,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 1,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 1,
+      "name": "Lost Vacuum",
+      "set": "LOR",
+      "number": "162"
+    },
+    {
+      "count": 1,
+      "name": "Bravery Charm",
+      "set": "PAL",
+      "number": "173"
+    },
+    {
+      "count": 1,
+      "name": "Rescue Board",
+      "set": "TEF",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Forest Seal Stone",
+      "set": "SIT",
+      "number": "156"
+    },
+    {
+      "count": 1,
+      "name": "Sparkling Crystal",
+      "set": "SCR",
+      "number": "142"
+    },
+    {
+      "count": 1,
+      "name": "Collapsed Stadium",
+      "set": "BRS",
+      "number": "137"
+    }
+  ],
+  "energy": [
+    {
+      "count": 3,
+      "name": "Basic Fire Energy",
+      "set": "SVE",
+      "number": "2"
+    },
+    {
+      "count": 3,
+      "name": "Basic Psychic Energy",
+      "set": "SVE",
+      "number": "5"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -45344,181 +45344,181 @@
         "oppopp": 0.5193486237087427
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 3,
-            "name": "Dragapult ex",
-            "number": "130",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Drakloak",
-            "number": "129",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Dreepy",
-            "number": "128",
-            "set": "TWM"
-          },
-          {
-            "count": 2,
-            "name": "Dusknoir",
-            "number": "20",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Dusclops",
-            "number": "19",
-            "set": "SFA"
-          },
-          {
-            "count": 3,
-            "name": "Duskull",
-            "number": "45",
-            "set": "S9"
-          },
-          {
-            "count": 2,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Alakazam",
-            "number": "5",
-            "set": "SVK"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "2",
-            "set": "SVK"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 3,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 3,
-            "name": "Lance",
-            "number": "159",
-            "set": "SIT"
-          },
-          {
-            "count": 2,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Crispin",
-            "number": "105",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Professor Turo's Scenario",
-            "number": "171",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Buddy-Buddy Poffin",
-            "number": "101",
-            "set": "PRE"
-          },
-          {
-            "count": 4,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 2,
-            "name": "Rare Candy",
-            "number": "141",
-            "set": "CRZ"
-          },
-          {
-            "count": 1,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Unfair Stamp - ACESPEC",
-            "number": "165",
-            "set": "TWM"
-          },
-          {
-            "count": 1,
-            "name": "Rescue Board",
-            "number": "126",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Forest Seal Stone",
-            "number": "156",
-            "set": "SIT"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Psychic Energy",
-            "set": "SVE",
-            "number": "13",
-            "count": 4
-          },
-          {
-            "name": "Basic Fire Energy",
-            "set": "SVE",
-            "number": "10",
-            "count": 3
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 3,
+      "name": "Dragapult ex",
+      "set": "TWM",
+      "number": "130"
+    },
+    {
+      "count": 4,
+      "name": "Drakloak",
+      "set": "TWM",
+      "number": "129"
+    },
+    {
+      "count": 4,
+      "name": "Dreepy",
+      "set": "TWM",
+      "number": "128"
+    },
+    {
+      "count": 2,
+      "name": "Dusknoir",
+      "set": "PRE",
+      "number": "37"
+    },
+    {
+      "count": 1,
+      "name": "Dusclops",
+      "set": "PRE",
+      "number": "36"
+    },
+    {
+      "count": 3,
+      "name": "Duskull",
+      "set": "BRS",
+      "number": "60"
+    },
+    {
+      "count": 2,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Alakazam",
+      "set": "SIT",
+      "number": "59"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 3,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 3,
+      "name": "Lance",
+      "set": "SIT",
+      "number": "159"
+    },
+    {
+      "count": 2,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 2,
+      "name": "Crispin",
+      "set": "SCR",
+      "number": "133"
+    },
+    {
+      "count": 1,
+      "name": "Professor Turo's Scenario",
+      "set": "PAR",
+      "number": "171"
+    },
+    {
+      "count": 1,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 4,
+      "name": "Buddy-Buddy Poffin",
+      "set": "TEF",
+      "number": "144"
+    },
+    {
+      "count": 4,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 2,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 2,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 2,
+      "name": "Rare Candy",
+      "set": "SVI",
+      "number": "191"
+    },
+    {
+      "count": 1,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 1,
+      "name": "Unfair Stamp",
+      "set": "TWM",
+      "number": "165"
+    },
+    {
+      "count": 1,
+      "name": "Rescue Board",
+      "set": "TEF",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Forest Seal Stone",
+      "set": "SIT",
+      "number": "156"
+    }
+  ],
+  "energy": [
+    {
+      "count": 4,
+      "name": "Basic Psychic Energy",
+      "set": "SVE",
+      "number": "5"
+    },
+    {
+      "count": 3,
+      "name": "Basic Fire Energy",
+      "set": "SVE",
+      "number": "2"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -68164,199 +68164,199 @@
         "oppopp": 0.5630316812939167
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 3,
-            "name": "Dragapult ex",
-            "number": "130",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Drakloak",
-            "number": "129",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Dreepy",
-            "number": "128",
-            "set": "TWM"
-          },
-          {
-            "count": 2,
-            "name": "Dusknoir",
-            "number": "20",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Dusclops",
-            "number": "19",
-            "set": "SFA"
-          },
-          {
-            "count": 2,
-            "name": "Duskull",
-            "number": "45",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "104",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Rotom V",
-            "number": "103",
-            "set": "S11"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Alakazam",
-            "number": "5",
-            "set": "SVK"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 3,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Lance",
-            "number": "159",
-            "set": "SIT"
-          },
-          {
-            "count": 2,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Thorton",
-            "number": "167",
-            "set": "LOR"
-          },
-          {
-            "count": 4,
-            "name": "Buddy-Buddy Poffin",
-            "number": "101",
-            "set": "PRE"
-          },
-          {
-            "count": 3,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Rare Candy",
-            "number": "141",
-            "set": "CRZ"
-          },
-          {
-            "count": 2,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Lost Vacuum",
-            "number": "135",
-            "set": "CRZ"
-          },
-          {
-            "count": 1,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Forest Seal Stone",
-            "number": "156",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Technical Machine: Evolution",
-            "number": "178",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Rescue Board",
-            "number": "126",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Sparkling Crystal - ACESPEC",
-            "number": "129",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Temple of Sinnoh",
-            "number": "155",
-            "set": "ASR"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Fire Energy",
-            "set": "SVE",
-            "number": "10",
-            "count": 3
-          },
-          {
-            "name": "Basic Psychic Energy",
-            "set": "SVE",
-            "number": "13",
-            "count": 3
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 3,
+      "name": "Dragapult ex",
+      "set": "TWM",
+      "number": "130"
+    },
+    {
+      "count": 4,
+      "name": "Drakloak",
+      "set": "TWM",
+      "number": "129"
+    },
+    {
+      "count": 4,
+      "name": "Dreepy",
+      "set": "TWM",
+      "number": "128"
+    },
+    {
+      "count": 2,
+      "name": "Dusknoir",
+      "set": "PRE",
+      "number": "37"
+    },
+    {
+      "count": 1,
+      "name": "Dusclops",
+      "set": "PRE",
+      "number": "36"
+    },
+    {
+      "count": 2,
+      "name": "Duskull",
+      "set": "BRS",
+      "number": "60"
+    },
+    {
+      "count": 1,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Rotom V",
+      "set": "LOR",
+      "number": "58"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Alakazam",
+      "set": "SIT",
+      "number": "59"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 3,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 2,
+      "name": "Lance",
+      "set": "SIT",
+      "number": "159"
+    },
+    {
+      "count": 2,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 1,
+      "name": "Thorton",
+      "set": "LOR",
+      "number": "167"
+    },
+    {
+      "count": 4,
+      "name": "Buddy-Buddy Poffin",
+      "set": "TEF",
+      "number": "144"
+    },
+    {
+      "count": 3,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 2,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 2,
+      "name": "Rare Candy",
+      "set": "SVI",
+      "number": "191"
+    },
+    {
+      "count": 2,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 1,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Lost Vacuum",
+      "set": "LOR",
+      "number": "162"
+    },
+    {
+      "count": 1,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 1,
+      "name": "Forest Seal Stone",
+      "set": "SIT",
+      "number": "156"
+    },
+    {
+      "count": 1,
+      "name": "Technical Machine: Evolution",
+      "set": "PAR",
+      "number": "178"
+    },
+    {
+      "count": 1,
+      "name": "Rescue Board",
+      "set": "TEF",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Sparkling Crystal",
+      "set": "SCR",
+      "number": "142"
+    },
+    {
+      "count": 1,
+      "name": "Temple of Sinnoh",
+      "set": "ASR",
+      "number": "155"
+    }
+  ],
+  "energy": [
+    {
+      "count": 3,
+      "name": "Basic Fire Energy",
+      "set": "SVE",
+      "number": "2"
+    },
+    {
+      "count": 3,
+      "name": "Basic Psychic Energy",
+      "set": "SVE",
+      "number": "5"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -102131,199 +102131,199 @@
         "oppopp": 0.5353052126200275
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 2,
-            "name": "Terapagos ex",
-            "number": "128",
-            "set": "SCR"
-          },
-          {
-            "count": 2,
-            "name": "Brute Bonnet",
-            "number": "123",
-            "set": "PAR"
-          },
-          {
-            "count": 2,
-            "name": "Squawkabilly ex",
-            "number": "154",
-            "set": "SVI"
-          },
-          {
-            "count": 2,
-            "name": "Lumineon V",
-            "number": "4",
-            "set": "SVHK"
-          },
-          {
-            "count": 2,
-            "name": "Latias ex",
-            "number": "76",
-            "set": "SSP"
-          },
-          {
-            "count": 1,
-            "name": "Klawf",
-            "number": "105",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Pecharunt",
-            "number": "149",
-            "set": "PR-SV"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Hisuian Sneasler",
-            "number": "123",
-            "set": "LOR"
-          },
-          {
-            "count": 1,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Oranguru V",
-            "number": "133",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Mew ex",
-            "number": "6",
-            "set": "SVK"
-          },
-          {
-            "count": 1,
-            "name": "Iron Valiant ex",
-            "number": "38",
-            "set": "SV4M"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 3,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Professor's Research",
-            "number": "147",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Kieran",
-            "number": "113",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 1,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "name": "Judge",
-            "set": "SVI",
-            "number": "176",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Carmine",
-            "number": "103",
-            "set": "PRE"
-          },
-          {
-            "count": 4,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 4,
-            "name": "Switch Cart",
-            "number": "154",
-            "set": "ASR"
-          },
-          {
-            "count": 2,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Hisuian Heavy Ball",
-            "number": "146",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Precious Trolley - ACESPEC",
-            "number": "185",
-            "set": "SSP"
-          },
-          {
-            "count": 3,
-            "name": "Binding Mochi",
-            "number": "95",
-            "set": "PRE"
-          },
-          {
-            "count": 2,
-            "name": "Forest Seal Stone",
-            "number": "156",
-            "set": "SIT"
-          },
-          {
-            "count": 2,
-            "name": "Ancient Booster Energy Capsule",
-            "number": "159",
-            "set": "PAR"
-          },
-          {
-            "count": 4,
-            "name": "Area Zero Underdepths",
-            "number": "94",
-            "set": "PRE"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Double Turbo Energy",
-            "set": "BRS",
-            "number": "151",
-            "count": 4
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 2,
+      "name": "Terapagos ex",
+      "set": "SCR",
+      "number": "128"
+    },
+    {
+      "count": 2,
+      "name": "Brute Bonnet",
+      "set": "PAR",
+      "number": "123"
+    },
+    {
+      "count": 2,
+      "name": "Squawkabilly ex",
+      "set": "PAL",
+      "number": "169"
+    },
+    {
+      "count": 2,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 2,
+      "name": "Latias ex",
+      "set": "SSP",
+      "number": "76"
+    },
+    {
+      "count": 1,
+      "name": "Klawf",
+      "set": "PAR",
+      "number": "105"
+    },
+    {
+      "count": 1,
+      "name": "Pecharunt",
+      "set": "PR-SV",
+      "number": "129"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Hisuian Sneasler",
+      "set": "LOR",
+      "number": "123"
+    },
+    {
+      "count": 1,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    },
+    {
+      "count": 1,
+      "name": "Oranguru V",
+      "set": "ASR",
+      "number": "133"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Mew ex",
+      "set": "MEW",
+      "number": "151"
+    },
+    {
+      "count": 1,
+      "name": "Iron Valiant ex",
+      "set": "PAR",
+      "number": "89"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 3,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 2,
+      "name": "Professor's Research",
+      "set": "JTG",
+      "number": "155"
+    },
+    {
+      "count": 2,
+      "name": "Kieran",
+      "set": "TWM",
+      "number": "154"
+    },
+    {
+      "count": 1,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 1,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 1,
+      "name": "Judge",
+      "set": "SVI",
+      "number": "176"
+    },
+    {
+      "count": 1,
+      "name": "Carmine",
+      "set": "TWM",
+      "number": "145"
+    },
+    {
+      "count": 4,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 4,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 4,
+      "name": "Switch Cart",
+      "set": "ASR",
+      "number": "154"
+    },
+    {
+      "count": 2,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Hisuian Heavy Ball",
+      "set": "ASR",
+      "number": "146"
+    },
+    {
+      "count": 1,
+      "name": "Precious Trolley",
+      "set": "SSP",
+      "number": "185"
+    },
+    {
+      "count": 3,
+      "name": "Binding Mochi",
+      "set": "PRE",
+      "number": "95"
+    },
+    {
+      "count": 2,
+      "name": "Forest Seal Stone",
+      "set": "SIT",
+      "number": "156"
+    },
+    {
+      "count": 2,
+      "name": "Ancient Booster Energy Capsule",
+      "set": "TEF",
+      "number": "140"
+    },
+    {
+      "count": 4,
+      "name": "Area Zero Underdepths",
+      "set": "SCR",
+      "number": "131"
+    }
+  ],
+  "energy": [
+    {
+      "count": 4,
+      "name": "Double Turbo Energy",
+      "set": "BRS",
+      "number": "151"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -107801,193 +107801,193 @@
         "oppopp": 0.5444784755465972
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 4,
-            "name": "Snorlax",
-            "number": "56",
-            "set": "S10b"
-          },
-          {
-            "count": 2,
-            "name": "Rotom V",
-            "number": "103",
-            "set": "S11"
-          },
-          {
-            "count": 1,
-            "name": "Mimikyu",
-            "number": "341",
-            "set": "SVI"
-          },
-          {
-            "count": 1,
-            "name": "Mawile",
-            "number": "24",
-            "set": "S10D"
-          },
-          {
-            "count": 1,
-            "name": "Cornerstone Mask Ogerpon ex",
-            "number": "112",
-            "set": "TWM"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "name": "Penny",
-            "set": "SVI",
-            "number": "183",
-            "count": 3
-          },
-          {
-            "name": "Eri",
-            "set": "TEF",
-            "number": "146",
-            "count": 2
-          },
-          {
-            "count": 2,
-            "name": "Miss Fortune Sisters",
-            "number": "164",
-            "set": "LOR"
-          },
-          {
-            "count": 2,
-            "name": "Cyllene",
-            "number": "138",
-            "set": "ASR"
-          },
-          {
-            "count": 2,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 1,
-            "name": "Erika's Invitation",
-            "number": "160",
-            "set": "MEW"
-          },
-          {
-            "count": 1,
-            "name": "Giacomo",
-            "number": "182",
-            "set": "PAL"
-          },
-          {
-            "count": 1,
-            "name": "Xerosic's Machinations",
-            "number": "64",
-            "set": "SFA"
-          },
-          {
-            "count": 4,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "name": "Pokégear 3.0",
-            "set": "SVI",
-            "number": "186",
-            "count": 4
-          },
-          {
-            "count": 4,
-            "name": "Accompanying Flute",
-            "number": "142",
-            "set": "TWM"
-          },
-          {
-            "count": 2,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "name": "Pal Pad",
-            "set": "SVI",
-            "number": "182",
-            "count": 2
-          },
-          {
-            "count": 1,
-            "name": "Hisuian Heavy Ball",
-            "number": "146",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Lost Vacuum",
-            "number": "135",
-            "set": "CRZ"
-          },
-          {
-            "count": 1,
-            "name": "Precious Trolley - ACESPEC",
-            "number": "185",
-            "set": "SSP"
-          },
-          {
-            "count": 1,
-            "name": "Super Rod",
-            "number": "188",
-            "set": "PAL"
-          },
-          {
-            "count": 3,
-            "name": "Handheld Fan",
-            "number": "150",
-            "set": "TWM"
-          },
-          {
-            "count": 2,
-            "name": "Bravery Charm",
-            "number": "173",
-            "set": "PAL"
-          },
-          {
-            "count": 1,
-            "name": "Rescue Board",
-            "number": "126",
-            "set": "PRE"
-          },
-          {
-            "count": 3,
-            "name": "Temple of Sinnoh",
-            "number": "155",
-            "set": "ASR"
-          },
-          {
-            "name": "Artazon",
-            "set": "PAF",
-            "number": "76",
-            "count": 1
-          }
-        ],
-        "energy": [
-          {
-            "count": 2,
-            "name": "Mist Energy - Special",
-            "number": "161",
-            "set": "TEF"
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 4,
+      "name": "Snorlax",
+      "set": "PGO",
+      "number": "55"
+    },
+    {
+      "count": 2,
+      "name": "Rotom V",
+      "set": "LOR",
+      "number": "58"
+    },
+    {
+      "count": 1,
+      "name": "Mimikyu",
+      "set": "PAL",
+      "number": "97"
+    },
+    {
+      "count": 1,
+      "name": "Mawile",
+      "set": "LOR",
+      "number": "71"
+    },
+    {
+      "count": 1,
+      "name": "Cornerstone Mask Ogerpon ex",
+      "set": "TWM",
+      "number": "112"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 3,
+      "name": "Penny",
+      "set": "SVI",
+      "number": "183"
+    },
+    {
+      "count": 2,
+      "name": "Eri",
+      "set": "TEF",
+      "number": "146"
+    },
+    {
+      "count": 2,
+      "name": "Miss Fortune Sisters",
+      "set": "LOR",
+      "number": "164"
+    },
+    {
+      "count": 2,
+      "name": "Cyllene",
+      "set": "ASR",
+      "number": "138"
+    },
+    {
+      "count": 2,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 1,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 1,
+      "name": "Erika's Invitation",
+      "set": "MEW",
+      "number": "160"
+    },
+    {
+      "count": 1,
+      "name": "Giacomo",
+      "set": "PAL",
+      "number": "182"
+    },
+    {
+      "count": 1,
+      "name": "Xerosic's Machinations",
+      "set": "SFA",
+      "number": "64"
+    },
+    {
+      "count": 4,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 4,
+      "name": "Pokégear 3.0",
+      "set": "SVI",
+      "number": "186"
+    },
+    {
+      "count": 4,
+      "name": "Accompanying Flute",
+      "set": "TWM",
+      "number": "142"
+    },
+    {
+      "count": 2,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 2,
+      "name": "Pal Pad",
+      "set": "SVI",
+      "number": "182"
+    },
+    {
+      "count": 1,
+      "name": "Hisuian Heavy Ball",
+      "set": "ASR",
+      "number": "146"
+    },
+    {
+      "count": 1,
+      "name": "Lost Vacuum",
+      "set": "LOR",
+      "number": "162"
+    },
+    {
+      "count": 1,
+      "name": "Precious Trolley",
+      "set": "SSP",
+      "number": "185"
+    },
+    {
+      "count": 1,
+      "name": "Super Rod",
+      "set": "PAL",
+      "number": "188"
+    },
+    {
+      "count": 3,
+      "name": "Handheld Fan",
+      "set": "TWM",
+      "number": "150"
+    },
+    {
+      "count": 2,
+      "name": "Bravery Charm",
+      "set": "PAL",
+      "number": "173"
+    },
+    {
+      "count": 1,
+      "name": "Rescue Board",
+      "set": "TEF",
+      "number": "159"
+    },
+    {
+      "count": 3,
+      "name": "Temple of Sinnoh",
+      "set": "ASR",
+      "number": "155"
+    },
+    {
+      "count": 1,
+      "name": "Artazon",
+      "set": "PAL",
+      "number": "171"
+    }
+  ],
+  "energy": [
+    {
+      "count": 2,
+      "name": "Mist Energy",
+      "set": "TEF",
+      "number": "161"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -119955,175 +119955,175 @@
         "oppopp": 0.5715681951793061
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 4,
-            "name": "Comfey",
-            "number": "187",
-            "set": "ASR"
-          },
-          {
-            "count": 3,
-            "name": "Giratina V",
-            "number": "110",
-            "set": "S11"
-          },
-          {
-            "count": 3,
-            "name": "Giratina VSTAR",
-            "number": "125",
-            "set": "S11"
-          },
-          {
-            "count": 2,
-            "name": "Sableye",
-            "number": "44",
-            "set": "S11"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Greninja",
-            "number": "46",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Bloodmoon Ursaluna ex",
-            "number": "84",
-            "set": "SV5a"
-          },
-          {
-            "count": 1,
-            "name": "Munkidori",
-            "number": "95",
-            "set": "TWM"
-          },
-          {
-            "count": 1,
-            "name": "Regigigas",
-            "number": "86",
-            "set": "PRE"
-          }
-        ],
-        "trainer": [
-          {
-            "name": "Colress's Experiment",
-            "set": "LOR",
-            "number": "155",
-            "count": 4
-          },
-          {
-            "count": 2,
-            "name": "Crispin",
-            "number": "105",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Roxanne",
-            "number": "150",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 1,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 4,
-            "name": "Switch Cart",
-            "number": "154",
-            "set": "ASR"
-          },
-          {
-            "count": 4,
-            "name": "Mirage Gate",
-            "number": "163",
-            "set": "LOR"
-          },
-          {
-            "count": 3,
-            "name": "Super Rod",
-            "number": "188",
-            "set": "PAL"
-          },
-          {
-            "count": 2,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Lost Vacuum",
-            "number": "135",
-            "set": "CRZ"
-          },
-          {
-            "count": 1,
-            "name": "Unfair Stamp - ACESPEC",
-            "number": "165",
-            "set": "TWM"
-          },
-          {
-            "count": 1,
-            "name": "Rescue Board",
-            "number": "126",
-            "set": "PRE"
-          },
-          {
-            "name": "Artazon",
-            "set": "PAF",
-            "number": "76",
-            "count": 1
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Psychic Energy",
-            "set": "SVE",
-            "number": "13",
-            "count": 4
-          },
-          {
-            "name": "Basic Water Energy",
-            "set": "SVE",
-            "number": "11",
-            "count": 3
-          },
-          {
-            "name": "Basic Grass Energy",
-            "set": "SVE",
-            "number": "9",
-            "count": 2
-          },
-          {
-            "name": "Basic Darkness Energy",
-            "set": "SVE",
-            "number": "15",
-            "count": 2
-          },
-          {
-            "count": 3,
-            "name": "Jet Energy - Special",
-            "number": "190",
-            "set": "PAL"
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 4,
+      "name": "Comfey",
+      "set": "LOR",
+      "number": "79"
+    },
+    {
+      "count": 3,
+      "name": "Giratina VSTAR",
+      "set": "LOR",
+      "number": "131"
+    },
+    {
+      "count": 3,
+      "name": "Giratina V",
+      "set": "LOR",
+      "number": "130"
+    },
+    {
+      "count": 2,
+      "name": "Sableye",
+      "set": "LOR",
+      "number": "70"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Greninja",
+      "set": "ASR",
+      "number": "46"
+    },
+    {
+      "count": 1,
+      "name": "Bloodmoon Ursaluna ex",
+      "set": "TWM",
+      "number": "141"
+    },
+    {
+      "count": 1,
+      "name": "Munkidori",
+      "set": "TWM",
+      "number": "95"
+    },
+    {
+      "count": 1,
+      "name": "Regigigas",
+      "set": "PRE",
+      "number": "86"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Colress's Experiment",
+      "set": "LOR",
+      "number": "155"
+    },
+    {
+      "count": 2,
+      "name": "Crispin",
+      "set": "SCR",
+      "number": "133"
+    },
+    {
+      "count": 1,
+      "name": "Roxanne",
+      "set": "ASR",
+      "number": "150"
+    },
+    {
+      "count": 1,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 1,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 4,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 4,
+      "name": "Switch Cart",
+      "set": "ASR",
+      "number": "154"
+    },
+    {
+      "count": 4,
+      "name": "Mirage Gate",
+      "set": "LOR",
+      "number": "163"
+    },
+    {
+      "count": 3,
+      "name": "Super Rod",
+      "set": "PAL",
+      "number": "188"
+    },
+    {
+      "count": 2,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 1,
+      "name": "Lost Vacuum",
+      "set": "LOR",
+      "number": "162"
+    },
+    {
+      "count": 1,
+      "name": "Unfair Stamp",
+      "set": "TWM",
+      "number": "165"
+    },
+    {
+      "count": 1,
+      "name": "Rescue Board",
+      "set": "TEF",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Artazon",
+      "set": "PAL",
+      "number": "171"
+    }
+  ],
+  "energy": [
+    {
+      "count": 4,
+      "name": "Basic Psychic Energy",
+      "set": "SVE",
+      "number": "5"
+    },
+    {
+      "count": 3,
+      "name": "Basic Water Energy",
+      "set": "SVE",
+      "number": "3"
+    },
+    {
+      "count": 2,
+      "name": "Basic Grass Energy",
+      "set": "SVE",
+      "number": "1"
+    },
+    {
+      "count": 2,
+      "name": "Basic Darkness Energy",
+      "set": "SVE",
+      "number": "7"
+    },
+    {
+      "count": 3,
+      "name": "Jet Energy",
+      "set": "PAL",
+      "number": "190"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -125716,229 +125716,229 @@
         "oppopp": 0.5450185552616108
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 2,
-            "name": "Origin Forme Palkia VSTAR",
-            "number": "40",
-            "set": "ASR"
-          },
-          {
-            "count": 2,
-            "name": "Origin Forme Palkia V",
-            "number": "40",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Magneton",
-            "number": "59",
-            "set": "SSP"
-          },
-          {
-            "count": 1,
-            "name": "Magnemite",
-            "number": "58",
-            "set": "SSP"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Greninja",
-            "number": "6",
-            "set": "SVHK"
-          },
-          {
-            "count": 1,
-            "name": "Miraidon ex",
-            "number": "81",
-            "set": "SVI"
-          },
-          {
-            "count": 1,
-            "name": "Rotom V",
-            "number": "104",
-            "set": "S11"
-          },
-          {
-            "name": "Iron Hands ex",
-            "set": "PRE",
-            "number": "31",
-            "count": 1
-          },
-          {
-            "name": "Latias ex",
-            "set": "SSP",
-            "number": "76",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Squawkabilly ex",
-            "number": "169",
-            "set": "PAL"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "2",
-            "set": "SVK"
-          },
-          {
-            "count": 1,
-            "name": "Munkidori",
-            "number": "95",
-            "set": "TWM"
-          },
-          {
-            "count": 1,
-            "name": "Bloodmoon Ursaluna ex",
-            "number": "52",
-            "set": "SV5a"
-          },
-          {
-            "count": 1,
-            "name": "Wellspring Mask Ogerpon ex",
-            "number": "64",
-            "set": "TWM"
-          },
-          {
-            "name": "Terapagos ex",
-            "set": "PRE",
-            "number": "92",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 3,
-            "name": "Professor's Research",
-            "number": "147",
-            "set": "BRS"
-          },
-          {
-            "count": 3,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Irida",
-            "number": "147",
-            "set": "ASR"
-          },
-          {
-            "count": 2,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Kieran",
-            "number": "113",
-            "set": "PRE"
-          },
-          {
-            "count": 4,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 3,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Hisuian Heavy Ball",
-            "number": "146",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Lost Vacuum",
-            "number": "135",
-            "set": "CRZ"
-          },
-          {
-            "count": 1,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Super Rod",
-            "number": "188",
-            "set": "PAL"
-          },
-          {
-            "count": 1,
-            "name": "Prime Catcher - ACESPEC",
-            "number": "119",
-            "set": "PRE"
-          },
-          {
-            "count": 3,
-            "name": "Area Zero Underdepths",
-            "number": "94",
-            "set": "PRE"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Water Energy",
-            "set": "SVE",
-            "number": "11",
-            "count": 7
-          },
-          {
-            "name": "Basic Lightning Energy",
-            "set": "SVE",
-            "number": "12",
-            "count": 2
-          },
-          {
-            "name": "Basic Darkness Energy",
-            "set": "SVE",
-            "number": "15",
-            "count": 2
-          },
-          {
-            "count": 1,
-            "name": "Jet Energy - Special",
-            "number": "190",
-            "set": "PAL"
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 2,
+      "name": "Origin Forme Palkia VSTAR",
+      "set": "ASR",
+      "number": "40"
+    },
+    {
+      "count": 2,
+      "name": "Origin Forme Palkia V",
+      "set": "ASR",
+      "number": "39"
+    },
+    {
+      "count": 1,
+      "name": "Magneton",
+      "set": "SSP",
+      "number": "59"
+    },
+    {
+      "count": 1,
+      "name": "Magnemite",
+      "set": "SSP",
+      "number": "58"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Greninja",
+      "set": "ASR",
+      "number": "46"
+    },
+    {
+      "count": 1,
+      "name": "Miraidon ex",
+      "set": "SVI",
+      "number": "81"
+    },
+    {
+      "count": 1,
+      "name": "Rotom V",
+      "set": "LOR",
+      "number": "58"
+    },
+    {
+      "count": 1,
+      "name": "Iron Hands ex",
+      "set": "PAR",
+      "number": "70"
+    },
+    {
+      "count": 1,
+      "name": "Latias ex",
+      "set": "SSP",
+      "number": "76"
+    },
+    {
+      "count": 1,
+      "name": "Squawkabilly ex",
+      "set": "PAL",
+      "number": "169"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Munkidori",
+      "set": "TWM",
+      "number": "95"
+    },
+    {
+      "count": 1,
+      "name": "Bloodmoon Ursaluna ex",
+      "set": "TWM",
+      "number": "141"
+    },
+    {
+      "count": 1,
+      "name": "Wellspring Mask Ogerpon ex",
+      "set": "TWM",
+      "number": "64"
+    },
+    {
+      "count": 1,
+      "name": "Terapagos ex",
+      "set": "SCR",
+      "number": "128"
+    },
+    {
+      "count": 1,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 3,
+      "name": "Professor's Research",
+      "set": "JTG",
+      "number": "155"
+    },
+    {
+      "count": 3,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 2,
+      "name": "Irida",
+      "set": "ASR",
+      "number": "147"
+    },
+    {
+      "count": 2,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 1,
+      "name": "Kieran",
+      "set": "TWM",
+      "number": "154"
+    },
+    {
+      "count": 4,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 3,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 2,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 1,
+      "name": "Hisuian Heavy Ball",
+      "set": "ASR",
+      "number": "146"
+    },
+    {
+      "count": 1,
+      "name": "Lost Vacuum",
+      "set": "LOR",
+      "number": "162"
+    },
+    {
+      "count": 1,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 1,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Super Rod",
+      "set": "PAL",
+      "number": "188"
+    },
+    {
+      "count": 1,
+      "name": "Prime Catcher",
+      "set": "TEF",
+      "number": "157"
+    },
+    {
+      "count": 3,
+      "name": "Area Zero Underdepths",
+      "set": "SCR",
+      "number": "131"
+    }
+  ],
+  "energy": [
+    {
+      "count": 7,
+      "name": "Basic Water Energy",
+      "set": "SVE",
+      "number": "3"
+    },
+    {
+      "count": 2,
+      "name": "Basic Lightning Energy",
+      "set": "SVE",
+      "number": "4"
+    },
+    {
+      "count": 2,
+      "name": "Basic Darkness Energy",
+      "set": "SVE",
+      "number": "7"
+    },
+    {
+      "count": 1,
+      "name": "Jet Energy",
+      "set": "PAL",
+      "number": "190"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -164367,205 +164367,205 @@
         "oppopp": 0.5161663307298228
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 3,
-            "name": "Dragapult ex",
-            "number": "130",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Drakloak",
-            "number": "129",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Dreepy",
-            "number": "128",
-            "set": "TWM"
-          },
-          {
-            "count": 2,
-            "name": "Duskull",
-            "number": "57",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Dusknoir",
-            "number": "20",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Dusclops",
-            "number": "19",
-            "set": "SFA"
-          },
-          {
-            "count": 2,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Iron Bundle",
-            "number": "71",
-            "set": "SV4M"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "30",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Alakazam",
-            "number": "59",
-            "set": "SIT"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 3,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Lance",
-            "number": "159",
-            "set": "SIT"
-          },
-          {
-            "count": 2,
-            "name": "Crispin",
-            "number": "105",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Professor Turo's Scenario",
-            "number": "171",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Buddy-Buddy Poffin",
-            "number": "101",
-            "set": "PRE"
-          },
-          {
-            "count": 3,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Rare Candy",
-            "number": "141",
-            "set": "CRZ"
-          },
-          {
-            "count": 2,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 1,
-            "name": "Hisuian Heavy Ball",
-            "number": "146",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Unfair Stamp - ACESPEC",
-            "number": "165",
-            "set": "TWM"
-          },
-          {
-            "count": 1,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Super Rod",
-            "number": "188",
-            "set": "PAL"
-          },
-          {
-            "count": 1,
-            "name": "Rescue Board",
-            "number": "126",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Forest Seal Stone",
-            "number": "156",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Lost City",
-            "number": "161",
-            "set": "LOR"
-          },
-          {
-            "count": 1,
-            "name": "Temple of Sinnoh",
-            "number": "155",
-            "set": "ASR"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Fire Energy",
-            "set": "SVE",
-            "number": "10",
-            "count": 3
-          },
-          {
-            "name": "Basic Psychic Energy",
-            "set": "SVE",
-            "number": "13",
-            "count": 3
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 3,
+      "name": "Dragapult ex",
+      "set": "TWM",
+      "number": "130"
+    },
+    {
+      "count": 4,
+      "name": "Drakloak",
+      "set": "TWM",
+      "number": "129"
+    },
+    {
+      "count": 4,
+      "name": "Dreepy",
+      "set": "TWM",
+      "number": "128"
+    },
+    {
+      "count": 1,
+      "name": "Dusknoir",
+      "set": "PRE",
+      "number": "37"
+    },
+    {
+      "count": 1,
+      "name": "Dusclops",
+      "set": "PRE",
+      "number": "36"
+    },
+    {
+      "count": 2,
+      "name": "Duskull",
+      "set": "BRS",
+      "number": "60"
+    },
+    {
+      "count": 2,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    },
+    {
+      "count": 1,
+      "name": "Iron Bundle",
+      "set": "PAR",
+      "number": "56"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Alakazam",
+      "set": "SIT",
+      "number": "59"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 3,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 2,
+      "name": "Lance",
+      "set": "SIT",
+      "number": "159"
+    },
+    {
+      "count": 2,
+      "name": "Crispin",
+      "set": "SCR",
+      "number": "133"
+    },
+    {
+      "count": 1,
+      "name": "Professor Turo's Scenario",
+      "set": "PAR",
+      "number": "171"
+    },
+    {
+      "count": 1,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 4,
+      "name": "Buddy-Buddy Poffin",
+      "set": "TEF",
+      "number": "144"
+    },
+    {
+      "count": 3,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 2,
+      "name": "Rare Candy",
+      "set": "SVI",
+      "number": "191"
+    },
+    {
+      "count": 2,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 1,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 1,
+      "name": "Hisuian Heavy Ball",
+      "set": "ASR",
+      "number": "146"
+    },
+    {
+      "count": 1,
+      "name": "Unfair Stamp",
+      "set": "TWM",
+      "number": "165"
+    },
+    {
+      "count": 1,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Super Rod",
+      "set": "PAL",
+      "number": "188"
+    },
+    {
+      "count": 1,
+      "name": "Rescue Board",
+      "set": "TEF",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Forest Seal Stone",
+      "set": "SIT",
+      "number": "156"
+    },
+    {
+      "count": 1,
+      "name": "Lost City",
+      "set": "LOR",
+      "number": "161"
+    },
+    {
+      "count": 1,
+      "name": "Temple of Sinnoh",
+      "set": "ASR",
+      "number": "155"
+    }
+  ],
+  "energy": [
+    {
+      "count": 3,
+      "name": "Basic Fire Energy",
+      "set": "SVE",
+      "number": "2"
+    },
+    {
+      "count": 3,
+      "name": "Basic Psychic Energy",
+      "set": "SVE",
+      "number": "5"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -172130,181 +172130,181 @@
         "oppopp": 0.56610231026567
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 4,
-            "name": "Kirlia",
-            "number": "7",
-            "set": "SVF"
-          },
-          {
-            "count": 4,
-            "name": "Ralts",
-            "number": "60",
-            "set": "ASR"
-          },
-          {
-            "count": 2,
-            "name": "Gardevoir ex",
-            "number": "92",
-            "set": "SV1S"
-          },
-          {
-            "count": 2,
-            "name": "Munkidori",
-            "number": "95",
-            "set": "TWM"
-          },
-          {
-            "count": 1,
-            "name": "Flutter Mane",
-            "number": "78",
-            "set": "TEF"
-          },
-          {
-            "count": 1,
-            "name": "Scream Tail",
-            "number": "86",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Greninja",
-            "number": "3",
-            "set": "SVHM"
-          },
-          {
-            "count": 1,
-            "name": "Drifloon",
-            "number": "29",
-            "set": "SV1S"
-          },
-          {
-            "count": 1,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Klefki",
-            "number": "45",
-            "set": "SV1V"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 4,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Professor Turo's Scenario",
-            "number": "171",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Buddy-Buddy Poffin",
-            "number": "101",
-            "set": "PRE"
-          },
-          {
-            "count": 2,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "count": 2,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Hisuian Heavy Ball",
-            "number": "146",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Super Rod",
-            "number": "188",
-            "set": "PAL"
-          },
-          {
-            "count": 1,
-            "name": "Unfair Stamp - ACESPEC",
-            "number": "165",
-            "set": "TWM"
-          },
-          {
-            "count": 1,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 1,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 2,
-            "name": "Bravery Charm",
-            "number": "173",
-            "set": "PAL"
-          },
-          {
-            "count": 2,
-            "name": "Technical Machine: Evolution",
-            "number": "178",
-            "set": "PAR"
-          },
-          {
-            "name": "Artazon",
-            "set": "PAF",
-            "number": "76",
-            "count": 2
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Psychic Energy",
-            "set": "SVE",
-            "number": "13",
-            "count": 7
-          },
-          {
-            "name": "Basic Darkness Energy",
-            "set": "SVE",
-            "number": "15",
-            "count": 3
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 2,
+      "name": "Gardevoir ex",
+      "set": "SVI",
+      "number": "86"
+    },
+    {
+      "count": 4,
+      "name": "Kirlia",
+      "set": "SIT",
+      "number": "68"
+    },
+    {
+      "count": 4,
+      "name": "Ralts",
+      "set": "ASR",
+      "number": "60"
+    },
+    {
+      "count": 2,
+      "name": "Munkidori",
+      "set": "TWM",
+      "number": "95"
+    },
+    {
+      "count": 1,
+      "name": "Flutter Mane",
+      "set": "TEF",
+      "number": "78"
+    },
+    {
+      "count": 1,
+      "name": "Scream Tail",
+      "set": "PAR",
+      "number": "86"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Greninja",
+      "set": "ASR",
+      "number": "46"
+    },
+    {
+      "count": 1,
+      "name": "Drifloon",
+      "set": "SVI",
+      "number": "89"
+    },
+    {
+      "count": 1,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    },
+    {
+      "count": 1,
+      "name": "Klefki",
+      "set": "SVI",
+      "number": "96"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 4,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 2,
+      "name": "Professor Turo's Scenario",
+      "set": "PAR",
+      "number": "171"
+    },
+    {
+      "count": 1,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 4,
+      "name": "Buddy-Buddy Poffin",
+      "set": "TEF",
+      "number": "144"
+    },
+    {
+      "count": 2,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 2,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 2,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Hisuian Heavy Ball",
+      "set": "ASR",
+      "number": "146"
+    },
+    {
+      "count": 1,
+      "name": "Super Rod",
+      "set": "PAL",
+      "number": "188"
+    },
+    {
+      "count": 1,
+      "name": "Unfair Stamp",
+      "set": "TWM",
+      "number": "165"
+    },
+    {
+      "count": 1,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 1,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 2,
+      "name": "Bravery Charm",
+      "set": "PAL",
+      "number": "173"
+    },
+    {
+      "count": 2,
+      "name": "Technical Machine: Evolution",
+      "set": "PAR",
+      "number": "178"
+    },
+    {
+      "count": 2,
+      "name": "Artazon",
+      "set": "PAL",
+      "number": "171"
+    }
+  ],
+  "energy": [
+    {
+      "count": 7,
+      "name": "Basic Psychic Energy",
+      "set": "SVE",
+      "number": "5"
+    },
+    {
+      "count": 3,
+      "name": "Basic Darkness Energy",
+      "set": "SVE",
+      "number": "7"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -222690,193 +222690,193 @@
         "oppopp": 0.5011687802693093
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 3,
-            "name": "Dragapult ex",
-            "number": "130",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Drakloak",
-            "number": "129",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Dreepy",
-            "number": "128",
-            "set": "TWM"
-          },
-          {
-            "count": 2,
-            "name": "Dusknoir",
-            "number": "20",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Dusclops",
-            "number": "19",
-            "set": "SFA"
-          },
-          {
-            "count": 3,
-            "name": "Duskull",
-            "number": "45",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Alakazam",
-            "number": "59",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "2",
-            "set": "SVK"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Rotom V",
-            "number": "37",
-            "set": "S11"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 3,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Lance",
-            "number": "159",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Professor Turo's Scenario",
-            "number": "171",
-            "set": "PAR"
-          },
-          {
-            "count": 4,
-            "name": "Buddy-Buddy Poffin",
-            "number": "101",
-            "set": "PRE"
-          },
-          {
-            "count": 3,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Rare Candy",
-            "number": "141",
-            "set": "CRZ"
-          },
-          {
-            "count": 2,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 2,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Lost Vacuum",
-            "number": "135",
-            "set": "CRZ"
-          },
-          {
-            "count": 1,
-            "name": "Forest Seal Stone",
-            "number": "156",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Rescue Board",
-            "number": "126",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Sparkling Crystal - ACESPEC",
-            "number": "129",
-            "set": "PRE"
-          },
-          {
-            "name": "Artazon",
-            "set": "PAF",
-            "number": "76",
-            "count": 1
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Fire Energy",
-            "set": "SVE",
-            "number": "10",
-            "count": 3
-          },
-          {
-            "name": "Basic Psychic Energy",
-            "set": "SVE",
-            "number": "13",
-            "count": 3
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 3,
+      "name": "Dragapult ex",
+      "set": "TWM",
+      "number": "130"
+    },
+    {
+      "count": 4,
+      "name": "Drakloak",
+      "set": "TWM",
+      "number": "129"
+    },
+    {
+      "count": 4,
+      "name": "Dreepy",
+      "set": "TWM",
+      "number": "128"
+    },
+    {
+      "count": 2,
+      "name": "Dusknoir",
+      "set": "PRE",
+      "number": "37"
+    },
+    {
+      "count": 1,
+      "name": "Dusclops",
+      "set": "PRE",
+      "number": "36"
+    },
+    {
+      "count": 3,
+      "name": "Duskull",
+      "set": "BRS",
+      "number": "60"
+    },
+    {
+      "count": 1,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Alakazam",
+      "set": "SIT",
+      "number": "59"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Rotom V",
+      "set": "LOR",
+      "number": "58"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 3,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 2,
+      "name": "Lance",
+      "set": "SIT",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 1,
+      "name": "Professor Turo's Scenario",
+      "set": "PAR",
+      "number": "171"
+    },
+    {
+      "count": 4,
+      "name": "Buddy-Buddy Poffin",
+      "set": "TEF",
+      "number": "144"
+    },
+    {
+      "count": 3,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 2,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 2,
+      "name": "Rare Candy",
+      "set": "SVI",
+      "number": "191"
+    },
+    {
+      "count": 2,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 2,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 1,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 1,
+      "name": "Lost Vacuum",
+      "set": "LOR",
+      "number": "162"
+    },
+    {
+      "count": 1,
+      "name": "Forest Seal Stone",
+      "set": "SIT",
+      "number": "156"
+    },
+    {
+      "count": 1,
+      "name": "Rescue Board",
+      "set": "TEF",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Sparkling Crystal",
+      "set": "SCR",
+      "number": "142"
+    },
+    {
+      "count": 1,
+      "name": "Artazon",
+      "set": "PAL",
+      "number": "171"
+    }
+  ],
+  "energy": [
+    {
+      "count": 3,
+      "name": "Basic Fire Energy",
+      "set": "SVE",
+      "number": "2"
+    },
+    {
+      "count": 3,
+      "name": "Basic Psychic Energy",
+      "set": "SVE",
+      "number": "5"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -231376,193 +231376,193 @@
         "oppopp": 0.48557221242406434
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 2,
-            "name": "Miraidon ex",
-            "number": "94",
-            "set": "SV1V"
-          },
-          {
-            "count": 2,
-            "name": "Iron Hands ex",
-            "number": "79",
-            "set": "SV4M"
-          },
-          {
-            "name": "Magneton",
-            "set": "SSP",
-            "number": "59",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Magnemite",
-            "number": "81",
-            "set": "SV2a"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Mew ex",
-            "number": "195",
-            "set": "SV2a"
-          },
-          {
-            "count": 1,
-            "name": "Squawkabilly ex",
-            "number": "89",
-            "set": "SV2P"
-          },
-          {
-            "count": 1,
-            "name": "Iron Bundle",
-            "number": "71",
-            "set": "SV4M"
-          },
-          {
-            "count": 1,
-            "name": "Raichu V",
-            "number": "106",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Raikou V",
-            "number": "218",
-            "set": "ASR"
-          },
-          {
-            "name": "Pikachu ex",
-            "set": "SSP",
-            "number": "57",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "216",
-            "set": "ASR"
-          },
-          {
-            "name": "Latias ex",
-            "set": "SSP",
-            "number": "76",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Rotom V",
-            "number": "104",
-            "set": "S11"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 3,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 3,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 4,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 4,
-            "name": "Electric Generator",
-            "number": "79",
-            "set": "PAF"
-          },
-          {
-            "count": 3,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Hisuian Heavy Ball",
-            "number": "146",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Switch Cart",
-            "number": "154",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Secret Box - ACESPEC",
-            "number": "163",
-            "set": "TWM"
-          },
-          {
-            "count": 2,
-            "name": "Forest Seal Stone",
-            "number": "156",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Rescue Board",
-            "number": "126",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Bravery Charm",
-            "number": "173",
-            "set": "PAL"
-          },
-          {
-            "count": 2,
-            "name": "Area Zero Underdepths",
-            "number": "94",
-            "set": "PRE"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Lightning Energy",
-            "set": "SVE",
-            "number": "12",
-            "count": 15
-          },
-          {
-            "name": "Double Turbo Energy",
-            "set": "BRS",
-            "number": "151",
-            "count": 1
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 2,
+      "name": "Miraidon ex",
+      "set": "SVI",
+      "number": "81"
+    },
+    {
+      "count": 2,
+      "name": "Iron Hands ex",
+      "set": "PAR",
+      "number": "70"
+    },
+    {
+      "count": 1,
+      "name": "Magneton",
+      "set": "SSP",
+      "number": "59"
+    },
+    {
+      "count": 1,
+      "name": "Magnemite",
+      "set": "MEW",
+      "number": "81"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Mew ex",
+      "set": "MEW",
+      "number": "151"
+    },
+    {
+      "count": 1,
+      "name": "Squawkabilly ex",
+      "set": "PAL",
+      "number": "169"
+    },
+    {
+      "count": 1,
+      "name": "Iron Bundle",
+      "set": "PAR",
+      "number": "56"
+    },
+    {
+      "count": 1,
+      "name": "Raichu V",
+      "set": "BRS",
+      "number": "45"
+    },
+    {
+      "count": 1,
+      "name": "Raikou V",
+      "set": "BRS",
+      "number": "48"
+    },
+    {
+      "count": 1,
+      "name": "Pikachu ex",
+      "set": "SSP",
+      "number": "57"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Latias ex",
+      "set": "SSP",
+      "number": "76"
+    },
+    {
+      "count": 1,
+      "name": "Rotom V",
+      "set": "LOR",
+      "number": "58"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 3,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 3,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 1,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 4,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 4,
+      "name": "Electric Generator",
+      "set": "SVI",
+      "number": "170"
+    },
+    {
+      "count": 3,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 1,
+      "name": "Hisuian Heavy Ball",
+      "set": "ASR",
+      "number": "146"
+    },
+    {
+      "count": 1,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Switch Cart",
+      "set": "ASR",
+      "number": "154"
+    },
+    {
+      "count": 1,
+      "name": "Secret Box",
+      "set": "TWM",
+      "number": "163"
+    },
+    {
+      "count": 2,
+      "name": "Forest Seal Stone",
+      "set": "SIT",
+      "number": "156"
+    },
+    {
+      "count": 1,
+      "name": "Rescue Board",
+      "set": "TEF",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Bravery Charm",
+      "set": "PAL",
+      "number": "173"
+    },
+    {
+      "count": 2,
+      "name": "Area Zero Underdepths",
+      "set": "SCR",
+      "number": "131"
+    }
+  ],
+  "energy": [
+    {
+      "count": 15,
+      "name": "Basic Lightning Energy",
+      "set": "SVE",
+      "number": "4"
+    },
+    {
+      "count": 1,
+      "name": "Double Turbo Energy",
+      "set": "BRS",
+      "number": "151"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -383585,157 +383585,157 @@
         "oppopp": 0.4951866549088771
       },
       "decklist": {
-        "pokemon": [
-          {
-            "name": "Archaludon ex",
-            "set": "SSP",
-            "number": "130",
-            "count": 4
-          },
-          {
-            "count": 4,
-            "name": "Duraludon",
-            "number": "69",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Origin Forme Dialga V",
-            "number": "74",
-            "set": "S10D"
-          },
-          {
-            "count": 1,
-            "name": "Origin Forme Dialga VSTAR",
-            "number": "86",
-            "set": "S10D"
-          },
-          {
-            "count": 1,
-            "name": "Relicanth",
-            "number": "84",
-            "set": "TEF"
-          },
-          {
-            "count": 1,
-            "name": "Iron Bundle",
-            "number": "71",
-            "set": "SV4M"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "104",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Greninja",
-            "number": "46",
-            "set": "ASR"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Professor's Research",
-            "number": "147",
-            "set": "BRS"
-          },
-          {
-            "count": 3,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 3,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Professor Turo's Scenario",
-            "number": "171",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Thorton",
-            "number": "167",
-            "set": "LOR"
-          },
-          {
-            "count": 4,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 4,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 3,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "name": "Pokégear 3.0",
-            "set": "SVI",
-            "number": "186",
-            "count": 2
-          },
-          {
-            "name": "Pal Pad",
-            "set": "SVI",
-            "number": "182",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Scoop Up Cyclone - ACESPEC",
-            "number": "128",
-            "set": "PRE"
-          },
-          {
-            "count": 2,
-            "name": "Jamming Tower",
-            "number": "153",
-            "set": "TWM"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Metal Energy",
-            "set": "SVE",
-            "number": "16",
-            "count": 10
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 4,
+      "name": "Archaludon ex",
+      "set": "SSP",
+      "number": "130"
+    },
+    {
+      "count": 4,
+      "name": "Duraludon",
+      "set": "SCR",
+      "number": "106"
+    },
+    {
+      "count": 1,
+      "name": "Origin Forme Dialga VSTAR",
+      "set": "ASR",
+      "number": "114"
+    },
+    {
+      "count": 1,
+      "name": "Origin Forme Dialga V",
+      "set": "ASR",
+      "number": "113"
+    },
+    {
+      "count": 1,
+      "name": "Relicanth",
+      "set": "TEF",
+      "number": "84"
+    },
+    {
+      "count": 1,
+      "name": "Iron Bundle",
+      "set": "PAR",
+      "number": "56"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Greninja",
+      "set": "ASR",
+      "number": "46"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Professor's Research",
+      "set": "JTG",
+      "number": "155"
+    },
+    {
+      "count": 3,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 3,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 2,
+      "name": "Professor Turo's Scenario",
+      "set": "PAR",
+      "number": "171"
+    },
+    {
+      "count": 1,
+      "name": "Thorton",
+      "set": "LOR",
+      "number": "167"
+    },
+    {
+      "count": 4,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 4,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 4,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 3,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 2,
+      "name": "Pokégear 3.0",
+      "set": "SVI",
+      "number": "186"
+    },
+    {
+      "count": 1,
+      "name": "Pal Pad",
+      "set": "SVI",
+      "number": "182"
+    },
+    {
+      "count": 1,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 1,
+      "name": "Scoop Up Cyclone",
+      "set": "TWM",
+      "number": "162"
+    },
+    {
+      "count": 2,
+      "name": "Jamming Tower",
+      "set": "TWM",
+      "number": "153"
+    }
+  ],
+  "energy": [
+    {
+      "count": 10,
+      "name": "Basic Metal Energy",
+      "set": "SVE",
+      "number": "8"
+    }
+  ]
+},
       "drop": 9,
       "rounds": {
         "1": {
@@ -424060,199 +424060,199 @@
         "oppopp": 0.5162037037037036
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 3,
-            "name": "Dragapult ex",
-            "number": "130",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Drakloak",
-            "number": "129",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Dreepy",
-            "number": "128",
-            "set": "TWM"
-          },
-          {
-            "count": 2,
-            "name": "Dusknoir",
-            "number": "20",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Dusclops",
-            "number": "19",
-            "set": "SFA"
-          },
-          {
-            "count": 2,
-            "name": "Duskull",
-            "number": "203",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "105",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Rotom V",
-            "number": "104",
-            "set": "S11"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Alakazam",
-            "number": "5",
-            "set": "SVK"
-          },
-          {
-            "count": 1,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 3,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Lance",
-            "number": "159",
-            "set": "SIT"
-          },
-          {
-            "count": 2,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Thorton",
-            "number": "167",
-            "set": "LOR"
-          },
-          {
-            "count": 4,
-            "name": "Buddy-Buddy Poffin",
-            "number": "101",
-            "set": "PRE"
-          },
-          {
-            "count": 3,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Rare Candy",
-            "number": "141",
-            "set": "CRZ"
-          },
-          {
-            "count": 2,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Lost Vacuum",
-            "number": "135",
-            "set": "CRZ"
-          },
-          {
-            "count": 1,
-            "name": "Sparkling Crystal - ACESPEC",
-            "number": "129",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Forest Seal Stone",
-            "number": "156",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Rescue Board",
-            "number": "126",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Technical Machine: Evolution",
-            "number": "178",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Temple of Sinnoh",
-            "number": "155",
-            "set": "ASR"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Fire Energy",
-            "set": "SVE",
-            "number": "10",
-            "count": 3
-          },
-          {
-            "name": "Basic Psychic Energy",
-            "set": "SVE",
-            "number": "13",
-            "count": 3
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 3,
+      "name": "Dragapult ex",
+      "set": "TWM",
+      "number": "130"
+    },
+    {
+      "count": 4,
+      "name": "Drakloak",
+      "set": "TWM",
+      "number": "129"
+    },
+    {
+      "count": 4,
+      "name": "Dreepy",
+      "set": "TWM",
+      "number": "128"
+    },
+    {
+      "count": 2,
+      "name": "Dusknoir",
+      "set": "PRE",
+      "number": "37"
+    },
+    {
+      "count": 1,
+      "name": "Dusclops",
+      "set": "PRE",
+      "number": "36"
+    },
+    {
+      "count": 2,
+      "name": "Duskull",
+      "set": "BRS",
+      "number": "60"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Rotom V",
+      "set": "LOR",
+      "number": "58"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Alakazam",
+      "set": "SIT",
+      "number": "59"
+    },
+    {
+      "count": 1,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 3,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 2,
+      "name": "Lance",
+      "set": "SIT",
+      "number": "159"
+    },
+    {
+      "count": 2,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 1,
+      "name": "Thorton",
+      "set": "LOR",
+      "number": "167"
+    },
+    {
+      "count": 4,
+      "name": "Buddy-Buddy Poffin",
+      "set": "TEF",
+      "number": "144"
+    },
+    {
+      "count": 3,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 2,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 2,
+      "name": "Rare Candy",
+      "set": "SVI",
+      "number": "191"
+    },
+    {
+      "count": 2,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 1,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 1,
+      "name": "Lost Vacuum",
+      "set": "LOR",
+      "number": "162"
+    },
+    {
+      "count": 1,
+      "name": "Sparkling Crystal",
+      "set": "SCR",
+      "number": "142"
+    },
+    {
+      "count": 1,
+      "name": "Forest Seal Stone",
+      "set": "SIT",
+      "number": "156"
+    },
+    {
+      "count": 1,
+      "name": "Rescue Board",
+      "set": "TEF",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Technical Machine: Evolution",
+      "set": "PAR",
+      "number": "178"
+    },
+    {
+      "count": 1,
+      "name": "Temple of Sinnoh",
+      "set": "ASR",
+      "number": "155"
+    }
+  ],
+  "energy": [
+    {
+      "count": 3,
+      "name": "Basic Fire Energy",
+      "set": "SVE",
+      "number": "2"
+    },
+    {
+      "count": 3,
+      "name": "Basic Psychic Energy",
+      "set": "SVE",
+      "number": "5"
+    }
+  ]
+},
       "drop": 6,
       "rounds": {
         "1": {
@@ -453991,151 +453991,151 @@
         "oppopp": 0.4818561710398445
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 4,
-            "name": "Archaludon ex",
-            "number": "130",
-            "set": "SSP"
-          },
-          {
-            "count": 4,
-            "name": "Duraludon",
-            "number": "106",
-            "set": "SCR"
-          },
-          {
-            "count": 2,
-            "name": "Origin Forme Dialga VSTAR",
-            "number": "114",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Origin Forme Dialga V",
-            "number": "114",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Squawkabilly ex",
-            "number": "154",
-            "set": "SVI"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Relicanth",
-            "number": "84",
-            "set": "TEF"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "8",
-            "set": "SVB"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Greninja",
-            "number": "46",
-            "set": "ASR"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Professor's Research",
-            "number": "147",
-            "set": "BRS"
-          },
-          {
-            "count": 3,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 3,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Professor Turo's Scenario",
-            "number": "171",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Thorton",
-            "number": "167",
-            "set": "LOR"
-          },
-          {
-            "count": 4,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 4,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 3,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "name": "Pal Pad",
-            "set": "SVI",
-            "number": "182",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Scoop Up Cyclone - ACESPEC",
-            "number": "128",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 3,
-            "name": "Jamming Tower",
-            "number": "153",
-            "set": "TWM"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Metal Energy",
-            "set": "SVE",
-            "number": "16",
-            "count": 10
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 4,
+      "name": "Archaludon ex",
+      "set": "SSP",
+      "number": "130"
+    },
+    {
+      "count": 4,
+      "name": "Duraludon",
+      "set": "SCR",
+      "number": "106"
+    },
+    {
+      "count": 2,
+      "name": "Origin Forme Dialga VSTAR",
+      "set": "ASR",
+      "number": "114"
+    },
+    {
+      "count": 1,
+      "name": "Origin Forme Dialga V",
+      "set": "ASR",
+      "number": "113"
+    },
+    {
+      "count": 1,
+      "name": "Squawkabilly ex",
+      "set": "PAL",
+      "number": "169"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Relicanth",
+      "set": "TEF",
+      "number": "84"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Greninja",
+      "set": "ASR",
+      "number": "46"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Professor's Research",
+      "set": "JTG",
+      "number": "155"
+    },
+    {
+      "count": 3,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 3,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 2,
+      "name": "Professor Turo's Scenario",
+      "set": "PAR",
+      "number": "171"
+    },
+    {
+      "count": 1,
+      "name": "Thorton",
+      "set": "LOR",
+      "number": "167"
+    },
+    {
+      "count": 4,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 4,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 4,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 3,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 1,
+      "name": "Pal Pad",
+      "set": "SVI",
+      "number": "182"
+    },
+    {
+      "count": 1,
+      "name": "Scoop Up Cyclone",
+      "set": "TWM",
+      "number": "162"
+    },
+    {
+      "count": 1,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 3,
+      "name": "Jamming Tower",
+      "set": "TWM",
+      "number": "153"
+    }
+  ],
+  "energy": [
+    {
+      "count": 10,
+      "name": "Basic Metal Energy",
+      "set": "SVE",
+      "number": "8"
+    }
+  ]
+},
       "drop": 7,
       "rounds": {
         "1": {
@@ -510966,139 +510966,139 @@
         "oppopp": 0.49800777453838674
       },
       "decklist": {
-        "pokemon": [
-          {
-            "name": "Archaludon ex",
-            "set": "SSP",
-            "number": "130",
-            "count": 4
-          },
-          {
-            "count": 4,
-            "name": "Duraludon",
-            "number": "106",
-            "set": "SCR"
-          },
-          {
-            "count": 2,
-            "name": "Origin Forme Dialga VSTAR",
-            "number": "86",
-            "set": "S10D"
-          },
-          {
-            "count": 2,
-            "name": "Origin Forme Dialga V",
-            "number": "74",
-            "set": "S10D"
-          },
-          {
-            "count": 1,
-            "name": "Iron Bundle",
-            "number": "71",
-            "set": "SV4M"
-          },
-          {
-            "count": 1,
-            "name": "Relicanth",
-            "number": "84",
-            "set": "TEF"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Greninja",
-            "number": "46",
-            "set": "ASR"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Professor's Research",
-            "number": "147",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 3,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Professor Turo's Scenario",
-            "number": "171",
-            "set": "PAR"
-          },
-          {
-            "count": 4,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 4,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 3,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "name": "Pokégear 3.0",
-            "set": "SVI",
-            "number": "186",
-            "count": 3
-          },
-          {
-            "count": 1,
-            "name": "Scoop Up Cyclone - ACESPEC",
-            "number": "128",
-            "set": "PRE"
-          },
-          {
-            "name": "Pal Pad",
-            "set": "SVI",
-            "number": "182",
-            "count": 1
-          },
-          {
-            "count": 2,
-            "name": "Jamming Tower",
-            "number": "153",
-            "set": "TWM"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Metal Energy",
-            "set": "SVE",
-            "number": "16",
-            "count": 9
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 4,
+      "name": "Archaludon ex",
+      "set": "SSP",
+      "number": "130"
+    },
+    {
+      "count": 4,
+      "name": "Duraludon",
+      "set": "SCR",
+      "number": "106"
+    },
+    {
+      "count": 2,
+      "name": "Origin Forme Dialga VSTAR",
+      "set": "ASR",
+      "number": "114"
+    },
+    {
+      "count": 2,
+      "name": "Origin Forme Dialga V",
+      "set": "ASR",
+      "number": "113"
+    },
+    {
+      "count": 1,
+      "name": "Iron Bundle",
+      "set": "PAR",
+      "number": "56"
+    },
+    {
+      "count": 1,
+      "name": "Relicanth",
+      "set": "TEF",
+      "number": "84"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Greninja",
+      "set": "ASR",
+      "number": "46"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Professor's Research",
+      "set": "JTG",
+      "number": "155"
+    },
+    {
+      "count": 4,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 3,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 2,
+      "name": "Professor Turo's Scenario",
+      "set": "PAR",
+      "number": "171"
+    },
+    {
+      "count": 4,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 4,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 4,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 3,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 3,
+      "name": "Pokégear 3.0",
+      "set": "SVI",
+      "number": "186"
+    },
+    {
+      "count": 1,
+      "name": "Scoop Up Cyclone",
+      "set": "TWM",
+      "number": "162"
+    },
+    {
+      "count": 1,
+      "name": "Pal Pad",
+      "set": "SVI",
+      "number": "182"
+    },
+    {
+      "count": 2,
+      "name": "Jamming Tower",
+      "set": "TWM",
+      "number": "153"
+    }
+  ],
+  "energy": [
+    {
+      "count": 9,
+      "name": "Basic Metal Energy",
+      "set": "SVE",
+      "number": "8"
+    }
+  ]
+},
       "drop": 7,
       "rounds": {
         "1": {
@@ -533993,175 +533993,175 @@
         "oppopp": 0.4689814814814815
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 2,
-            "name": "Ceruledge ex",
-            "number": "36",
-            "set": "SSP"
-          },
-          {
-            "count": 3,
-            "name": "Charcadet",
-            "number": "32",
-            "set": "SSP"
-          },
-          {
-            "count": 2,
-            "name": "Origin Forme Palkia VSTAR",
-            "number": "40",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Origin Forme Palkia V",
-            "number": "40",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Greninja",
-            "number": "4",
-            "set": "SVF"
-          },
-          {
-            "count": 1,
-            "name": "Squawkabilly ex",
-            "number": "65",
-            "set": "SV2P"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "30",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Munkidori",
-            "number": "95",
-            "set": "TWM"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 3,
-            "name": "Professor's Research",
-            "number": "147",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Carmine",
-            "number": "103",
-            "set": "PRE"
-          },
-          {
-            "count": 2,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "name": "Judge",
-            "set": "SVI",
-            "number": "176",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Briar",
-            "number": "100",
-            "set": "PRE"
-          },
-          {
-            "count": 4,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 4,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 3,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "count": 3,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Brilliant Blender - ACESPEC",
-            "number": "164",
-            "set": "SSP"
-          },
-          {
-            "name": "Pal Pad",
-            "set": "SVI",
-            "number": "182",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Hisuian Heavy Ball",
-            "number": "146",
-            "set": "ASR"
-          },
-          {
-            "count": 2,
-            "name": "Jamming Tower",
-            "number": "153",
-            "set": "TWM"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Fire Energy",
-            "set": "SVE",
-            "number": "10",
-            "count": 6
-          },
-          {
-            "name": "Basic Water Energy",
-            "set": "SVE",
-            "number": "11",
-            "count": 6
-          },
-          {
-            "name": "Basic Darkness Energy",
-            "set": "SVE",
-            "number": "15",
-            "count": 2
-          },
-          {
-            "count": 4,
-            "name": "Jet Energy - Special",
-            "number": "190",
-            "set": "PAL"
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 2,
+      "name": "Ceruledge ex",
+      "set": "SSP",
+      "number": "36"
+    },
+    {
+      "count": 3,
+      "name": "Charcadet",
+      "set": "SSP",
+      "number": "32"
+    },
+    {
+      "count": 2,
+      "name": "Origin Forme Palkia VSTAR",
+      "set": "ASR",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Origin Forme Palkia V",
+      "set": "ASR",
+      "number": "39"
+    },
+    {
+      "count": 1,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Greninja",
+      "set": "ASR",
+      "number": "46"
+    },
+    {
+      "count": 1,
+      "name": "Squawkabilly ex",
+      "set": "PAL",
+      "number": "169"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Munkidori",
+      "set": "TWM",
+      "number": "95"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 3,
+      "name": "Professor's Research",
+      "set": "JTG",
+      "number": "155"
+    },
+    {
+      "count": 2,
+      "name": "Carmine",
+      "set": "TWM",
+      "number": "145"
+    },
+    {
+      "count": 2,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 1,
+      "name": "Judge",
+      "set": "SVI",
+      "number": "176"
+    },
+    {
+      "count": 1,
+      "name": "Briar",
+      "set": "SCR",
+      "number": "132"
+    },
+    {
+      "count": 4,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 4,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 3,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 3,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Brilliant Blender",
+      "set": "SSP",
+      "number": "164"
+    },
+    {
+      "count": 1,
+      "name": "Pal Pad",
+      "set": "SVI",
+      "number": "182"
+    },
+    {
+      "count": 1,
+      "name": "Hisuian Heavy Ball",
+      "set": "ASR",
+      "number": "146"
+    },
+    {
+      "count": 2,
+      "name": "Jamming Tower",
+      "set": "TWM",
+      "number": "153"
+    }
+  ],
+  "energy": [
+    {
+      "count": 6,
+      "name": "Basic Fire Energy",
+      "set": "SVE",
+      "number": "2"
+    },
+    {
+      "count": 6,
+      "name": "Basic Water Energy",
+      "set": "SVE",
+      "number": "3"
+    },
+    {
+      "count": 2,
+      "name": "Basic Darkness Energy",
+      "set": "SVE",
+      "number": "7"
+    },
+    {
+      "count": 4,
+      "name": "Jet Energy",
+      "set": "PAL",
+      "number": "190"
+    }
+  ]
+},
       "drop": 6,
       "rounds": {
         "1": {
@@ -564379,151 +564379,151 @@
         "oppopp": 0.5162037037037037
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 4,
-            "name": "Roaring Moon",
-            "number": "109",
-            "set": "TEF"
-          },
-          {
-            "count": 4,
-            "name": "Flutter Mane",
-            "number": "78",
-            "set": "TEF"
-          },
-          {
-            "count": 4,
-            "name": "Great Tusk",
-            "number": "97",
-            "set": "TEF"
-          },
-          {
-            "count": 1,
-            "name": "Munkidori",
-            "number": "95",
-            "set": "TWM"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Greninja",
-            "number": "6",
-            "set": "SVHK"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Explorer's Guidance",
-            "number": "107",
-            "set": "PRE"
-          },
-          {
-            "count": 4,
-            "name": "Professor Sada's Vitality",
-            "number": "170",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 4,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "name": "Pokégear 3.0",
-            "set": "SVI",
-            "number": "186",
-            "count": 3
-          },
-          {
-            "count": 2,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 2,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Brilliant Blender - ACESPEC",
-            "number": "164",
-            "set": "SSP"
-          },
-          {
-            "count": 1,
-            "name": "Hisuian Heavy Ball",
-            "number": "146",
-            "set": "ASR"
-          },
-          {
-            "name": "Pal Pad",
-            "set": "SVI",
-            "number": "182",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Superior Energy Retrieval",
-            "number": "189",
-            "set": "PAL"
-          },
-          {
-            "count": 1,
-            "name": "Super Rod",
-            "number": "188",
-            "set": "PAL"
-          },
-          {
-            "count": 1,
-            "name": "Energy Switch",
-            "number": "129",
-            "set": "CRZ"
-          },
-          {
-            "count": 4,
-            "name": "Ancient Booster Energy Capsule",
-            "number": "159",
-            "set": "PAR"
-          },
-          {
-            "count": 4,
-            "name": "PokeStop",
-            "number": "68",
-            "set": "PGO"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Darkness Energy",
-            "set": "SVE",
-            "number": "15",
-            "count": 7
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 4,
+      "name": "Roaring Moon",
+      "set": "TEF",
+      "number": "109"
+    },
+    {
+      "count": 4,
+      "name": "Flutter Mane",
+      "set": "TEF",
+      "number": "78"
+    },
+    {
+      "count": 4,
+      "name": "Great Tusk",
+      "set": "TEF",
+      "number": "97"
+    },
+    {
+      "count": 1,
+      "name": "Munkidori",
+      "set": "TWM",
+      "number": "95"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Greninja",
+      "set": "ASR",
+      "number": "46"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Explorer's Guidance",
+      "set": "TEF",
+      "number": "147"
+    },
+    {
+      "count": 4,
+      "name": "Professor Sada's Vitality",
+      "set": "PAR",
+      "number": "170"
+    },
+    {
+      "count": 1,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 4,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 4,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 3,
+      "name": "Pokégear 3.0",
+      "set": "SVI",
+      "number": "186"
+    },
+    {
+      "count": 2,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 2,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Brilliant Blender",
+      "set": "SSP",
+      "number": "164"
+    },
+    {
+      "count": 1,
+      "name": "Hisuian Heavy Ball",
+      "set": "ASR",
+      "number": "146"
+    },
+    {
+      "count": 1,
+      "name": "Pal Pad",
+      "set": "SVI",
+      "number": "182"
+    },
+    {
+      "count": 1,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 1,
+      "name": "Superior Energy Retrieval",
+      "set": "PAL",
+      "number": "189"
+    },
+    {
+      "count": 1,
+      "name": "Super Rod",
+      "set": "PAL",
+      "number": "188"
+    },
+    {
+      "count": 1,
+      "name": "Energy Switch",
+      "set": "SVI",
+      "number": "173"
+    },
+    {
+      "count": 4,
+      "name": "Ancient Booster Energy Capsule",
+      "set": "TEF",
+      "number": "140"
+    },
+    {
+      "count": 4,
+      "name": "PokéStop",
+      "set": "PGO",
+      "number": "68"
+    }
+  ],
+  "energy": [
+    {
+      "count": 7,
+      "name": "Basic Darkness Energy",
+      "set": "SVE",
+      "number": "7"
+    }
+  ]
+},
       "drop": 6,
       "rounds": {
         "1": {
@@ -571740,175 +571740,175 @@
         "oppopp": 0.46064814814814814
       },
       "decklist": {
-        "pokemon": [
-          {
-            "name": "Ceruledge ex",
-            "set": "SSP",
-            "number": "36",
-            "count": 2
-          },
-          {
-            "count": 3,
-            "name": "Charcadet",
-            "number": "32",
-            "set": "SSP"
-          },
-          {
-            "count": 2,
-            "name": "Origin Forme Palkia VSTAR",
-            "number": "40",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Origin Forme Palkia V",
-            "number": "40",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "105",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Squawkabilly ex",
-            "number": "94",
-            "set": "SV2P"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Greninja",
-            "number": "46",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Iron Bundle",
-            "number": "20",
-            "set": "SV4M"
-          },
-          {
-            "count": 1,
-            "name": "Munkidori",
-            "number": "95",
-            "set": "TWM"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Professor's Research",
-            "number": "147",
-            "set": "BRS"
-          },
-          {
-            "count": 3,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Carmine",
-            "number": "103",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Irida",
-            "number": "147",
-            "set": "ASR"
-          },
-          {
-            "count": 1,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 4,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 4,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 3,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "count": 3,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Hisuian Heavy Ball",
-            "number": "146",
-            "set": "ASR"
-          },
-          {
-            "name": "Pal Pad",
-            "set": "SVI",
-            "number": "182",
-            "count": 1
-          },
-          {
-            "count": 1,
-            "name": "Secret Box - ACESPEC",
-            "number": "163",
-            "set": "TWM"
-          },
-          {
-            "count": 1,
-            "name": "PokeStop",
-            "number": "68",
-            "set": "PGO"
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Water Energy",
-            "set": "SVE",
-            "number": "11",
-            "count": 7
-          },
-          {
-            "name": "Basic Fire Energy",
-            "set": "SVE",
-            "number": "10",
-            "count": 6
-          },
-          {
-            "name": "Basic Darkness Energy",
-            "set": "SVE",
-            "number": "15",
-            "count": 2
-          },
-          {
-            "count": 3,
-            "name": "Jet Energy - Special",
-            "number": "190",
-            "set": "PAL"
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 2,
+      "name": "Ceruledge ex",
+      "set": "SSP",
+      "number": "36"
+    },
+    {
+      "count": 3,
+      "name": "Charcadet",
+      "set": "SSP",
+      "number": "32"
+    },
+    {
+      "count": 2,
+      "name": "Origin Forme Palkia VSTAR",
+      "set": "ASR",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Origin Forme Palkia V",
+      "set": "ASR",
+      "number": "39"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Squawkabilly ex",
+      "set": "PAL",
+      "number": "169"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Greninja",
+      "set": "ASR",
+      "number": "46"
+    },
+    {
+      "count": 1,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    },
+    {
+      "count": 1,
+      "name": "Iron Bundle",
+      "set": "PAR",
+      "number": "56"
+    },
+    {
+      "count": 1,
+      "name": "Munkidori",
+      "set": "TWM",
+      "number": "95"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Professor's Research",
+      "set": "JTG",
+      "number": "155"
+    },
+    {
+      "count": 3,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 1,
+      "name": "Carmine",
+      "set": "TWM",
+      "number": "145"
+    },
+    {
+      "count": 1,
+      "name": "Irida",
+      "set": "ASR",
+      "number": "147"
+    },
+    {
+      "count": 1,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 4,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 4,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 3,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 3,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Hisuian Heavy Ball",
+      "set": "ASR",
+      "number": "146"
+    },
+    {
+      "count": 1,
+      "name": "Pal Pad",
+      "set": "SVI",
+      "number": "182"
+    },
+    {
+      "count": 1,
+      "name": "Secret Box",
+      "set": "TWM",
+      "number": "163"
+    },
+    {
+      "count": 1,
+      "name": "PokéStop",
+      "set": "PGO",
+      "number": "68"
+    }
+  ],
+  "energy": [
+    {
+      "count": 7,
+      "name": "Basic Water Energy",
+      "set": "SVE",
+      "number": "3"
+    },
+    {
+      "count": 6,
+      "name": "Basic Fire Energy",
+      "set": "SVE",
+      "number": "2"
+    },
+    {
+      "count": 2,
+      "name": "Basic Darkness Energy",
+      "set": "SVE",
+      "number": "7"
+    },
+    {
+      "count": 3,
+      "name": "Jet Energy",
+      "set": "PAL",
+      "number": "190"
+    }
+  ]
+},
       "drop": 6,
       "rounds": {
         "1": {
@@ -763925,187 +763925,187 @@
         "oppopp": 0.5204081632653061
       },
       "decklist": {
-        "pokemon": [
-          {
-            "count": 3,
-            "name": "Dragapult ex",
-            "number": "130",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Drakloak",
-            "number": "129",
-            "set": "TWM"
-          },
-          {
-            "count": 4,
-            "name": "Dreepy",
-            "number": "128",
-            "set": "TWM"
-          },
-          {
-            "count": 2,
-            "name": "Dusknoir",
-            "number": "20",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Dusclops",
-            "number": "19",
-            "set": "SFA"
-          },
-          {
-            "count": 2,
-            "name": "Duskull",
-            "number": "45",
-            "set": "S9"
-          },
-          {
-            "count": 2,
-            "name": "Budew",
-            "number": "4",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Lumineon V",
-            "number": "30",
-            "set": "S9"
-          },
-          {
-            "count": 1,
-            "name": "Radiant Alakazam",
-            "number": "59",
-            "set": "SIT"
-          }
-        ],
-        "trainer": [
-          {
-            "count": 4,
-            "name": "Arven",
-            "number": "186",
-            "set": "OBF"
-          },
-          {
-            "count": 3,
-            "name": "Iono",
-            "number": "80",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Boss's Orders",
-            "number": "132",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Lance",
-            "number": "159",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Professor's Research",
-            "number": "147",
-            "set": "BRS"
-          },
-          {
-            "count": 1,
-            "name": "Professor Turo's Scenario",
-            "number": "171",
-            "set": "PAR"
-          },
-          {
-            "count": 4,
-            "name": "Buddy-Buddy Poffin",
-            "number": "101",
-            "set": "PRE"
-          },
-          {
-            "count": 3,
-            "name": "Ultra Ball",
-            "number": "150",
-            "set": "BRS"
-          },
-          {
-            "count": 2,
-            "name": "Nest Ball",
-            "number": "84",
-            "set": "PAF"
-          },
-          {
-            "count": 2,
-            "name": "Rare Candy",
-            "number": "141",
-            "set": "CRZ"
-          },
-          {
-            "count": 2,
-            "name": "Counter Catcher",
-            "number": "160",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Night Stretcher",
-            "number": "61",
-            "set": "SFA"
-          },
-          {
-            "count": 1,
-            "name": "Earthen Vessel",
-            "number": "163",
-            "set": "PAR"
-          },
-          {
-            "count": 1,
-            "name": "Rescue Board",
-            "number": "126",
-            "set": "PRE"
-          },
-          {
-            "count": 1,
-            "name": "Forest Seal Stone",
-            "number": "156",
-            "set": "SIT"
-          },
-          {
-            "count": 1,
-            "name": "Sparkling Crystal - ACESPEC",
-            "number": "129",
-            "set": "PRE"
-          },
-          {
-            "name": "Artazon",
-            "set": "PAF",
-            "number": "76",
-            "count": 1
-          }
-        ],
-        "energy": [
-          {
-            "name": "Basic Psychic Energy",
-            "set": "SVE",
-            "number": "13",
-            "count": 4
-          },
-          {
-            "name": "Basic Fire Energy",
-            "set": "SVE",
-            "number": "10",
-            "count": 3
-          }
-        ]
-      },
+  "pokemon": [
+    {
+      "count": 3,
+      "name": "Dragapult ex",
+      "set": "TWM",
+      "number": "130"
+    },
+    {
+      "count": 4,
+      "name": "Drakloak",
+      "set": "TWM",
+      "number": "129"
+    },
+    {
+      "count": 4,
+      "name": "Dreepy",
+      "set": "TWM",
+      "number": "128"
+    },
+    {
+      "count": 2,
+      "name": "Dusknoir",
+      "set": "PRE",
+      "number": "37"
+    },
+    {
+      "count": 1,
+      "name": "Dusclops",
+      "set": "PRE",
+      "number": "36"
+    },
+    {
+      "count": 2,
+      "name": "Duskull",
+      "set": "BRS",
+      "number": "60"
+    },
+    {
+      "count": 2,
+      "name": "Budew",
+      "set": "PRE",
+      "number": "4"
+    },
+    {
+      "count": 1,
+      "name": "Fezandipiti ex",
+      "set": "SFA",
+      "number": "38"
+    },
+    {
+      "count": 1,
+      "name": "Lumineon V",
+      "set": "BRS",
+      "number": "40"
+    },
+    {
+      "count": 1,
+      "name": "Radiant Alakazam",
+      "set": "SIT",
+      "number": "59"
+    }
+  ],
+  "trainer": [
+    {
+      "count": 4,
+      "name": "Arven",
+      "set": "OBF",
+      "number": "186"
+    },
+    {
+      "count": 3,
+      "name": "Iono",
+      "set": "PAL",
+      "number": "185"
+    },
+    {
+      "count": 2,
+      "name": "Boss's Orders",
+      "set": "PAL",
+      "number": "172"
+    },
+    {
+      "count": 2,
+      "name": "Lance",
+      "set": "SIT",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Professor's Research",
+      "set": "JTG",
+      "number": "155"
+    },
+    {
+      "count": 1,
+      "name": "Professor Turo's Scenario",
+      "set": "PAR",
+      "number": "171"
+    },
+    {
+      "count": 4,
+      "name": "Buddy-Buddy Poffin",
+      "set": "TEF",
+      "number": "144"
+    },
+    {
+      "count": 3,
+      "name": "Ultra Ball",
+      "set": "SVI",
+      "number": "196"
+    },
+    {
+      "count": 2,
+      "name": "Nest Ball",
+      "set": "SVI",
+      "number": "181"
+    },
+    {
+      "count": 2,
+      "name": "Rare Candy",
+      "set": "SVI",
+      "number": "191"
+    },
+    {
+      "count": 2,
+      "name": "Counter Catcher",
+      "set": "PAR",
+      "number": "160"
+    },
+    {
+      "count": 1,
+      "name": "Night Stretcher",
+      "set": "SFA",
+      "number": "61"
+    },
+    {
+      "count": 1,
+      "name": "Earthen Vessel",
+      "set": "PAR",
+      "number": "163"
+    },
+    {
+      "count": 1,
+      "name": "Rescue Board",
+      "set": "TEF",
+      "number": "159"
+    },
+    {
+      "count": 1,
+      "name": "Forest Seal Stone",
+      "set": "SIT",
+      "number": "156"
+    },
+    {
+      "count": 1,
+      "name": "Sparkling Crystal",
+      "set": "SCR",
+      "number": "142"
+    },
+    {
+      "count": 1,
+      "name": "Artazon",
+      "set": "PAL",
+      "number": "171"
+    }
+  ],
+  "energy": [
+    {
+      "count": 4,
+      "name": "Basic Psychic Energy",
+      "set": "SVE",
+      "number": "5"
+    },
+    {
+      "count": 3,
+      "name": "Basic Fire Energy",
+      "set": "SVE",
+      "number": "2"
+    }
+  ]
+},
       "drop": 7,
       "rounds": {
         "1": {
