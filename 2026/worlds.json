@@ -90537,20 +90537,20 @@
           {
             "count": 2,
             "name": "Dratini",
-            "number": "124",
-            "set": "M2a"
+            "number": "150",
+            "set": "ASC"
           },
           {
             "count": 2,
             "name": "Dragonair",
-            "number": "125",
-            "set": "M2a"
+            "number": "151",
+            "set": "ASC"
           },
           {
             "count": 2,
             "name": "Mega Dragonite ex",
-            "number": "126",
-            "set": "M2a"
+            "number": "152",
+            "set": "ASC"
           },
           {
             "count": 2,
@@ -90567,20 +90567,20 @@
           {
             "count": 1,
             "name": "Mega Greninja ex",
-            "number": "22",
-            "set": "M4"
+            "set": "CRI",
+            "number": "22"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "489",
-            "set": "MC"
+            "number": "142",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Bloodmoon Ursaluna ex",
-            "number": "625",
-            "set": "MC"
+            "set": "TWM",
+            "number": "141"
           },
           {
             "count": 1,
@@ -93845,8 +93845,8 @@
           {
             "count": 1,
             "name": "Bloodmoon Ursaluna ex",
-            "number": "625",
-            "set": "MC"
+            "set": "TWM",
+            "number": "141"
           },
           {
             "count": 1,
@@ -113765,14 +113765,14 @@
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "489",
-            "set": "MC"
+            "number": "142",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Bloodmoon Ursaluna ex",
-            "number": "625",
-            "set": "MC"
+            "set": "TWM",
+            "number": "141"
           },
           {
             "count": 1,
