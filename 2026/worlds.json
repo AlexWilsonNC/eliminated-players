@@ -87671,8 +87671,8 @@
           {
             "count": 4,
             "name": "Beldum",
-            "number": "46",
-            "set": "SV5M"
+            "number": "113",
+            "set": "TEF"
           },
           {
             "count": 2,
@@ -87689,8 +87689,8 @@
           {
             "count": 2,
             "name": "Genesect ex",
-            "number": "172",
-            "set": "SV11B"
+            "number": "67",
+            "set": "BLK"
           },
           {
             "count": 1,
@@ -87707,8 +87707,8 @@
           {
             "count": 1,
             "name": "Orthworm ex",
-            "number": "74",
-            "set": "SV7"
+            "number": "110",
+            "set": "SCR"
           }
         ],
         "trainer": [
@@ -90519,20 +90519,20 @@
           {
             "count": 3,
             "name": "Froakie",
-            "number": "20",
-            "set": "M4"
+            "set": "CRI",
+            "number": "20"
           },
           {
             "count": 2,
             "name": "Frogadier",
-            "number": "21",
-            "set": "M4"
+            "set": "CRI",
+            "number": "21"
           },
           {
             "count": 2,
             "name": "Greninja ex",
-            "number": "45",
-            "set": "SV5a"
+            "set": "TWM",
+      "number": "106"
           },
           {
             "count": 2,
@@ -100028,8 +100028,8 @@
           {
             "count": 1,
             "name": "Pecharunt",
-            "number": "490",
-            "set": "MC"
+            "set": "PR-SV",
+      "number": "129"
           },
           {
             "count": 1,
@@ -103627,8 +103627,8 @@
           {
             "count": 1,
             "name": "Iron Crown ex",
-            "number": "86",
-            "set": "SV5M"
+            "number": "81",
+            "set": "TEF"
           }
         ],
         "trainer": [
@@ -107088,8 +107088,8 @@
           {
             "count": 1,
             "name": "Frillish",
-            "number": "41",
-            "set": "SV11W"
+            "number": "44",
+            "set": "WHT"
           },
           {
             "count": 1,
@@ -107480,20 +107480,20 @@
           {
             "count": 2,
             "name": "Duskull",
-            "number": "308",
-            "set": "MC"
+           "set": "PRE",
+            "number": "35"
           },
           {
             "count": 1,
             "name": "Dusclops",
-            "number": "309",
-            "set": "MC"
+            "number": "19",
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Dusknoir",
-            "number": "310",
-            "set": "MC"
+            "number": "20",
+            "set": "SFA"
           },
           {
             "count": 1,
@@ -113723,8 +113723,8 @@
           {
             "count": 2,
             "name": "Teal Mask Ogerpon ex",
-            "number": "82",
-            "set": "MC"
+            "number": "25",
+            "set": "TWM"
           },
           {
             "count": 2,
@@ -113741,26 +113741,26 @@
           {
             "count": 1,
             "name": "Wellspring Mask Ogerpon ex",
-            "number": "224",
-            "set": "MC"
+            "set": "PRE",
+            "number": "27"
           },
           {
             "count": 1,
             "name": "Raging Bolt ex",
-            "number": "554",
-            "set": "MC"
+            "number": "123",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Iron Leaves ex",
-            "number": "77",
-            "set": "MC"
+            "set": "TEF",
+            "number": "25"
           },
           {
             "count": 1,
             "name": "Iron Crown ex",
-            "number": "361",
-            "set": "MC"
+            "set": "TEF",
+            "number": "81"
           },
           {
             "count": 1,
@@ -123893,8 +123893,8 @@
           {
             "count": 1,
             "name": "Passimian",
-            "number": "407",
-            "set": "MC"
+            "number": "111",
+            "set": "SSP"
           },
           {
             "count": 1,
@@ -124089,8 +124089,8 @@
           {
             "count": 1,
             "name": "Chi-Yu",
-            "number": "18",
-            "set": "SV5a"
+            "number": "59",
+            "set": "PBL"
           },
           {
             "count": 1,
