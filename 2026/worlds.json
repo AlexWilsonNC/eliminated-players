@@ -2834,8 +2834,8 @@
           {
             "count": 1,
             "name": "Energy Retrieval",
-            "set": "SVI",
-            "number": "171"
+            "set": "WHT",
+            "number": "82"
           },
           {
             "count": 1,
@@ -4394,8 +4394,8 @@
           {
             "count": 3,
             "name": "Energy Retrieval",
-            "set": "SVI",
-            "number": "171"
+            "set": "WHT",
+            "number": "82"
           },
           {
             "count": 2,
@@ -6986,8 +6986,8 @@
           {
             "count": 4,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 2,
@@ -12740,8 +12740,8 @@
           {
             "count": 4,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 2,
@@ -13856,8 +13856,8 @@
           {
             "count": 3,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 2,
@@ -20318,8 +20318,8 @@
           {
             "count": 4,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 1,
@@ -24920,8 +24920,8 @@
           {
             "count": 1,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 1,
@@ -36109,8 +36109,8 @@
           {
             "count": 4,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 1,
@@ -36757,8 +36757,8 @@
           {
             "count": 3,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 2,
@@ -39934,8 +39934,8 @@
           {
             "count": 1,
             "name": "Energy Retrieval",
-            "set": "SVI",
-            "number": "171"
+            "set": "WHT",
+            "number": "82"
           },
           {
             "count": 1,
@@ -59829,8 +59829,8 @@
           {
             "count": 2,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 1,
@@ -69293,8 +69293,8 @@
           {
             "count": 3,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 1,
@@ -88561,8 +88561,8 @@
           {
             "count": 3,
             "name": "Alakazam",
-            "number": "71",
-            "set": "M1S"
+            "number": "56",
+            "set": "MEG"
           },
           {
             "count": 2,
@@ -93827,8 +93827,8 @@
           {
             "count": 1,
             "name": "Bronzor",
-            "number": "81",
-            "set": "SVM"
+            "set": "TEF",
+            "number": "68"
           },
           {
             "count": 1,
@@ -108359,8 +108359,8 @@
           {
             "count": 3,
             "name": "Alakazam",
-            "number": "71",
-            "set": "M1S"
+            "number": "56",
+            "set": "MEG"
           },
           {
             "count": 3,
@@ -113337,7 +113337,7 @@
             "count": 1,
             "name": "Bloodmoon Ursaluna ex",
             "number": "141",
-            "set": "TMW"
+            "set": "TWM"
           }
         ],
         "trainer": [
@@ -117739,7 +117739,7 @@
             "count": 1,
             "name": "Pawmot",
             "number": "34",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
@@ -195509,8 +195509,8 @@
           {
             "count": 2,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 1,
@@ -215920,8 +215920,8 @@
           {
             "count": 2,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 2,
@@ -217923,7 +217923,7 @@
             "count": 1,
             "name": "Bloodmoon Ursaluna ex",
             "number": "141",
-            "set": "TMW"
+            "set": "TWM"
           }
         ],
         "trainer": [
@@ -227584,8 +227584,8 @@
           {
             "count": 1,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 1,
@@ -232678,8 +232678,8 @@
           {
             "count": 4,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 4,
@@ -239638,8 +239638,8 @@
           {
             "count": 1,
             "name": "Energy Retrieval",
-            "set": "SVI",
-            "number": "171"
+            "set": "WHT",
+            "number": "82"
           },
           {
             "count": 1,
@@ -239860,8 +239860,8 @@
           {
             "count": 2,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 1,
@@ -272020,8 +272020,8 @@
           {
             "count": 2,
             "name": "Pokégear 3.0",
-            "set": "UNB",
-            "number": "182"
+            "set": "BLK",
+            "number": "84"
           },
           {
             "count": 2,
