@@ -1621,150 +1621,150 @@
           {
             "count": 4,
             "name": "Teal Mask Ogerpon ex",
-            "number": "25",
-            "set": "TWM"
+            "set": "TWM",
+            "number": "25"
           },
           {
             "count": 2,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "set": "MEG",
+            "number": "104"
           },
           {
             "count": 2,
             "name": "Lillie's Clefairy ex",
-            "number": "115",
-            "set": "SV9"
+            "set": "ASC",
+            "number": "76"
           },
           {
             "count": 2,
             "name": "Pecharunt",
-            "number": "75",
-            "set": "SV8"
+            "set": "SVP",
+            "number": "129"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "78",
-            "set": "SV7a"
+            "set": "SSP",
+            "number": "76"
           },
           {
             "count": 2,
             "name": "Meowth ex",
-            "number": "100",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Wellspring Mask Ogerpon ex",
-            "number": "27",
-            "set": "PRE"
+            "set": "TWM",
+            "number": "64"
           },
           {
             "count": 1,
             "name": "Iron Leaves ex",
-            "number": "93",
-            "set": "SV5M"
+            "set": "TEF",
+            "number": "25"
           },
           {
             "count": 1,
             "name": "Chi-Yu",
-            "number": "18",
-            "set": "SV5a"
+            "set": "TWM",
+            "number": "39"
           },
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "44",
-            "set": "PRE"
+            "set": "ASC",
+            "number": "99"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "244",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "142"
           }
         ],
         "trainer": [
           {
             "count": 4,
             "name": "Lillie's Determination",
-            "number": "192",
-            "set": "ASC"
+            "set": "MEG",
+            "number": "119"
           },
           {
             "count": 3,
             "name": "Boss's Orders",
-            "number": "183",
-            "set": "ASC"
+            "set": "MEG",
+            "number": "114"
           },
           {
             "count": 1,
             "name": "Ciphermaniac's Codebreaking",
-            "number": "104",
-            "set": "PRE"
+            "set": "TEF",
+            "number": "145"
           },
           {
             "count": 1,
             "name": "N's Plan",
-            "number": "83",
-            "set": "BLK"
+            "set": "BLK",
+            "number": "83"
           },
           {
             "count": 4,
             "name": "Ultra Ball",
-            "number": "213",
-            "set": "ASC"
+            "set": "MEG",
+            "number": "131"
           },
           {
             "count": 4,
             "name": "Energy Switch",
-            "number": "115",
-            "set": "MEG"
+            "set": "SUM",
+            "number": "117"
           },
           {
             "count": 3,
             "name": "Bug Catching Set",
-            "number": "102",
-            "set": "PRE"
+            "set": "TWM",
+            "number": "143"
           },
           {
             "count": 1,
             "name": "Tera Orb",
-            "number": "189",
-            "set": "SSP"
+            "set": "SSP",
+            "number": "189"
           },
           {
             "count": 1,
             "name": "Night Stretcher",
-            "number": "196",
-            "set": "ASC"
+            "set": "ASC",
+            "number": "196"
           },
           {
             "count": 1,
-            "name": "Unfair Stamp - ACESPEC",
-            "number": "165",
-            "set": "TWM"
+            "name": "Unfair Stamp",
+            "set": "TWM",
+            "number": "165"
           },
           {
             "count": 3,
             "name": "Area Zero Underdepths",
-            "number": "94",
-            "set": "PRE"
+            "set": "SCR",
+            "number": "131"
           }
         ],
         "energy": [
           {
+            "count": 11,
             "name": "Basic Grass Energy",
-            "set": "MEE",
-            "number": "1",
-            "count": 11
+            "set": "TEU",
+            "number": "grass"
           },
           {
             "count": 4,
-            "name": "Prism Energy - Special",
-            "number": "216",
-            "set": "ASC"
+            "name": "Prism Energy",
+            "set": "ASC",
+            "number": "216"
           }
         ]
       },
@@ -1830,151 +1830,157 @@
         "pokemon": [
           {
             "count": 4,
-            "name": "Dipplin",
-            "number": "10",
-            "set": "PRE"
-          },
-          {
-            "count": 4,
-            "name": "Applin",
-            "number": "10",
-            "set": "SV7"
-          },
-          {
-            "count": 4,
             "name": "Grookey",
-            "number": "6",
-            "set": "PRE"
+            "set": "TWM",
+            "number": "14"
           },
           {
             "count": 4,
             "name": "Thwackey",
-            "number": "15",
-            "set": "TWM"
+            "set": "TWM",
+            "number": "15"
+          },
+          {
+            "count": 3,
+            "name": "Applin",
+            "set": "SCR",
+            "number": "12"
           },
           {
             "count": 1,
-            "name": "Seaking",
-            "number": "21",
-            "set": "PRE"
+            "name": "Applin",
+            "set": "TWM",
+            "number": "126"
+          },
+          {
+            "count": 4,
+            "name": "Dipplin",
+            "set": "TWM",
+            "number": "18"
           },
           {
             "count": 2,
             "name": "Goldeen",
-            "number": "44",
-            "set": "TWM"
+            "set": "TWM",
+            "number": "44"
+          },
+          {
+            "count": 1,
+            "name": "Seaking",
+            "set": "PRE",
+            "number": "21"
           },
           {
             "count": 1,
             "name": "Rellor",
-            "number": "14",
-            "set": "SV5M"
+            "set": "TEF",
+            "number": "23"
           },
           {
             "count": 1,
             "name": "Rabsca",
-            "number": "15",
-            "set": "SV5M"
+            "set": "TEF",
+            "number": "24"
           }
         ],
         "trainer": [
           {
             "count": 4,
             "name": "Lillie's Determination",
-            "number": "192",
-            "set": "ASC"
+            "set": "MEG",
+            "number": "119"
           },
           {
             "count": 2,
             "name": "Gladion's Final Battle",
-            "number": "77",
-            "set": "PBL"
+            "set": "PBL",
+            "number": "77"
           },
           {
             "count": 2,
             "name": "Boss's Orders",
-            "number": "183",
-            "set": "ASC"
+            "set": "MEG",
+            "number": "114"
           },
           {
             "count": 1,
             "name": "Kieran",
-            "number": "113",
-            "set": "PRE"
+            "set": "TWM",
+            "number": "154"
           },
           {
             "count": 4,
-            "name": "Poke Pad",
-            "number": "198",
-            "set": "ASC"
+            "name": "Poké Pad",
+            "set": "POR",
+            "number": "81"
           },
           {
             "count": 4,
             "name": "Bug Catching Set",
-            "number": "102",
-            "set": "PRE"
+            "set": "TWM",
+            "number": "143"
           },
           {
             "count": 4,
             "name": "Buddy-Buddy Poffin",
-            "number": "184",
-            "set": "ASC"
+            "set": "ASC",
+            "number": "184"
           },
           {
             "count": 2,
             "name": "Ultra Ball",
-            "number": "213",
-            "set": "ASC"
+            "set": "MEG",
+            "number": "131"
           },
           {
             "count": 1,
             "name": "Sacred Ash",
-            "number": "168",
-            "set": "DRI"
+            "set": "DRI",
+            "number": "168"
           },
           {
             "count": 1,
-            "name": "Secret Box - ACESPEC",
-            "number": "163",
-            "set": "TWM"
+            "name": "Secret Box",
+            "set": "TWM",
+            "number": "163"
           },
           {
             "count": 1,
             "name": "Switch",
-            "number": "130",
-            "set": "MEG"
+            "set": "SUM",
+            "number": "132"
           },
           {
             "count": 1,
             "name": "Night Stretcher",
-            "number": "196",
-            "set": "ASC"
+            "set": "ASC",
+            "number": "196"
           },
           {
+            "count": 2,
             "name": "Brave Bangle",
             "set": "WHT",
-            "number": "80",
-            "count": 2
+            "number": "80"
           },
           {
             "count": 1,
             "name": "Air Balloon",
-            "number": "181",
-            "set": "ASC"
+            "set": "ASC",
+            "number": "181"
           },
           {
             "count": 4,
             "name": "Festival Grounds",
-            "number": "108",
-            "set": "PRE"
+            "set": "TWM",
+            "number": "149"
           }
         ],
         "energy": [
           {
+            "count": 5,
             "name": "Basic Grass Energy",
-            "set": "MEE",
-            "number": "1",
-            "count": 5
+            "set": "TEU",
+            "number": "grass"
           }
         ]
       },
