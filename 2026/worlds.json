@@ -87677,8 +87677,8 @@
           {
             "count": 2,
             "name": "Drilbur",
-            "number": "44",
-            "set": "M5"
+            "number": "46",
+            "set": "PBL"
           },
           {
             "count": 2,
@@ -87695,8 +87695,8 @@
           {
             "count": 1,
             "name": "Mega Excadrill ex",
-            "number": "63",
-            "set": "M5"
+            "number": "65",
+            "set": "PBL"
           },
           {
             "count": 1,
@@ -107070,8 +107070,8 @@
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "75",
-            "set": "M2a"
+            "set": "SSP",
+      "number": "76"
           },
           {
             "count": 2,
@@ -108131,8 +108131,8 @@
           {
             "count": 4,
             "name": "N's Zoroark ex",
-            "number": "117",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "137"
           },
           {
             "count": 4,
@@ -109741,8 +109741,8 @@
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "287",
-            "set": "MC"
+            "set": "ASC",
+            "number": "76"
           },
           {
             "count": 1,
@@ -113729,14 +113729,14 @@
           {
             "count": 2,
             "name": "Lillie's Clefairy ex",
-            "number": "287",
-            "set": "MC"
+            "set": "ASC",
+            "number": "76"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "312",
-            "set": "MC"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 1,
@@ -115402,14 +115402,14 @@
           {
             "count": 1,
             "name": "Rabsca",
-            "number": "15",
-            "set": "SV5M"
+            "number": "24",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Rellor",
-            "number": "14",
-            "set": "SV5M"
+            "number": "23",
+            "set": "TEF"
           },
           {
             "count": 1,
@@ -121830,8 +121830,8 @@
           {
             "count": 1,
             "name": "Spiritomb",
-            "number": "33",
-            "set": "M5"
+            "number": "35",
+            "set": "PBL"
           },
           {
             "count": 1,
@@ -123851,8 +123851,8 @@
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "75",
-            "set": "M2a"
+            "set": "SSP",
+      "number": "76"
           },
           {
             "count": 2,
@@ -158026,26 +158026,26 @@
           {
             "count": 4,
             "name": "N's Zoroark ex",
-            "number": "117",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "137"
           },
           {
             "count": 4,
             "name": "N's Zorua",
-            "number": "108",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "136"
           },
           {
             "count": 2,
             "name": "N's Zekrom",
-            "number": "210",
-            "set": "M2a"
+            "number": "155",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "N's Reshiram",
-            "number": "109",
-            "set": "SV9"
+            "number": "154",
+            "set": "ASC"
           },
           {
             "count": 1,
@@ -158086,14 +158086,14 @@
           {
             "count": 1,
             "name": "N's Darumaka",
-            "number": "27",
-            "set": "M2a"
+            "number": "32",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Pecharunt ex",
-            "number": "219",
-            "set": "SV8a"
+            "set": "SFA",
+            "number": "39"
           }
         ],
         "trainer": [
@@ -162605,8 +162605,8 @@
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "312",
-            "set": "MC"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 2,
@@ -162623,8 +162623,8 @@
           {
             "count": 2,
             "name": "Annihilape",
-            "number": "62",
-            "set": "SV8"
+            "number": "100",
+            "set": "SSP"
           },
           {
             "count": 1,
@@ -162641,14 +162641,14 @@
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "287",
-            "set": "MC"
+            "set": "ASC",
+            "number": "76"
           },
           {
             "count": 1,
             "name": "Smoochum",
-            "number": "18",
-            "set": "SV7a"
+            "number": "75",
+            "set": "SSP"
           }
         ],
         "trainer": [
@@ -163019,14 +163019,14 @@
           {
             "count": 4,
             "name": "N's Zoroark ex",
-            "number": "117",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "137"
           },
           {
             "count": 2,
             "name": "N's Zekrom",
-            "number": "210",
-            "set": "M2a"
+            "number": "155",
+            "set": "ASC"
           },
           {
             "count": 1,
@@ -163061,20 +163061,20 @@
           {
             "count": 1,
             "name": "N's Reshiram",
-            "number": "109",
-            "set": "SV9"
+            "number": "154",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "N's Darmanitan",
-            "number": "16",
-            "set": "SV9"
+           "set": "ASC",
+      "number": "33"
           },
           {
             "count": 1,
             "name": "N's Darumaka",
-            "number": "27",
-            "set": "M2a"
+            "number": "32",
+            "set": "ASC"
           }
         ],
         "trainer": [
@@ -173165,8 +173165,8 @@
           {
             "count": 4,
             "name": "N's Zorua",
-            "number": "111",
-            "set": "M2a"
+            "set": "ASC",
+      "number": "136"
           },
           {
             "count": 2,
@@ -173201,8 +173201,8 @@
           {
             "count": 1,
             "name": "Pecharunt ex",
-            "number": "92",
-            "set": "SV6a"
+            "set": "SFA",
+      "number": "39"
           },
           {
             "count": 1,
@@ -173213,8 +173213,8 @@
           {
             "count": 1,
             "name": "N's Darmanitan",
-            "number": "16",
-            "set": "SV9"
+           "set": "ASC",
+      "number": "33"
           },
           {
             "count": 1,
@@ -174293,14 +174293,14 @@
           {
             "count": 4,
             "name": "Riolu",
-            "number": "68",
-            "set": "M1L"
+            "set": "ASC",
+            "number": "112"
           },
           {
             "count": 3,
             "name": "Mega Lucario ex",
-            "number": "88",
-            "set": "M1L"
+            "number": "77",
+            "set": "MEG"
           },
           {
             "count": 3,
@@ -214022,8 +214022,8 @@
           {
             "count": 2,
             "name": "Munkidori",
-            "number": "55",
-            "set": "SV6"
+            "number": "95",
+            "set": "TWM"
           },
           {
             "count": 1,
@@ -214040,8 +214040,8 @@
           {
             "count": 1,
             "name": "Dunsparce",
-            "number": "129",
-            "set": "SV8a"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 1,
@@ -215612,20 +215612,20 @@
           {
             "count": 1,
             "name": "Duskull",
-            "number": "68",
-            "set": "SV6a"
+            "number": "18",
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Dusclops",
-            "number": "69",
-            "set": "SV6a"
+           "number": "36",
+            "set": "PRE"
           },
           {
             "count": 1,
             "name": "Smoochum",
-            "number": "18",
-            "set": "SV7a"
+            "number": "75",
+            "set": "SSP"
           },
           {
             "count": 1,
@@ -215648,8 +215648,8 @@
           {
             "count": 1,
             "name": "Dusknoir",
-            "number": "70",
-            "set": "SV6a"
+            "number": "20",
+            "set": "SFA"
           }
         ],
         "trainer": [
@@ -221150,8 +221150,8 @@
           {
             "count": 1,
             "name": "Spiritomb",
-            "number": "33",
-            "set": "M5"
+            "number": "35",
+            "set": "PBL"
           },
           {
             "count": 1,
@@ -227942,8 +227942,8 @@
           {
             "count": 1,
             "name": "Flutter Mane",
-            "number": "72",
-            "set": "SV8a"
+            "number": "43",
+            "set": "PRE"
           },
           {
             "count": 1,
@@ -227960,8 +227960,8 @@
           {
             "count": 1,
             "name": "Paldean Tauros",
-            "number": "11",
-            "set": "SV8"
+            "number": "18",
+            "set": "SSP"
           }
         ],
         "trainer": [
@@ -234446,20 +234446,20 @@
           {
             "count": 1,
             "name": "N's Darmanitan",
-            "number": "16",
-            "set": "SV9"
+           "set": "ASC",
+      "number": "33"
           },
           {
             "count": 1,
             "name": "Tatsugiri",
-            "number": "121",
-            "set": "SV8a"
+            "set": "TWM",
+      "number": "131"
           },
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "55",
-            "set": "SV6"
+            "number": "95",
+            "set": "TWM"
           },
           {
             "count": 1,
@@ -234482,8 +234482,8 @@
           {
             "count": 1,
             "name": "N's Reshiram",
-            "number": "74",
-            "set": "SV9"
+             "set": "ASC",
+      "number": "154"
           }
         ],
         "trainer": [
@@ -234920,8 +234920,8 @@
           {
             "count": 2,
             "name": "Munkidori",
-            "number": "55",
-            "set": "SV6"
+            "number": "95",
+            "set": "TWM"
           },
           {
             "count": 1,
@@ -251428,56 +251428,56 @@
           {
             "count": 4,
             "name": "Applin",
-            "number": "48",
-            "set": "SV5a"
+            "number": "126",
+            "set": "TWM"
           },
           {
             "count": 4,
             "name": "Dipplin",
-            "number": "103",
-            "set": "SV6"
+            "number": "18",
+            "set": "TWM"
           },
           {
             "count": 4,
             "name": "Grookey",
-            "number": "8",
-            "set": "SV6"
+            "number": "14",
+            "set": "TWM"
           },
           {
             "count": 4,
             "name": "Thwackey",
-            "number": "9",
-            "set": "SV6"
+            "set": "TWM",
+            "number": "15"
           },
           {
             "count": 1,
             "name": "Goldeen",
-            "number": "26",
-            "set": "SV6"
+            "number": "44",
+            "set": "TWM"
           },
           {
             "count": 1,
             "name": "Seaking",
-            "number": "29",
-            "set": "SV8a"
+            "number": "21",
+            "set": "PRE"
           },
           {
             "count": 1,
             "name": "Rillaboom",
-            "number": "10",
-            "set": "SV6"
+            "number": "6",
+            "set": "TWM"
           },
           {
             "count": 1,
             "name": "Rellor",
-            "number": "14",
-            "set": "SV5M"
+            "number": "23",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Rabsca",
-            "number": "15",
-            "set": "SV5M"
+            "number": "24",
+            "set": "TEF"
           },
           {
             "count": 1,
@@ -265914,8 +265914,8 @@
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "75",
-            "set": "M2a"
+            "set": "SSP",
+      "number": "76"
           },
           {
             "count": 2,
@@ -269480,32 +269480,32 @@
           {
             "count": 4,
             "name": "Beldum",
-            "number": "57",
-            "set": "M4"
+            "number": "113",
+            "set": "TEF"
           },
           {
             "count": 4,
             "name": "Metang",
-            "number": "107",
-            "set": "SV8a"
+            "number": "114",
+            "set": "TEF"
           },
           {
             "count": 3,
             "name": "Drilbur",
-            "number": "44",
-            "set": "M5"
+            "number": "46",
+            "set": "PBL"
           },
           {
             "count": 2,
             "name": "Mega Excadrill ex",
-            "number": "63",
-            "set": "M5"
+            "number": "65",
+            "set": "PBL"
           },
           {
             "count": 2,
             "name": "Genesect ex",
-            "number": "69",
-            "set": "SV11B"
+            "number": "67",
+            "set": "BLK"
           },
           {
             "count": 1,
@@ -269516,8 +269516,8 @@
           {
             "count": 1,
             "name": "Mega Skarmory ex",
-            "number": "54",
-            "set": "M3"
+            "set": "POR",
+            "number": "55"
           },
           {
             "count": 1,
@@ -269528,14 +269528,14 @@
           {
             "count": 1,
             "name": "Piplup",
-            "number": "27",
-            "set": "M2"
+            "set": "PFL",
+            "number": "27"
           },
           {
             "count": 1,
             "name": "Empoleon ex",
-            "number": "58",
-            "set": "M2"
+            "set": "PFL",
+            "number": "70"
           }
         ],
         "trainer": [
