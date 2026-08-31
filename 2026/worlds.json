@@ -13548,74 +13548,74 @@
           {
             "count": 4,
             "name": "Mega Kangaskhan ex",
-            "number": "80",
-            "set": "M1S"
+            "set": "MEG",
+            "number": "104"
           },
           {
             "count": 4,
             "name": "Meowth ex",
-            "number": "100",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 3,
             "name": "Lillie's Clefairy ex",
-            "number": "33",
-            "set": "SV9"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "19",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 2,
             "name": "Fezandipiti ex",
-            "number": "104",
-            "set": "SV8a"
+            "number": "38",
+            "set": "SFA"
           },
           {
             "count": 2,
             "name": "Teal Mask Ogerpon ex",
-            "number": "17",
-            "set": "M2a"
+            "number": "12",
+            "set": "PRE"
           },
           {
             "count": 1,
             "name": "Raging Bolt ex",
-            "number": "222",
-            "set": "SV8a"
+            "number": "123",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Iron Leaves ex",
-            "number": "84",
-            "set": "SV5M"
+            "set": "TEF",
+            "number": "25"
           },
           {
             "count": 1,
             "name": "Iron Crown ex",
-            "number": "78",
-            "set": "SV8a"
+            "number": "81",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Wellspring Mask Ogerpon ex",
-            "number": "127",
-            "set": "SV6"
+           "number": "27",
+            "set": "PRE"
           },
           {
             "count": 1,
             "name": "Chien-Pao",
-            "number": "43",
-            "set": "M2a"
+            "number": "56",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Passimian",
-            "number": "31",
-            "set": "SV7a"
+             "number": "111",
+            "set": "SSP"
           }
         ],
         "trainer": [
@@ -26293,7 +26293,158 @@
         "opp": 0.4906994047619047,
         "oppopp": 0.5301051410147393
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+            "name": "Teal Mask Ogerpon ex",
+            "number": "25",
+            "set": "TWM"
+          },
+          {
+            "count": 2,
+            "name": "Mega Kangaskhan ex",
+            "number": "104",
+            "set": "MEG"
+          },
+          {
+            "count": 2,
+            "name": "Lillie's Clefairy ex",
+            "number": "76",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Latias ex",
+            "number": "76",
+            "set": "SSP"
+          },
+          {
+            "count": 2,
+            "name": "Meowth ex",
+            "number": "62",
+            "set": "POR"
+          },
+          {
+            "count": 1,
+            "name": "Wellspring Mask Ogerpon ex",
+            "number": "64",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Iron Leaves ex",
+            "number": "25",
+            "set": "TEF"
+          },
+          {
+            "count": 1,
+            "name": "Pecharunt",
+            "number": "149",
+            "set": "PR-SV"
+          },
+          {
+            "count": 1,
+            "name": "Chi-Yu",
+            "number": "39",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+            "number": "38",
+            "set": "SFA"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Ciphermaniac's Codebreaking",
+            "number": "104",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "N's Plan",
+            "number": "83",
+            "set": "BLK"
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Bug Catching Set",
+            "number": "102",
+            "set": "PRE"
+          },
+          {
+            "count": 4,
+            "name": "Energy Switch",
+            "number": "115",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Tera Orb",
+            "number": "189",
+            "set": "SSP"
+          },
+          {
+            "count": 1,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Unfair Stamp - ACESPEC",
+            "number": "165",
+            "set": "TWM"
+          },
+          {
+            "count": 3,
+            "name": "Area Zero Underdepths",
+            "number": "94",
+            "set": "PRE"
+          },
+          {
+            "name": "Jamming Tower",
+            "set": "TWM",
+            "number": "153",
+            "count": 1
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Grass Energy",
+            "set": "MEE",
+            "number": "1",
+            "count": 11
+          },
+          {
+            "count": 4,
+            "name": "Prism Energy - Special",
+            "number": "216",
+            "set": "ASC"
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -28152,7 +28303,152 @@
         "opp": 0.4708333333333333,
         "oppopp": 0.5065705605158731
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+           "name": "Team Rocket's Tarountula",
+            "number": "19",
+            "set": "DRI"
+          },
+          {
+            "count": 4,
+            "name": "Team Rocket's Spidops",
+            "number": "20",
+            "set": "DRI"
+          },
+          {
+            "count": 2,
+            "name": "Team Rocket's Mewtwo ex",
+            "number": "81",
+            "set": "DRI"
+          },
+          {
+            "count": 2,
+            "name": "Team Rocket's Mimikyu",
+            "number": "87",
+            "set": "DRI"
+          },
+          {
+            "count": 2,
+             "name": "Team Rocket's Articuno",
+            "number": "51",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Team Rocket's Sneasel",
+            "number": "128",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Lillie's Clefairy ex",
+            "number": "56",
+            "set": "JTG"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 3,
+            "name": "Team Rocket's Proton",
+            "number": "208",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Team Rocket's Ariana",
+            "number": "202",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Team Rocket's Giovanni",
+            "number": "204",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Team Rocket's Archer",
+            "number": "201",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Team Rocket's Petrel",
+            "number": "207",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Team Rocket's Transceiver",
+            "number": "209",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Bug Catching Set",
+            "number": "102",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Secret Box - ACESPEC",
+            "number": "163",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Energy Switch",
+            "number": "115",
+            "set": "MEG"
+          },
+          {
+            "name": "Brave Bangle",
+            "set": "WHT",
+            "number": "80",
+            "count": 2
+          },
+          {
+            "count": 2,
+            "name": "Team Rocket's Factory",
+            "number": "203",
+            "set": "ASC"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Grass Energy",
+            "set": "MEE",
+            "number": "1",
+            "count": 7
+          },
+          {
+            "count": 4,
+            "name": "Team Rocket's Energy - Special",
+            "number": "217",
+            "set": "ASC"
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -28216,74 +28512,74 @@
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "80",
-            "set": "SV6"
+            "number": "72",
+            "set": "PRE"
           },
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "79",
-            "set": "SV6"
+            "number": "71",
+            "set": "PRE"
           },
           {
             "count": 3,
             "name": "Dragapult ex",
-            "number": "81",
-            "set": "SV6"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 2,
             "name": "Dunsparce",
-            "number": "56",
-            "set": "SV5K"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Dudunsparce ex",
-            "number": "79",
-            "set": "SV9"
+           "number": "121",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Dudunsparce",
-            "number": "57",
-            "set": "SV5K"
+            "number": "129",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "1",
-            "set": "SV8a"
+           "set": "ASC",
+            "number": "16"
           },
           {
             "count": 1,
             "name": "Patrat",
-            "number": "68",
-            "set": "M4"
+            "number": "70",
+            "set": "CRI"
           },
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           }
         ],
         "trainer": [
@@ -32411,7 +32707,170 @@
         "opp": 0.39992559523809523,
         "oppopp": 0.5055223391439909
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+            "name": "Drakloak",
+            "set": "TWM",
+            "number": "129"
+          },
+          {
+            "count": 4,
+            "name": "Dreepy",
+            "set": "TWM",
+            "number": "128"
+          },
+          {
+            "count": 3,
+            "name": "Dragapult ex",
+            "set": "TWM",
+            "number": "130"
+          },
+          {
+            "count": 2,
+            "name": "Munkidori",
+            "set": "TWM",
+            "number": "95"
+          },
+          {
+            "count": 1,
+            "name": "Budew",
+            "number": "4",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+             "name": "Fezandipiti ex",
+            "set": "ASC",
+            "number": "142"
+          },
+          {
+            "count": 1,
+            "name": "Meowth ex",
+            "set": "POR",
+            "number": "62"
+          },
+          {
+            "count": 1,
+            "name": "Shaymin",
+            "set": "DRI",
+            "number": "10"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Crispin",
+            "number": "105",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Dawn",
+            "number": "87",
+            "set": "PFL"
+          },
+          {
+            "count": 1,
+            "name": "Rosa's Encouragement",
+            "number": "84",
+            "set": "POR"
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "name": "Crushing Hammer",
+            "set": "POR",
+            "number": "71",
+            "count": 4
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Unfair Stamp - ACESPEC",
+            "number": "165",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Special Red Card",
+            "number": "82",
+            "set": "CRI"
+          },
+          {
+            "count": 1,
+            "name": "Dark Bell",
+            "number": "75",
+            "set": "PBL"
+          },
+          {
+            "count": 2,
+            "name": "Team Rocket's Watchtower",
+            "number": "210",
+            "set": "ASC"
+          },
+          {
+            "name": "Jamming Tower",
+            "set": "TWM",
+            "number": "153",
+            "count": 1
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Fire Energy",
+            "set": "MEE",
+            "number": "2",
+            "count": 3
+          },
+          {
+            "name": "Basic Psychic Energy",
+            "set": "MEE",
+            "number": "5",
+            "count": 3
+          },
+          {
+            "name": "Basic Darkness Energy",
+            "set": "MEE",
+            "number": "7",
+            "count": 2
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -37726,7 +38185,176 @@
         "opp": 0.5338541666666667,
         "oppopp": 0.4914992559523809
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 3,
+            "name": "Dragapult ex",
+            "number": "130",
+            "set": "TWM"
+          },
+          {
+            "count": 4,
+            "name": "Drakloak",
+            "number": "129",
+            "set": "TWM"
+          },
+          {
+            "count": 4,
+            "name": "Dreepy",
+            "number": "128",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Dusknoir",
+            "number": "20",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "Dusclops",
+            "number": "19",
+            "set": "SFA"
+          },
+          {
+            "count": 2,
+            "name": "Duskull",
+            "number": "18",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "Munkidori",
+            "number": "95",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Budew",
+            "number": "4",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Shaymin",
+            "set": "DRI",
+            "number": "10"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+            "number": "38",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "Meowth ex",
+            "set": "POR",
+            "number": "62"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Crispin",
+            "number": "105",
+            "set": "PRE"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Dawn",
+            "number": "87",
+            "set": "PFL"
+          },
+          {
+            "count": 1,
+            "name": "Rosa's Encouragement",
+            "number": "84",
+            "set": "POR"
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Rare Candy",
+            "number": "125",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Unfair Stamp - ACESPEC",
+            "number": "165",
+            "set": "TWM"
+          },
+          {
+            "name": "Jamming Tower",
+            "set": "TWM",
+            "number": "153",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "name": "Team Rocket's Watchtower",
+            "number": "210",
+            "set": "ASC"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Fire Energy",
+            "set": "MEE",
+            "number": "2",
+            "count": 3
+          },
+          {
+            "name": "Basic Psychic Energy",
+            "set": "MEE",
+            "number": "5",
+            "count": 3
+          },
+          {
+            "name": "Basic Darkness Energy",
+            "set": "MEE",
+            "number": "7",
+            "count": 2
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -40296,7 +40924,164 @@
         "opp": 0.4921875,
         "oppopp": 0.4912760416666666
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+            "name": "Dipplin",
+            "number": "10",
+            "set": "PRE"
+          },
+          {
+            "count": 4,
+            "name": "Applin",
+            "number": "126",
+            "set": "TWM"
+          },
+          {
+            "count": 4,
+            "name": "Grookey",
+            "number": "6",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Rabsca",
+            "number": "14",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Rellor",
+            "number": "13",
+            "set": "PRE"
+          },
+          {
+            "count": 4,
+            "name": "Thwackey",
+            "number": "7",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Seaking",
+            "number": "21",
+            "set": "PRE"
+          },
+          {
+            "count": 2,
+            "name": "Goldeen",
+            "number": "20",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Shaymin",
+            "number": "10",
+            "set": "DRI"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Gladion's Final Battle",
+            "number": "77",
+            "set": "PBL"
+          },
+          {
+            "count": 1,
+            "name": "Kieran",
+            "number": "113",
+            "set": "PRE"
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Secret Box - ACESPEC",
+            "number": "163",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Switch",
+            "number": "130",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Tool Scrapper",
+            "number": "212",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "name": "Brave Bangle",
+            "set": "WHT",
+            "number": "80",
+            "count": 2
+          },
+          {
+            "count": 2,
+            "name": "Air Balloon",
+            "number": "181",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Festival Grounds",
+            "number": "108",
+            "set": "PRE"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Grass Energy",
+            "set": "MEE",
+            "number": "1",
+            "count": 2
+          },
+          {
+            "count": 4,
+            "name": "Growing Grass Energy - Special",
+            "number": "86",
+            "set": "POR"
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -44621,7 +45406,164 @@
         "opp": 0.4296875,
         "oppopp": 0.48361235119047613
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+            "name": "N's Zorua",
+            "set": "ASC",
+            "number": "136"
+          },
+          {
+            "count": 4,
+            "name": "N's Zoroark ex",
+            "set": "ASC",
+            "number": "137"
+          },
+          {
+            "count": 2,
+            "name": "N's Zekrom",
+            "number": "155",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Pecharunt ex",
+            "number": "39",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "N's Darumaka",
+      "set": "ASC",
+      "number": "32"
+          },
+          {
+            "count": 1,
+            "name": "N's Darmanitan",
+      "set": "ASC",
+      "number": "33"
+          },
+          {
+            "count": 1,
+            "name": "Yveltal",
+      "set": "MEG",
+      "number": "88"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+            "number": "38",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "Tatsugiri",
+            "number": "131",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Munkidori",
+            "number": "95",
+            "set": "TWM"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Cyrano",
+            "number": "170",
+            "set": "SSP"
+          },
+          {
+            "name": "Black Belt's Training",
+            "set": "JTG",
+            "number": "145",
+            "count": 2
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "N's PP Up",
+            "number": "195",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Special Red Card",
+            "number": "82",
+            "set": "CRI"
+          },
+          {
+            "count": 1,
+            "name": "Secret Box - ACESPEC",
+            "number": "163",
+            "set": "TWM"
+          },
+          {
+            "count": 2,
+            "name": "Binding Mochi",
+            "number": "95",
+            "set": "PRE"
+          },
+          {
+            "count": 2,
+            "name": "N's Castle",
+            "number": "152",
+            "set": "JTG"
+          },
+          {
+            "count": 1,
+            "name": "Team Rocket's Watchtower",
+            "number": "210",
+            "set": "ASC"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Darkness Energy",
+            "set": "MEE",
+            "number": "7",
+            "count": 8
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -46491,56 +47433,56 @@
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "211",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "158"
           },
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "212",
-            "set": "M2a"
+            "number": "129",
+            "set": "TWM"
           },
           {
             "count": 3,
             "name": "Dragapult ex",
-            "number": "120",
-            "set": "SV6"
+            "number": "130",
+            "set": "TWM"
           },
           {
             "count": 2,
             "name": "Budew",
-            "number": "196",
-            "set": "M2a"
+            "number": "16",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Patrat",
-            "number": "68",
-            "set": "M4"
+            "number": "70",
+            "set": "CRI"
           },
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "107",
-            "set": "SV6"
+            "set": "ASC",
+            "number": "99"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "114",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "142"
           }
         ],
         "trainer": [
@@ -49138,74 +50080,74 @@
           {
             "count": 4,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 4,
             "name": "Slowpoke",
-            "number": "38",
-            "set": "SV7"
+            "number": "57",
+            "set": "SCR"
           },
           {
             "count": 3,
             "name": "Slowking",
-            "number": "39",
-            "set": "SV7"
+            "number": "58",
+            "set": "SCR"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "78",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 2,
             "name": "Kyurem",
             "number": "47",
-            "set": "SV6a"
+            "set": "SFA"
           },
           {
             "count": 2,
             "name": "Metagross",
-            "number": "59",
-            "set": "M4"
+            "number": "61",
+            "set": "CRI"
           },
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "115",
-            "set": "SV9"
+            "set": "ASC",
+            "number": "76"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "100",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "89",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "107",
-            "set": "SV6"
+            "set": "ASC",
+            "number": "99"
           },
           {
             "count": 1,
             "name": "Cofagrigus",
-            "number": "52",
-            "set": "SV8"
+            "number": "40",
+            "set": "WHT"
           },
           {
             "count": 1,
             "name": "Drapion",
-            "number": "51",
-            "set": "M3"
+            "number": "52",
+            "set": "POR"
           }
         ],
         "trainer": [
@@ -58340,7 +59282,188 @@
         "opp": 0.5114583333333333,
         "oppopp": 0.4678838045634921
       },
-      
+     "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+            "name": "N's Zoroark ex",
+            "number": "98",
+            "set": "JTG"
+          },
+          {
+            "count": 4,
+            "name": "N's Zorua",
+            "number": "97",
+            "set": "JTG"
+          },
+          {
+            "count": 2,
+            "name": "N's Zekrom",
+            "set": "ASC",
+            "number": "155"
+          },
+          {
+            "count": 1,
+            "name": "Yveltal",
+            "set": "MEG",
+            "number": "88"
+          },
+          {
+            "count": 1,
+            "name": "Pecharunt ex",
+            "number": "39",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "Shaymin",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Munkidori",
+            "number": "95",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "N's Reshiram",
+            "set": "ASC",
+            "number": "154"
+          },
+          {
+            "count": 1,
+            "name": "N's Darumaka",
+            "number": "26",
+            "set": "JTG"
+          },
+          {
+            "count": 1,
+            "name": "N's Darmanitan",
+            "number": "27",
+            "set": "JTG"
+          },
+          {
+            "count": 1,
+           "name": "Fezandipiti ex",
+            "set": "ASC",
+            "number": "142"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Cyrano",
+            "number": "170",
+            "set": "SSP"
+          },
+          {
+            "name": "Black Belt's Training",
+            "set": "JTG",
+            "number": "145",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "name": "Janine's Secret Art",
+            "number": "112",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Ciphermaniac's Codebreaking",
+            "number": "104",
+            "set": "PRE"
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "N's PP Up",
+            "number": "195",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Special Red Card",
+            "number": "82",
+            "set": "CRI"
+          },
+          {
+            "count": 1,
+            "name": "Tool Scrapper",
+            "number": "212",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Binding Mochi",
+            "number": "95",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Punk Helmet",
+            "number": "92",
+            "set": "PFL"
+          },
+          {
+            "count": 1,
+            "name": "Survival Brace - ACESPEC",
+            "number": "164",
+            "set": "TWM"
+          },
+          {
+            "count": 2,
+            "name": "N's Castle",
+            "number": "152",
+            "set": "JTG"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Darkness Energy",
+            "set": "MEE",
+            "number": "7",
+            "count": 8
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -61725,7 +62848,212 @@
         "opp": 0.47172619047619047,
         "oppopp": 0.4876297654478458
       },
-      
+     "decklist": {
+        "pokemon": [
+          {
+            "count": 3,
+            "name": "Hoothoot",
+            "number": "114",
+            "set": "SCR"
+          },
+          {
+            "count": 3,
+            "name": "Noctowl",
+            "set": "PRE",
+            "number": "78"
+          },
+          {
+            "count": 2,
+            "name": "Fan Rotom",
+            "number": "118",
+            "set": "SCR"
+          },
+          {
+            "count": 2,
+            "name": "Teal Mask Ogerpon ex",
+            "number": "25",
+            "set": "TWM"
+          },
+          {
+            "count": 2,
+            "name": "Raging Bolt ex",
+            "number": "123",
+            "set": "TEF"
+          },
+          {
+            "count": 2,
+            "name": "Lillie's Clefairy ex",
+            "number": "76",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Wellspring Mask Ogerpon ex",
+            "number": "64",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Terapagos ex",
+            "set": "ASC",
+            "number": "179"
+          },
+          {
+            "count": 1,
+            "name": "Iron Leaves ex",
+            "set": "TEF",
+            "number": "25"
+          },
+          {
+            "count": 1,
+            "name": "Mega Kangaskhan ex",
+           "number": "104",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+            "number": "38",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "Meowth ex",
+            "number": "62",
+            "set": "POR"
+          },
+          {
+            "count": 1,
+            "name": "Latias ex",
+            "number": "76",
+            "set": "SSP"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Crispin",
+            "number": "105",
+            "set": "PRE"
+          },
+          {
+            "count": 2,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Cyrano",
+            "number": "170",
+            "set": "SSP"
+          },
+          {
+            "count": 1,
+            "name": "Brock's Scouting",
+            "number": "146",
+            "set": "JTG"
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Tera Orb",
+            "number": "189",
+            "set": "SSP"
+          },
+          {
+            "count": 1,
+            "name": "Energy Switch",
+            "number": "115",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Glass Trumpet",
+            "number": "189",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Unfair Stamp - ACESPEC",
+            "number": "165",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Energy Search",
+            "number": "72",
+            "set": "POR"
+          },
+          {
+            "name": "Energy Retrieval",
+            "set": "WHT",
+            "number": "82",
+            "count": 1
+          },
+          {
+            "count": 3,
+            "name": "Area Zero Underdepths",
+            "number": "94",
+            "set": "PRE"
+          },
+          {
+            "name": "Jamming Tower",
+            "set": "TWM",
+            "number": "153",
+            "count": 1
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Grass Energy",
+            "set": "MEE",
+            "number": "1",
+            "count": 5
+          },
+          {
+            "name": "Basic Lightning Energy",
+            "set": "MEE",
+            "number": "4",
+            "count": 2
+          },
+          {
+            "name": "Basic Psychic Energy",
+            "set": "MEE",
+            "number": "5",
+            "count": 2
+          },
+          {
+            "name": "Basic Fighting Energy",
+            "set": "MEE",
+            "number": "6",
+            "count": 2
+          },
+          {
+            "name": "Basic Water Energy",
+            "set": "MEE",
+            "number": "3",
+            "count": 1
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -63092,7 +64420,194 @@
         "opp": 0.453125,
         "oppopp": 0.48036334325396823
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 3,
+            "name": "Mega Kangaskhan ex",
+            "number": "104",
+            "set": "MEG"
+          },
+          {
+            "count": 3,
+            "name": "Lillie's Clefairy ex",
+            "number": "56",
+            "set": "JTG"
+          },
+          {
+            "count": 3,
+            "name": "Meowth ex",
+            "set": "POR",
+            "number": "62"
+          },
+          {
+            "count": 2,
+            "name": "Teal Mask Ogerpon ex",
+            "number": "25",
+            "set": "TWM"
+          },
+          {
+            "count": 2,
+            "name": "Latias ex",
+            "number": "76",
+            "set": "SSP"
+          },
+          {
+            "count": 1,
+            "name": "Wellspring Mask Ogerpon ex",
+            "number": "64",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+            "set": "ASC",
+            "number": "142"
+          },
+          {
+            "count": 1,
+            "name": "Iron Crown ex",
+            "set": "TEF",
+            "number": "81"
+          },
+          {
+            "count": 1,
+            "name": "Iron Leaves ex",
+            "set": "TEF",
+            "number": "25"
+          },
+          {
+            "count": 1,
+            "name": "Bloodmoon Ursaluna ex",
+            "set": "TWM",
+            "number": "141"
+          },
+          {
+            "count": 1,
+            "name": "Paldean Tauros",
+             "set": "SSP",
+            "number": "18"
+          },
+          {
+            "count": 1,
+            "name": "Flutter Mane",
+            "number": "78",
+            "set": "TEF"
+          },
+          {
+            "count": 1,
+            "name": "Chien-Pao",
+            "set": "SSP",
+            "number": "56"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 3,
+            "name": "Crispin",
+            "number": "105",
+            "set": "PRE"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Cyrano",
+            "number": "170",
+            "set": "SSP"
+          },
+          {
+            "count": 2,
+            "name": "Ciphermaniac's Codebreaking",
+            "number": "104",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Xerosic's Machinations",
+            "number": "64",
+            "set": "SFA"
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Energy Switch",
+            "number": "115",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Unfair Stamp - ACESPEC",
+            "number": "165",
+            "set": "TWM"
+          },
+          {
+            "count": 2,
+            "name": "Lillie's Pearl",
+            "number": "151",
+            "set": "JTG"
+          },
+          {
+            "count": 3,
+            "name": "Area Zero Underdepths",
+            "number": "94",
+            "set": "PRE"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Grass Energy",
+            "set": "MEE",
+            "number": "1",
+            "count": 5
+          },
+          {
+            "name": "Basic Psychic Energy",
+            "set": "MEE",
+            "number": "5",
+            "count": 2
+          },
+          {
+            "name": "Basic Fire Energy",
+            "set": "MEE",
+            "number": "2",
+            "count": 1
+          },
+          {
+            "name": "Basic Water Energy",
+            "set": "MEE",
+            "number": "3",
+            "count": 1
+          },
+          {
+            "count": 3,
+            "name": "Telepathic Psychic Energy - Special",
+            "number": "88",
+            "set": "POR"
+          },
+          {
+            "count": 1,
+            "name": "Prism Energy - Special",
+            "number": "216",
+            "set": "ASC"
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -65349,7 +66864,176 @@
         "opp": 0.4285714285714286,
         "oppopp": 0.4667992665816327
       },
-      
+     "decklist": {
+        "pokemon": [
+          {
+            "count": 3,
+            "name": "Dragapult ex",
+            "number": "73",
+            "set": "PRE"
+          },
+          {
+            "count": 4,
+            "name": "Drakloak",
+            "number": "72",
+            "set": "PRE"
+          },
+          {
+            "count": 4,
+            "name": "Dreepy",
+            "number": "71",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Dusknoir",
+            "number": "37",
+            "set": "PRE"
+          },
+          {
+            "count": 2,
+            "name": "Dusclops",
+            "number": "36",
+            "set": "PRE"
+          },
+          {
+            "count": 2,
+            "name": "Duskull",
+            "number": "35",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Munkidori",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Budew",
+            "number": "16",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Shaymin",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+           "number": "38",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "Meowth ex",
+           "set": "POR",
+            "number": "62"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Crispin",
+            "number": "105",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Rosa's Encouragement",
+            "number": "84",
+            "set": "POR"
+          },
+          {
+            "count": 1,
+            "name": "Dawn",
+            "number": "87",
+            "set": "PFL"
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "name": "Crushing Hammer",
+            "set": "POR",
+            "number": "71",
+            "count": 3
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Unfair Stamp - ACESPEC",
+            "number": "165",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Team Rocket's Watchtower",
+            "number": "210",
+            "set": "ASC"
+          },
+          {
+            "name": "Jamming Tower",
+            "set": "TWM",
+            "number": "153",
+            "count": 1
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Fire Energy",
+            "set": "MEE",
+            "number": "2",
+            "count": 3
+          },
+          {
+            "name": "Basic Psychic Energy",
+            "set": "MEE",
+            "number": "5",
+            "count": 3
+          },
+          {
+            "name": "Basic Darkness Energy",
+            "set": "MEE",
+            "number": "7",
+            "count": 2
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -66064,7 +67748,164 @@
         "opp": 0.5989583333333334,
         "oppopp": 0.5131510416666667
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+            "name": "Mega Kangaskhan ex",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 4,
+            "name": "Teal Mask Ogerpon ex",
+            "number": "25",
+            "set": "TWM"
+          },
+          {
+            "count": 2,
+            "name": "Chikorita",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 2,
+            "name": "Bayleef",
+            "number": "9",
+            "set": "MEG"
+          },
+          {
+            "count": 2,
+            "name": "Meganium",
+            "number": "10",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Dipplin",
+            "number": "127",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Applin",
+            "number": "126",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Hydrapple ex",
+            "set": "PRE",
+            "number": "11"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+            "number": "104",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Latias ex",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Meowth ex",
+           "set": "POR",
+            "number": "62"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Dawn",
+            "number": "87",
+            "set": "PFL"
+          },
+          {
+            "name": "Eri",
+            "set": "TEF",
+            "number": "146",
+            "count": 2
+          },
+          {
+            "count": 1,
+            "name": "Morty's Conviction",
+            "number": "155",
+            "set": "TEF"
+          },
+          {
+            "count": 1,
+            "name": "Lana's Aid",
+            "number": "155",
+            "set": "TWM"
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Bug Catching Set",
+            "number": "102",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Switch",
+            "number": "130",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "name": "Jumbo Ice Cream",
+            "set": "PFL",
+            "number": "91",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "name": "Unfair Stamp - ACESPEC",
+            "number": "165",
+            "set": "TWM"
+          },
+          {
+            "count": 4,
+            "name": "Forest of Vitality",
+            "number": "188",
+            "set": "ASC"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Grass Energy",
+            "set": "MEE",
+            "number": "1",
+            "count": 13
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -67156,14 +68997,14 @@
           {
             "count": 2,
             "name": "Torchic",
-            "number": "18",
-            "set": "SV10"
+            "number": "40",
+            "set": "DRI"
           },
           {
             "count": 2,
             "name": "Blaziken ex",
-            "number": "16",
-            "set": "SVM"
+            "number": "24",
+            "set": "JTG"
           },
           {
             "count": 2,
@@ -67174,8 +69015,8 @@
           {
             "count": 1,
             "name": "Combusken",
-            "number": "19",
-            "set": "SV10"
+            "number": "41",
+            "set": "DRI"
           },
           {
             "count": 1,
@@ -67186,14 +69027,14 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "60",
-            "set": "M2a"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
@@ -67204,8 +69045,8 @@
           {
             "count": 1,
             "name": "Yveltal",
-            "number": "40",
-            "set": "M1L"
+            "set": "MEG",
+      "number": "88"
           }
         ],
         "trainer": [
@@ -72298,7 +74139,176 @@
         "opp": 0.4947916666666667,
         "oppopp": 0.4724392361111111
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 3,
+            "name": "Dragapult ex",
+            "number": "130",
+            "set": "TWM"
+          },
+          {
+            "count": 4,
+            "name": "Drakloak",
+            "number": "129",
+            "set": "TWM"
+          },
+          {
+            "count": 4,
+            "name": "Dreepy",
+            "set": "ASC",
+            "number": "158"
+          },
+          {
+            "count": 2,
+            "name": "Munkidori",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Dudunsparce",
+            "number": "80",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Dunsparce",
+            "number": "120",
+            "set": "JTG"
+          },
+          {
+            "count": 1,
+            "name": "Meowth ex",
+           "set": "POR",
+            "number": "62"
+          },
+          {
+            "count": 1,
+            "name": "Budew",
+            "number": "4",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Shaymin",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Moltres",
+            "number": "14",
+            "set": "PFL"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+            "number": "38",
+            "set": "SFA"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Crispin",
+            "number": "105",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Rosa's Encouragement",
+            "number": "84",
+            "set": "POR"
+          },
+          {
+            "count": 1,
+            "name": "Judge",
+            "number": "76",
+            "set": "POR"
+          },
+          {
+            "name": "Crushing Hammer",
+            "set": "POR",
+            "number": "71",
+            "count": 4
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Unfair Stamp - ACESPEC",
+            "number": "165",
+            "set": "TWM"
+          },
+          {
+            "name": "Jamming Tower",
+            "set": "TWM",
+            "number": "153",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "name": "Team Rocket's Watchtower",
+            "number": "210",
+            "set": "ASC"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Fire Energy",
+            "set": "MEE",
+            "number": "2",
+            "count": 3
+          },
+          {
+            "name": "Basic Psychic Energy",
+            "set": "MEE",
+            "number": "5",
+            "count": 3
+          },
+          {
+            "name": "Basic Darkness Energy",
+            "set": "MEE",
+            "number": "7",
+            "count": 2
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -72362,56 +74372,56 @@
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "132",
-            "set": "M2a"
+            "number": "128",
+            "set": "TWM"
           },
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "80",
-            "set": "SV6"
+            "number": "72",
+            "set": "PRE"
           },
           {
             "count": 3,
             "name": "Dragapult ex",
-            "number": "548",
-            "set": "MC"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "11",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "16"
           },
           {
             "count": 1,
             "name": "Patrat",
-            "number": "68",
-            "set": "M4"
+            "number": "70",
+            "set": "CRI"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "2",
-            "set": "SVN"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           }
         ],
         "trainer": [
@@ -72580,26 +74590,26 @@
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "118",
-            "set": "SV8a"
+            "number": "71",
+            "set": "PRE"
           },
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "119",
-            "set": "SV8a"
+            "number": "72",
+            "set": "PRE"
           },
           {
             "count": 3,
             "name": "Dragapult ex",
-            "number": "81",
-            "set": "SV6"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 2,
             "name": "Budew",
-            "number": "1",
-            "set": "SV8a"
+           "set": "ASC",
+            "number": "16"
           },
           {
             "count": 1,
@@ -72611,19 +74621,19 @@
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Patrat",
-            "number": "68",
-            "set": "M4"
+            "number": "70",
+            "set": "CRI"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "114",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -78209,7 +80219,170 @@
         "opp": 0.40625,
         "oppopp": 0.47174479166666666
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 2,
+            "name": "Dragapult ex",
+            "number": "130",
+            "set": "TWM"
+          },
+          {
+            "count": 4,
+            "name": "Drakloak",
+            "number": "129",
+            "set": "TWM"
+          },
+          {
+            "count": 4,
+            "name": "Dreepy",
+            "number": "128",
+            "set": "TWM"
+          },
+          {
+            "count": 2,
+            "name": "Torchic",
+            "number": "40",
+            "set": "DRI"
+          },
+          {
+            "count": 2,
+            "name": "Blaziken ex",
+            "number": "24",
+            "set": "JTG"
+          },
+          {
+            "count": 2,
+            "name": "Munkidori",
+            "number": "95",
+            "set": "TWM"
+          },
+          {
+            "count": 2,
+            "name": "Budew",
+            "number": "16",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Combusken",
+            "number": "41",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+            "number": "38",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "Meowth ex",
+           "set": "POR",
+            "number": "62"
+          },
+          {
+            "count": 1,
+            "name": "Shaymin",
+            "number": "10",
+            "set": "DRI"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Dawn",
+            "number": "87",
+            "set": "PFL"
+          },
+          {
+            "count": 1,
+            "name": "Crispin",
+            "number": "105",
+            "set": "PRE"
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Rare Candy",
+            "number": "125",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Special Red Card",
+            "number": "82",
+            "set": "CRI"
+          },
+          {
+            "count": 1,
+            "name": "Unfair Stamp - ACESPEC",
+            "number": "165",
+            "set": "TWM"
+          },
+          {
+            "count": 2,
+            "name": "Area Zero Underdepths",
+            "number": "94",
+            "set": "PRE"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Fire Energy",
+            "set": "MEE",
+            "number": "2",
+            "count": 3
+          },
+          {
+            "name": "Basic Psychic Energy",
+            "set": "MEE",
+            "number": "5",
+            "count": 3
+          },
+          {
+            "name": "Basic Darkness Energy",
+            "set": "MEE",
+            "number": "7",
+            "count": 3
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -78268,7 +80441,170 @@
         "opp": 0.40625,
         "oppopp": 0.44433593749999994
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+            "name": "Drakloak",
+            "number": "72",
+            "set": "PRE"
+          },
+          {
+            "count": 4,
+            "name": "Dreepy",
+            "number": "71",
+            "set": "PRE"
+          },
+          {
+            "count": 3,
+            "name": "Dragapult ex",
+            "set": "ASC",
+            "number": "160"
+          },
+          {
+            "count": 1,
+            "name": "Moltres",
+            "number": "14",
+            "set": "PFL"
+          },
+          {
+            "count": 1,
+            "name": "Budew",
+            "number": "4",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Shaymin",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Munkidori",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Yveltal",
+            "number": "88",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Meowth ex",
+           "set": "POR",
+            "number": "62"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+            "set": "ASC",
+            "number": "142"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Crispin",
+            "number": "105",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Dawn",
+            "number": "87",
+            "set": "PFL"
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "name": "Crushing Hammer",
+            "set": "POR",
+            "number": "71",
+            "count": 4
+          },
+          {
+            "count": 3,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Special Red Card",
+            "number": "82",
+            "set": "CRI"
+          },
+          {
+            "count": 1,
+            "name": "Unfair Stamp - ACESPEC",
+            "number": "165",
+            "set": "TWM"
+          },
+          {
+            "count": 2,
+            "name": "Team Rocket's Watchtower",
+            "number": "210",
+            "set": "ASC"
+          },
+          {
+            "name": "Jamming Tower",
+            "set": "TWM",
+            "number": "153",
+            "count": 1
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Fire Energy",
+            "set": "MEE",
+            "number": "2",
+            "count": 4
+          },
+          {
+            "name": "Basic Psychic Energy",
+            "set": "MEE",
+            "number": "5",
+            "count": 3
+          },
+          {
+            "name": "Basic Darkness Energy",
+            "set": "MEE",
+            "number": "7",
+            "count": 2
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -85347,8 +87683,8 @@
           {
             "count": 2,
             "name": "Metagross",
-            "number": "59",
-            "set": "M4"
+            "number": "61",
+            "set": "CRI"
           },
           {
             "count": 2,
@@ -86201,14 +88537,14 @@
           {
             "count": 4,
             "name": "Kadabra",
-            "number": "37",
-            "set": "M1S"
+            "number": "55",
+            "set": "MEG"
           },
           {
             "count": 4,
             "name": "Abra",
-            "number": "36",
-            "set": "M1S"
+            "number": "54",
+            "set": "MEG"
           },
           {
             "count": 3,
@@ -86219,8 +88555,8 @@
           {
             "count": 3,
             "name": "Dunsparce",
-            "number": "78",
-            "set": "SV9"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 3,
@@ -86243,8 +88579,8 @@
           {
             "count": 1,
             "name": "Chien-Pao",
-            "number": "43",
-            "set": "M2a"
+            "number": "56",
+            "set": "SSP"
           },
           {
             "count": 1,
@@ -86673,20 +89009,20 @@
           {
             "count": 2,
             "name": "Dragapult ex",
-            "number": "134",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 2,
             "name": "Torchic",
-            "number": "18",
-            "set": "SV10"
+            "number": "40",
+            "set": "DRI"
           },
           {
             "count": 2,
             "name": "Blaziken ex",
-            "number": "16",
-            "set": "SVM"
+            "number": "24",
+            "set": "JTG"
           },
           {
             "count": 1,
@@ -86709,20 +89045,20 @@
           {
             "count": 1,
             "name": "Patrat",
-            "number": "68",
-            "set": "M4"
+            "number": "70",
+            "set": "CRI"
           },
           {
             "count": 1,
             "name": "Combusken",
-            "number": "19",
-            "set": "SV10"
+            "number": "41",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Chien-Pao",
-            "number": "32",
-            "set": "SV8"
+            "number": "56",
+            "set": "SSP"
           }
         ],
         "trainer": [
@@ -88177,8 +90513,8 @@
           {
             "count": 3,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 3,
@@ -88219,14 +90555,14 @@
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "19",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 2,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -88255,8 +90591,8 @@
           {
             "count": 1,
             "name": "Chien-Pao",
-            "number": "43",
-            "set": "M2a"
+            "number": "56",
+            "set": "SSP"
           }
         ],
         "trainer": [
@@ -90395,32 +92731,32 @@
           {
             "count": 2,
             "name": "Blaziken ex",
-            "number": "16",
-            "set": "SVM"
+            "number": "24",
+            "set": "JTG"
           },
           {
             "count": 2,
             "name": "Torchic",
-            "number": "18",
-            "set": "SV10"
+            "number": "40",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Combusken",
-            "number": "19",
-            "set": "SV10"
+            "number": "41",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "115",
-            "set": "SV9"
+            "set": "ASC",
+            "number": "76"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "100",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -90437,8 +92773,8 @@
           {
             "count": 1,
             "name": "Pecharunt",
-            "number": "75",
-            "set": "SV8"
+            "number": "149",
+            "set": "PR-SV"
           }
         ],
         "trainer": [
@@ -90605,74 +92941,74 @@
           {
             "count": 4,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 4,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 2,
             "name": "Teal Mask Ogerpon ex",
-            "number": "20",
-            "set": "SV8a"
+            "number": "25",
+            "set": "TWM"
           },
           {
             "count": 2,
             "name": "Lillie's Clefairy ex",
-            "number": "33",
-            "set": "SV9"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 2,
             "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "19",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Raging Bolt ex",
-            "number": "53",
-            "set": "SV5K"
+            "number": "123",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Iron Leaves ex",
-            "number": "16",
-            "set": "SV8a"
+            "number": "25",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Iron Crown ex",
-            "number": "36",
-            "set": "SV5M"
+            "number": "81",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Wellspring Mask Ogerpon ex",
-            "number": "50",
-            "set": "SV8a"
+            "number": "64",
+            "set": "TWM"
           },
           {
             "count": 1,
             "name": "Chien-Pao",
-            "number": "32",
-            "set": "SV8"
+            "number": "56",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Passimian",
-            "number": "31",
-            "set": "SV7a"
+             "number": "111",
+            "set": "SSP"
           }
         ],
         "trainer": [
@@ -91479,8 +93815,8 @@
           {
             "count": 2,
             "name": "Munkidori",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
@@ -91503,8 +93839,8 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -91521,14 +93857,14 @@
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "6",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           }
         ],
         "trainer": [
@@ -91913,8 +94249,8 @@
           {
             "count": 2,
             "name": "Dunsparce",
-            "number": "78",
-            "set": "SV9"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 2,
@@ -91925,8 +94261,8 @@
           {
             "count": 1,
             "name": "Dudunsparce ex",
-            "number": "79",
-            "set": "SV9"
+           "number": "121",
+            "set": "JTG"
           },
           {
             "count": 1,
@@ -91937,20 +94273,20 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "11",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "16"
           },
           {
             "count": 1,
@@ -92733,68 +95069,68 @@
           {
             "count": 4,
             "name": "Mega Kangaskhan ex",
-            "number": "89",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 3,
             "name": "Teal Mask Ogerpon ex",
-            "number": "125",
-            "set": "SV6"
+            "number": "25",
+            "set": "TWM"
           },
           {
             "count": 3,
             "name": "Meowth ex",
-            "number": "114",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "87",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 2,
             "name": "Fezandipiti ex",
-            "number": "89",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 2,
             "name": "Lillie's Clefairy ex",
-            "number": "126",
-            "set": "SV9"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Wellspring Mask Ogerpon ex",
-            "number": "127",
-            "set": "SV6"
+           "number": "27",
+            "set": "PRE"
           },
           {
             "count": 1,
             "name": "Raging Bolt ex",
-            "number": "95",
-            "set": "SV5K"
+            "number": "123",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Chien-Pao",
-            "number": "32",
-            "set": "SV8"
+            "number": "56",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Passimian",
-            "number": "31",
-            "set": "SV7a"
+             "number": "111",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Iron Leaves ex",
-            "number": "93",
-            "set": "SV5M"
+            "number": "25",
+            "set": "TEF"
           }
         ],
         "trainer": [
@@ -97231,8 +99567,8 @@
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "132",
-            "set": "M2a"
+            "number": "128",
+            "set": "TWM"
           },
           {
             "count": 1,
@@ -97255,8 +99591,8 @@
           {
             "count": 1,
             "name": "Budew",
-            "number": "196",
-            "set": "M2a"
+            "number": "16",
+            "set": "ASC"
           },
           {
             "count": 1,
@@ -97267,20 +99603,20 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "114",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "244",
-            "set": "M2a"
+           "number": "38",
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "66",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           }
         ],
         "trainer": [
@@ -97662,26 +99998,26 @@
           {
             "count": 2,
             "name": "Blaziken ex",
-            "number": "16",
-            "set": "SVM"
+            "number": "24",
+            "set": "JTG"
           },
           {
             "count": 2,
             "name": "Torchic",
-            "number": "18",
-            "set": "SV10"
+            "number": "40",
+            "set": "DRI"
           },
           {
             "count": 2,
             "name": "Munkidori",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Combusken",
-            "number": "19",
-            "set": "SV10"
+            "number": "41",
+            "set": "DRI"
           },
           {
             "count": 1,
@@ -97698,8 +100034,8 @@
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "60",
-            "set": "M2a"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
@@ -97710,14 +100046,14 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "6",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           }
         ],
         "trainer": [
@@ -99368,8 +101704,8 @@
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "212",
-            "set": "M2a"
+            "number": "129",
+            "set": "TWM"
           },
           {
             "count": 4,
@@ -99387,13 +101723,13 @@
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "100",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -99410,8 +101746,8 @@
           {
             "count": 1,
             "name": "Dudunsparce",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
@@ -101285,8 +103621,8 @@
           {
             "count": 1,
             "name": "Passimian",
-            "number": "31",
-            "set": "SV7a"
+             "number": "111",
+            "set": "SSP"
           },
           {
             "count": 1,
@@ -104716,20 +107052,20 @@
           {
             "count": 2,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 2,
             "name": "Pecharunt",
-            "number": "75",
-            "set": "SV8"
+            "number": "149",
+            "set": "PR-SV"
           },
           {
             "count": 2,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 2,
@@ -104740,14 +107076,14 @@
           {
             "count": 2,
             "name": "Lillie's Clefairy ex",
-            "number": "60",
-            "set": "M2a"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Iron Leaves ex",
-            "number": "16",
-            "set": "SV5M"
+            "number": "25",
+            "set": "TEF"
           },
           {
             "count": 1,
@@ -104765,7 +107101,7 @@
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
@@ -105138,8 +107474,8 @@
           {
             "count": 3,
             "name": "Dragapult ex",
-            "number": "548",
-            "set": "MC"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 2,
@@ -105168,20 +107504,20 @@
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "358",
-            "set": "MC"
+            "number": "99",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "2",
-            "set": "SVN"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           }
         ],
         "trainer": [
@@ -105801,20 +108137,20 @@
           {
             "count": 4,
             "name": "N's Zorua",
-            "number": "60",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "136"
           },
           {
             "count": 2,
             "name": "N's Zekrom",
-            "number": "129",
-            "set": "M2a"
+            "set": "ASC",
+      "number": "155"
           },
           {
             "count": 2,
             "name": "Munkidori",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
@@ -105825,8 +108161,8 @@
           {
             "count": 1,
             "name": "Yveltal",
-            "number": "40",
-            "set": "M1L"
+            "set": "MEG",
+      "number": "88"
           },
           {
             "count": 1,
@@ -106011,14 +108347,14 @@
           {
             "count": 4,
             "name": "Abra",
-            "number": "36",
-            "set": "M1S"
+            "number": "54",
+            "set": "MEG"
           },
           {
             "count": 4,
             "name": "Kadabra",
-            "number": "37",
-            "set": "M1S"
+            "number": "55",
+            "set": "MEG"
           },
           {
             "count": 3,
@@ -106029,26 +108365,26 @@
           {
             "count": 3,
             "name": "Dunsparce",
-            "number": "78",
-            "set": "SV9"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 2,
             "name": "Dudunsparce",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Psyduck",
-            "number": "32",
-            "set": "M2a"
+            "number": "39",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
@@ -107363,32 +109699,32 @@
           {
             "count": 4,
             "name": "Mega Kangaskhan ex",
-            "number": "80",
-            "set": "M1S"
+            "set": "MEG",
+            "number": "104"
           },
           {
             "count": 4,
             "name": "Slowpoke",
-            "number": "38",
-            "set": "SV7"
+            "number": "57",
+            "set": "SCR"
           },
           {
             "count": 3,
             "name": "Slowking",
-            "number": "39",
-            "set": "SV7"
+            "number": "58",
+            "set": "SCR"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "19",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 2,
             "name": "Metagross",
-            "number": "59",
-            "set": "M4"
+            "number": "61",
+            "set": "CRI"
           },
           {
             "count": 2,
@@ -107399,8 +109735,8 @@
           {
             "count": 2,
             "name": "Annihilape",
-            "number": "39",
-            "set": "M5"
+            "set": "PBL",
+            "number": "41"
           },
           {
             "count": 1,
@@ -107417,8 +109753,8 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           }
         ],
         "trainer": [
@@ -110958,8 +113294,8 @@
           {
             "count": 4,
             "name": "Munkidori",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 3,
@@ -110976,8 +113312,8 @@
           {
             "count": 2,
             "name": "Budew",
-            "number": "11",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "16"
           },
           {
             "count": 2,
@@ -110994,14 +113330,14 @@
           {
             "count": 1,
             "name": "Yveltal",
-            "number": "481",
-            "set": "MC"
+            "number": "88",
+            "set": "MEG"
           },
           {
             "count": 1,
             "name": "Bloodmoon Ursaluna ex",
-            "number": "52",
-            "set": "SV5a"
+            "number": "141",
+            "set": "TMW"
           }
         ],
         "trainer": [
@@ -111375,14 +113711,14 @@
           {
             "count": 3,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 3,
             "name": "Meowth ex",
-            "number": "100",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 2,
@@ -111441,14 +113777,14 @@
           {
             "count": 1,
             "name": "Passimian",
-            "number": "31",
-            "set": "SV7a"
+             "number": "111",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Chien-Pao",
-            "number": "43",
-            "set": "M2a"
+            "number": "56",
+            "set": "SSP"
           }
         ],
         "trainer": [
@@ -111612,62 +113948,62 @@
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "211",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "158"
           },
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "119",
-            "set": "SV8a"
+            "number": "72",
+            "set": "PRE"
           },
           {
             "count": 3,
             "name": "Dragapult ex",
-            "number": "221",
-            "set": "SV8a"
+            "number": "160",
+            "set": "ASC"
           },
           {
             "count": 2,
             "name": "Munkidori",
-            "number": "107",
-            "set": "SV6"
+            "set": "ASC",
+            "number": "99"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Dunsparce",
-            "number": "78",
-            "set": "SV9"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Dudunsparce",
-            "number": "57",
-            "set": "SV5K"
+            "number": "129",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "196",
-            "set": "M2a"
+            "number": "16",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           }
         ],
         "trainer": [
@@ -112220,62 +114556,62 @@
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "546",
-            "set": "MC"
+            "set": "ASC",
+            "number": "158"
           },
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "547",
-            "set": "MC"
+             "set": "ASC",
+            "number": "159"
           },
           {
             "count": 3,
             "name": "Dragapult ex",
-            "number": "548",
-            "set": "MC"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 2,
             "name": "Munkidori",
-            "number": "358",
-            "set": "MC"
+            "number": "99",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "1",
-            "set": "SV8a"
+           "set": "ASC",
+            "number": "16"
           },
           {
             "count": 1,
             "name": "Dunsparce",
-            "number": "78",
-            "set": "SV9"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Dudunsparce",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "244",
-            "set": "M2a"
+           "number": "38",
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "100",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           }
         ],
         "trainer": [
@@ -113078,8 +115414,8 @@
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "6",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           }
         ],
         "trainer": [
@@ -114357,7 +116693,7 @@
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
@@ -114368,8 +116704,8 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "100",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           }
         ],
         "trainer": [
@@ -115354,26 +117690,26 @@
           {
             "count": 4,
             "name": "Slowpoke",
-            "number": "38",
-            "set": "SV7"
+            "number": "57",
+            "set": "SCR"
           },
           {
             "count": 3,
             "name": "Slowking",
-            "number": "39",
-            "set": "SV7"
+            "number": "58",
+            "set": "SCR"
           },
           {
             "count": 3,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 2,
             "name": "Metagross",
-            "number": "59",
-            "set": "M4"
+            "number": "61",
+            "set": "CRI"
           },
           {
             "count": 2,
@@ -115384,20 +117720,20 @@
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "19",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Annihilape",
-            "number": "39",
-            "set": "M5"
+            "set": "PBL",
+            "number": "41"
           },
           {
             "count": 1,
             "name": "Zeraora",
-            "number": "55",
-            "set": "M2a"
+            "number": "78",
+            "set": "DRI"
           },
           {
             "count": 1,
@@ -115414,20 +117750,20 @@
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "33",
-            "set": "SV9"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "114",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           }
         ],
         "trainer": [
@@ -119464,32 +121800,32 @@
           {
             "count": 4,
             "name": "Dhelmise",
-            "number": "37",
-            "set": "M5"
+            "number": "39",
+            "set": "PBL"
           },
           {
             "count": 4,
             "name": "Shuppet",
-            "number": "31",
-            "set": "M5"
+            "number": "33",
+            "set": "PBL"
           },
           {
             "count": 4,
             "name": "Banette",
-            "number": "32",
-            "set": "M5"
+            "number": "34",
+            "set": "PBL"
           },
           {
             "count": 4,
             "name": "Poltchageist",
             "number": "5",
-            "set": "M5"
+            "set": "PBL"
           },
           {
             "count": 4,
             "name": "Sinistcha",
             "number": "6",
-            "set": "M5"
+            "set": "PBL"
           },
           {
             "count": 1,
@@ -119500,14 +121836,14 @@
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "60",
-            "set": "M2a"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Latias ex",
-            "number": "19",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 1,
@@ -119518,8 +121854,8 @@
           {
             "count": 1,
             "name": "Patrat",
-            "number": "68",
-            "set": "M4"
+            "number": "70",
+            "set": "CRI"
           }
         ],
         "trainer": [
@@ -121497,8 +123833,8 @@
           {
             "count": 3,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 3,
@@ -121521,8 +123857,8 @@
           {
             "count": 2,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -121539,8 +123875,8 @@
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "60",
-            "set": "M2a"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
@@ -121563,8 +123899,8 @@
           {
             "count": 1,
             "name": "Chien-Pao",
-            "number": "43",
-            "set": "M2a"
+            "number": "56",
+            "set": "SSP"
           }
         ],
         "trainer": [
@@ -121759,8 +124095,8 @@
           {
             "count": 1,
             "name": "Budew",
-            "number": "196",
-            "set": "M2a"
+            "number": "16",
+            "set": "ASC"
           },
           {
             "count": 1,
@@ -121771,14 +124107,14 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "100",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "6",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           }
         ],
         "trainer": [
@@ -122334,14 +124670,14 @@
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "133",
-            "set": "M2a"
+            "number": "72",
+            "set": "PRE"
           },
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "132",
-            "set": "M2a"
+            "number": "128",
+            "set": "TWM"
           },
           {
             "count": 2,
@@ -122364,8 +124700,8 @@
           {
             "count": 2,
             "name": "Dragapult ex",
-            "number": "134",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 2,
@@ -122382,8 +124718,8 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "100",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -125293,68 +127629,68 @@
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "132",
-            "set": "M2a"
+            "number": "128",
+            "set": "TWM"
           },
           {
             "count": 2,
             "name": "Dragapult ex",
-            "number": "548",
-            "set": "MC"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 2,
             "name": "Dunsparce",
-            "number": "78",
-            "set": "SV9"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 2,
             "name": "Munkidori",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Dudunsparce",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Dudunsparce ex",
-            "number": "79",
-            "set": "SV9"
+           "number": "121",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "33",
-            "set": "SV9"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "2",
-            "set": "SVN"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "11",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "16"
           }
         ],
         "trainer": [
@@ -125712,14 +128048,14 @@
           {
             "count": 1,
             "name": "Budew",
-            "number": "196",
-            "set": "M2a"
+            "number": "16",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "66",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           }
         ],
         "trainer": [
@@ -126676,8 +129012,8 @@
           {
             "count": 2,
             "name": "Dragapult ex",
-            "number": "548",
-            "set": "MC"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 2,
@@ -126694,44 +129030,44 @@
           {
             "count": 1,
             "name": "Dudunsparce",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Dudunsparce ex",
-            "number": "79",
-            "set": "SV9"
+           "number": "121",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "196",
-            "set": "M2a"
+            "number": "16",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Yveltal",
-            "number": "40",
-            "set": "M1L"
+            "set": "MEG",
+      "number": "88"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "60",
-            "set": "M2a"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -128772,62 +131108,62 @@
           {
             "count": 4,
             "name": "Abra",
-            "number": "36",
-            "set": "M1S"
+            "number": "54",
+            "set": "MEG"
           },
           {
             "count": 4,
             "name": "Kadabra",
-            "number": "37",
-            "set": "M1S"
+            "number": "55",
+            "set": "MEG"
           },
           {
             "count": 3,
             "name": "Alakazam",
-            "number": "38",
-            "set": "M1S"
+            "number": "56",
+            "set": "MEG"
           },
           {
             "count": 3,
             "name": "Dunsparce",
-            "number": "78",
-            "set": "SV9"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 2,
             "name": "Dudunsparce",
-            "number": "130",
-            "set": "SV8a"
+            "number": "129",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Dedenne",
-            "number": "55",
-            "set": "SV8"
+            "number": "87",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "104",
-            "set": "SV8a"
+            "number": "38",
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "6",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Psyduck",
-            "number": "32",
-            "set": "M2a"
+            "number": "39",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Genesect",
             "number": "40",
-            "set": "SV6a"
+            "set": "SFA"
           }
         ],
         "trainer": [
@@ -128992,8 +131328,8 @@
           {
             "count": 2,
             "name": "Munkidori",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
@@ -129005,13 +131341,13 @@
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -129419,7 +131755,7 @@
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           }
         ],
         "trainer": [
@@ -129784,26 +132120,26 @@
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "212",
-            "set": "M2a"
+            "number": "129",
+            "set": "TWM"
           },
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "211",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "158"
           },
           {
             "count": 2,
             "name": "Torchic",
-            "number": "18",
-            "set": "SV10"
+            "number": "40",
+            "set": "DRI"
           },
           {
             "count": 2,
             "name": "Blaziken ex",
-            "number": "16",
-            "set": "SVM"
+            "number": "24",
+            "set": "JTG"
           },
           {
             "count": 2,
@@ -129814,8 +132150,8 @@
           {
             "count": 1,
             "name": "Combusken",
-            "number": "19",
-            "set": "SV10"
+            "number": "41",
+            "set": "DRI"
           },
           {
             "count": 1,
@@ -129826,20 +132162,20 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "100",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "196",
-            "set": "M2a"
+            "number": "16",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Pecharunt",
-            "number": "75",
-            "set": "SV8"
+            "number": "149",
+            "set": "PR-SV"
           }
         ],
         "trainer": [
@@ -140258,74 +142594,74 @@
           {
             "count": 4,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 4,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 2,
             "name": "Teal Mask Ogerpon ex",
-            "number": "20",
-            "set": "SV8a"
+            "number": "25",
+            "set": "TWM"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "19",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 2,
             "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 2,
             "name": "Lillie's Clefairy ex",
-            "number": "60",
-            "set": "M2a"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Iron Leaves ex",
-            "number": "16",
-            "set": "SV5M"
+            "number": "25",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Iron Crown ex",
-            "number": "36",
-            "set": "SV5M"
+            "number": "81",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Raging Bolt ex",
-            "number": "53",
-            "set": "SV5K"
+            "number": "123",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Wellspring Mask Ogerpon ex",
-            "number": "38",
-            "set": "SV6"
+            "number": "64",
+            "set": "TWM"
           },
           {
             "count": 1,
             "name": "Passimian",
-            "number": "31",
-            "set": "SV7a"
+             "number": "111",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Chien-Pao",
-            "number": "32",
-            "set": "SV8"
+            "number": "56",
+            "set": "SSP"
           }
         ],
         "trainer": [
@@ -146120,74 +148456,74 @@
           {
             "count": 4,
             "name": "N's Zoroark ex",
-            "number": "61",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "137"
           },
           {
             "count": 4,
             "name": "N's Zorua",
-            "number": "60",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "136"
           },
           {
             "count": 2,
             "name": "N's Zekrom",
-            "number": "129",
-            "set": "M2a"
+            "set": "ASC",
+      "number": "155"
           },
           {
             "count": 2,
             "name": "Munkidori",
-            "number": "75",
-            "set": "SV8a"
+            "set": "ASC",
+            "number": "99"
           },
           {
             "count": 2,
             "name": "Pecharunt ex",
             "number": "39",
-            "set": "SV6a"
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "N's Darumaka",
-            "number": "15",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "32"
           },
           {
             "count": 1,
             "name": "N's Darmanitan",
-            "number": "28",
-            "set": "M2a"
+            "number": "33",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Yveltal",
-            "number": "40",
-            "set": "M1L"
+            "set": "MEG",
+      "number": "88"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "1",
-            "set": "SV8a"
+           "set": "ASC",
+            "number": "16"
           },
           {
             "count": 1,
             "name": "Pecharunt",
-            "number": "75",
-            "set": "SV8"
+            "number": "149",
+            "set": "PR-SV"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "104",
-            "set": "SV8a"
+            "number": "38",
+            "set": "SFA"
           }
         ],
         "trainer": [
@@ -148100,56 +150436,56 @@
           {
             "count": 4,
             "name": "Abra",
-            "number": "36",
-            "set": "M1S"
+            "number": "54",
+            "set": "MEG"
           },
           {
             "count": 4,
             "name": "Kadabra",
-            "number": "37",
-            "set": "M1S"
+            "number": "55",
+            "set": "MEG"
           },
           {
             "count": 3,
             "name": "Alakazam",
-            "number": "38",
-            "set": "M1S"
+            "number": "56",
+            "set": "MEG"
           },
           {
             "count": 3,
             "name": "Dunsparce",
-            "number": "78",
-            "set": "SV9"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 2,
             "name": "Dudunsparce",
-            "number": "130",
-            "set": "SV8a"
+            "number": "129",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Dedenne",
-            "number": "55",
-            "set": "SV8"
+            "number": "87",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "66",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Genesect",
             "number": "40",
-            "set": "SV6a"
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "81",
-            "set": "SV6a"
+            "number": "142",
+            "set": "ASC"
           }
         ],
         "trainer": [
@@ -149660,62 +151996,62 @@
           {
             "count": 4,
             "name": "Teal Mask Ogerpon ex",
-            "number": "16",
-            "set": "SV6"
+            "number": "25",
+            "set": "TWM"
           },
           {
             "count": 2,
             "name": "Applin",
-            "number": "11",
-            "set": "SV6"
+            "set": "SCR",
+      "number": "12"
           },
           {
             "count": 2,
             "name": "Dipplin",
-            "number": "12",
-            "set": "SV6"
+           "set": "TWM",
+      "number": "18"
           },
           {
             "count": 2,
             "name": "Hydrapple ex",
-            "number": "115",
-            "set": "SV7"
+            "set": "SCR",
+      "number": "14"
           },
           {
             "count": 2,
             "name": "Chikorita",
-            "number": "16",
-            "set": "MC"
+            "set": "ASC",
+      "number": "8"
           },
           {
             "count": 2,
             "name": "Bayleef",
-            "number": "17",
-            "set": "MC"
+            "set": "ASC",
+      "number": "9"
           },
           {
             "count": 2,
             "name": "Meganium",
-            "number": "5",
-            "set": "M1S"
+            "number": "10",
+            "set": "MEG"
           },
           {
             "count": 2,
             "name": "Celebi",
-            "number": "6",
-            "set": "M1L"
+            "set": "MEG",
+      "number": "12"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "104",
-            "set": "SV8a"
+            "number": "38",
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "114",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           }
         ],
         "trainer": [
@@ -150776,80 +153112,80 @@
           {
             "count": 4,
             "name": "Slowpoke",
-            "number": "38",
-            "set": "SV7"
+            "number": "57",
+            "set": "SCR"
           },
           {
             "count": 3,
             "name": "Mega Kangaskhan ex",
-            "number": "89",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 3,
             "name": "Slowking",
-            "number": "39",
-            "set": "SV7"
+            "number": "58",
+            "set": "SCR"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "87",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 2,
             "name": "Kyurem",
             "number": "47",
-            "set": "SV6a"
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "114",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "126",
-            "set": "SV9"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "89",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Metagross",
-            "number": "59",
-            "set": "M4"
+            "number": "61",
+            "set": "CRI"
           },
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Annihilape",
-            "number": "39",
-            "set": "M5"
+            "set": "PBL",
+            "number": "41"
           },
           {
             "count": 1,
             "name": "Zeraora",
-            "number": "55",
-            "set": "M2a"
+            "number": "78",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Drapion",
-            "number": "51",
-            "set": "M3"
+            "number": "52",
+            "set": "POR"
           }
         ],
         "trainer": [
@@ -154802,74 +157138,74 @@
           {
             "count": 4,
             "name": "Slowpoke",
-            "number": "38",
-            "set": "SV7"
+            "number": "57",
+            "set": "SCR"
           },
           {
             "count": 3,
             "name": "Slowking",
-            "number": "39",
-            "set": "SV7"
+            "number": "58",
+            "set": "SCR"
           },
           {
             "count": 3,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "78",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 2,
             "name": "Kyurem",
             "number": "47",
-            "set": "SV6a"
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "81",
-            "set": "SV6a"
+            "number": "142",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "765",
-            "set": "MC"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "107",
-            "set": "SV6"
+            "set": "ASC",
+            "number": "99"
           },
           {
             "count": 1,
             "name": "Annihilape",
-            "number": "39",
-            "set": "M5"
+            "set": "PBL",
+            "number": "41"
           },
           {
             "count": 1,
             "name": "Metagross",
-            "number": "59",
-            "set": "M4"
+            "number": "61",
+            "set": "CRI"
           },
           {
             "count": 1,
             "name": "Drapion",
-            "number": "90",
-            "set": "M3"
+            "number": "52",
+            "set": "POR"
           }
         ],
         "trainer": [
@@ -155714,38 +158050,38 @@
           {
             "count": 1,
             "name": "Budew",
-            "number": "1",
-            "set": "SV8a"
+           "set": "ASC",
+            "number": "16"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "114",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "89",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Yveltal",
-            "number": "481",
-            "set": "MC"
+            "number": "88",
+            "set": "MEG"
           },
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "107",
-            "set": "SV6"
+            "set": "ASC",
+            "number": "99"
           },
           {
             "count": 1,
             "name": "N's Darmanitan",
-            "number": "28",
-            "set": "M2a"
+            "number": "33",
+            "set": "ASC"
           },
           {
             "count": 1,
@@ -160251,20 +162587,20 @@
           {
             "count": 4,
             "name": "Slowpoke",
-            "number": "38",
-            "set": "SV7"
+            "number": "57",
+            "set": "SCR"
           },
           {
             "count": 3,
             "name": "Slowking",
-            "number": "39",
-            "set": "SV7"
+            "number": "58",
+            "set": "SCR"
           },
           {
             "count": 3,
             "name": "Mega Kangaskhan ex",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 2,
@@ -160276,13 +162612,13 @@
             "count": 2,
             "name": "Kyurem",
             "number": "47",
-            "set": "SV6a"
+            "set": "SFA"
           },
           {
             "count": 2,
             "name": "Metagross",
-            "number": "59",
-            "set": "M4"
+            "number": "61",
+            "set": "CRI"
           },
           {
             "count": 2,
@@ -160293,14 +162629,14 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
@@ -160672,7 +163008,182 @@
         "opp": 0.5234375,
         "oppopp": 0.5164620535714286
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+            "name": "N's Zorua",
+            "number": "7",
+            "set": "MEP"
+          },
+          {
+            "count": 4,
+            "name": "N's Zoroark ex",
+            "number": "117",
+            "set": "SV9"
+          },
+          {
+            "count": 2,
+            "name": "N's Zekrom",
+            "number": "210",
+            "set": "M2a"
+          },
+          {
+            "count": 1,
+            "name": "Munkidori",
+            "number": "95",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Yveltal",
+            "set": "MEG",
+      "number": "88"
+          },
+          {
+            "count": 1,
+            "name": "Meowth ex",
+           "set": "POR",
+            "number": "62"
+          },
+          {
+            "count": 1,
+            "name": "Pecharunt ex",
+            "number": "219",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+           "number": "38",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "N's Reshiram",
+            "number": "109",
+            "set": "SV9"
+          },
+          {
+            "count": 1,
+            "name": "N's Darmanitan",
+            "number": "16",
+            "set": "SV9"
+          },
+          {
+            "count": 1,
+            "name": "N's Darumaka",
+            "number": "27",
+            "set": "M2a"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Cyrano",
+            "number": "170",
+            "set": "SSP"
+          },
+          {
+            "name": "Black Belt's Training",
+            "set": "JTG",
+            "number": "145",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "name": "Ciphermaniac's Codebreaking",
+            "number": "104",
+            "set": "PRE"
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "N's PP Up",
+            "number": "195",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Secret Box - ACESPEC",
+            "number": "163",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Special Red Card",
+            "number": "82",
+            "set": "CRI"
+          },
+          {
+            "count": 1,
+            "name": "Team Rocket's Venture Bomb",
+            "number": "179",
+            "set": "DRI"
+          },
+          {
+            "count": 2,
+            "name": "Binding Mochi",
+            "number": "95",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Gravity Mountain",
+            "number": "177",
+            "set": "SSP"
+          },
+          {
+            "count": 1,
+            "name": "N's Castle",
+            "number": "152",
+            "set": "JTG"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Darkness Energy",
+            "set": "MEE",
+            "number": "7",
+            "count": 8
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -168897,7 +171408,164 @@
         "opp": 0.5770089285714286,
         "oppopp": 0.5169323979591837
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+            "name": "Dreepy",
+            "set": "ASC",
+            "number": "158"
+          },
+          {
+            "count": 4,
+            "name": "Drakloak",
+            "number": "72",
+            "set": "PRE"
+          },
+          {
+            "count": 3,
+            "name": "Dragapult ex",
+            "set": "ASC",
+            "number": "160"
+          },
+          {
+            "count": 2,
+            "name": "Munkidori",
+            "number": "95",
+            "set": "TWM"
+          },
+          {
+            "count": 1,
+            "name": "Dudunsparce",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Dunsparce",
+            "number": "120",
+            "set": "JTG"
+          },
+          {
+            "count": 1,
+            "name": "Budew",
+            "number": "4",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Fezandipiti ex",
+            "number": "38",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "Meowth ex",
+            "set": "POR",
+            "number": "62"
+          },
+          {
+            "count": 1,
+            "name": "Yveltal",
+            "number": "88",
+            "set": "MEG"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Crispin",
+            "number": "105",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Rosa's Encouragement",
+            "number": "84",
+            "set": "POR"
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "name": "Crushing Hammer",
+            "set": "POR",
+            "number": "71",
+            "count": 4
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Special Red Card",
+            "number": "82",
+            "set": "CRI"
+          },
+          {
+            "count": 1,
+            "name": "Hero's Cape - ACESPEC",
+            "number": "152",
+            "set": "TEF"
+          },
+          {
+            "count": 2,
+            "name": "Risky Ruins",
+            "number": "127",
+            "set": "MEG"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Fire Energy",
+            "set": "MEE",
+            "number": "2",
+            "count": 3
+          },
+          {
+            "name": "Basic Psychic Energy",
+            "set": "MEE",
+            "number": "5",
+            "count": 3
+          },
+          {
+            "name": "Basic Darkness Energy",
+            "set": "MEE",
+            "number": "7",
+            "count": 3
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -170491,8 +173159,8 @@
           {
             "count": 4,
             "name": "N's Zoroark ex",
-            "number": "61",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "137"
           },
           {
             "count": 4,
@@ -170503,32 +173171,32 @@
           {
             "count": 2,
             "name": "Munkidori",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 2,
             "name": "N's Zekrom",
-            "number": "129",
-            "set": "M2a"
+            "set": "ASC",
+      "number": "155"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "244",
-            "set": "M2a"
+           "number": "38",
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Yveltal",
-            "number": "40",
-            "set": "M1L"
+            "set": "MEG",
+      "number": "88"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "1",
-            "set": "SV8a"
+           "set": "ASC",
+            "number": "16"
           },
           {
             "count": 1,
@@ -170539,8 +173207,8 @@
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -170551,8 +173219,8 @@
           {
             "count": 1,
             "name": "N's Darumaka",
-            "number": "15",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "32"
           }
         ],
         "trainer": [
@@ -171637,32 +174305,32 @@
           {
             "count": 3,
             "name": "Solrock",
-            "number": "87",
-            "set": "M2a"
+            "number": "75",
+            "set": "MEG"
           },
           {
             "count": 2,
             "name": "Lunatone",
-            "number": "86",
-            "set": "M2a"
+            "number": "74",
+            "set": "MEG"
           },
           {
             "count": 2,
             "name": "Makuhita",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 2,
             "name": "Hariyama",
-            "number": "25",
-            "set": "M1L"
+            "number": "73",
+            "set": "MEG"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "114",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           }
         ],
         "trainer": [
@@ -187704,7 +190372,170 @@
         "opp": 0.4765625,
         "oppopp": 0.4406063988095238
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+            "name": "Mega Kangaskhan ex",
+            "number": "104",
+            "set": "MEG"
+          },
+          {
+            "count": 3,
+            "name": "Crustle",
+           "set": "DRI",
+            "number": "12"
+          },
+          {
+            "count": 3,
+            "name": "Dwebble",
+            "number": "11",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Psyduck",
+            "number": "7",
+            "set": "MEP"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Team Rocket's Petrel",
+            "number": "207",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Misty's Vitality",
+            "number": "80",
+            "set": "PBL"
+          },
+          {
+            "count": 4,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Pokemon Center Lady",
+            "number": "123",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Hilda",
+            "number": "84",
+            "set": "WHT"
+          },
+          {
+            "name": "Eri",
+            "set": "TEF",
+            "number": "146",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "name": "Xerosic's Machinations",
+            "number": "64",
+            "set": "SFA"
+          },
+          {
+            "count": 4,
+            "name": "Pokegear 3.0",
+            "number": "84",
+            "set": "BLK"
+          },
+          {
+            "name": "Jumbo Ice Cream",
+            "set": "PFL",
+            "number": "91",
+            "count": 4
+          },
+          {
+            "count": 1,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Super Potion",
+            "number": "158",
+            "set": "JTG"
+          },
+          {
+            "count": 1,
+            "name": "Switch",
+            "number": "130",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Hero's Cape - ACESPEC",
+            "number": "152",
+            "set": "TEF"
+          },
+          {
+            "count": 1,
+            "name": "Handheld Fan",
+            "number": "150",
+            "set": "TWM"
+          },
+          {
+            "name": "Brave Bangle",
+            "set": "WHT",
+            "number": "80",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "name": "Festival Grounds",
+            "number": "108",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Prism Tower",
+            "number": "80",
+            "set": "CRI"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Water Energy",
+            "set": "MEE",
+            "number": "3",
+            "count": 5
+          },
+          {
+            "count": 4,
+            "name": "Growing Grass Energy - Special",
+            "number": "86",
+            "set": "POR"
+          },
+          {
+            "count": 4,
+            "name": "Mist Energy - Special",
+            "number": "161",
+            "set": "TEF"
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -190187,56 +193018,56 @@
           {
             "count": 4,
             "name": "Abra",
-            "number": "36",
-            "set": "M1S"
+            "number": "54",
+            "set": "MEG"
           },
           {
             "count": 4,
             "name": "Kadabra",
-            "number": "37",
-            "set": "M1S"
+            "number": "55",
+            "set": "MEG"
           },
           {
             "count": 3,
             "name": "Alakazam",
-            "number": "38",
-            "set": "M1S"
+            "number": "56",
+            "set": "MEG"
           },
           {
             "count": 3,
             "name": "Dunsparce",
-            "number": "78",
-            "set": "SV9"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 2,
             "name": "Dudunsparce",
-            "number": "130",
-            "set": "SV8a"
+            "number": "129",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "6",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Dedenne",
-            "number": "55",
-            "set": "SV8"
+            "number": "87",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "104",
-            "set": "SV8a"
+            "number": "38",
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Genesect",
             "number": "40",
-            "set": "SV6a"
+            "set": "SFA"
           }
         ],
         "trainer": [
@@ -192786,8 +195617,8 @@
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "132",
-            "set": "M2a"
+            "number": "128",
+            "set": "TWM"
           },
           {
             "count": 1,
@@ -192810,14 +195641,14 @@
           {
             "count": 2,
             "name": "Dragapult ex",
-            "number": "548",
-            "set": "MC"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 2,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -192828,20 +195659,20 @@
           {
             "count": 1,
             "name": "Budew",
-            "number": "196",
-            "set": "M2a"
+            "number": "16",
+            "set": "ASC"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "2",
-            "set": "SVN"
+            "set": "ASC",
+            "number": "142"
           }
         ],
         "trainer": [
@@ -203492,68 +206323,68 @@
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "80",
-            "set": "SV6"
+            "number": "72",
+            "set": "PRE"
           },
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "79",
-            "set": "SV6"
+            "number": "71",
+            "set": "PRE"
           },
           {
             "count": 3,
             "name": "Dragapult ex",
-            "number": "81",
-            "set": "SV6"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 1,
             "name": "Dunsparce",
-            "number": "78",
-            "set": "SV9"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Dudunsparce",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "1",
-            "set": "SV8a"
+           "set": "ASC",
+            "number": "16"
           },
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "P",
-            "set": "M"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Patrat",
-            "number": "68",
-            "set": "M4"
+            "number": "70",
+            "set": "CRI"
           }
         ],
         "trainer": [
@@ -211173,20 +214004,20 @@
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "211",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "158"
           },
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "212",
-            "set": "M2a"
+            "number": "129",
+            "set": "TWM"
           },
           {
             "count": 3,
             "name": "Dragapult ex",
-            "number": "120",
-            "set": "SV6"
+            "number": "130",
+            "set": "TWM"
           },
           {
             "count": 2,
@@ -211197,14 +214028,14 @@
           {
             "count": 1,
             "name": "Budew",
-            "number": "1",
-            "set": "SV8a"
+           "set": "ASC",
+            "number": "16"
           },
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "6",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
@@ -211215,26 +214046,26 @@
           {
             "count": 1,
             "name": "Dudunsparce",
-            "number": "57",
-            "set": "SV5K"
+            "number": "129",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Dudunsparce ex",
-            "number": "79",
-            "set": "SV9"
+           "number": "121",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           }
         ],
         "trainer": [
@@ -212745,38 +215576,38 @@
           {
             "count": 4,
             "name": "Slowpoke",
-            "number": "38",
-            "set": "SV7"
+            "number": "57",
+            "set": "SCR"
           },
           {
             "count": 3,
             "name": "Slowking",
-            "number": "39",
-            "set": "SV7"
+            "number": "58",
+            "set": "SCR"
           },
           {
             "count": 2,
             "name": "Mega Kangaskhan ex",
-            "number": "80",
-            "set": "M1S"
+            "set": "MEG",
+            "number": "104"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "87",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 2,
             "name": "Metagross",
-            "number": "59",
-            "set": "M4"
+            "number": "61",
+            "set": "CRI"
           },
           {
             "count": 2,
             "name": "Kyurem",
             "number": "47",
-            "set": "SV6a"
+            "set": "SFA"
           },
           {
             "count": 1,
@@ -212799,20 +215630,20 @@
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "89",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "126",
-            "set": "SV9"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "114",
-            "set": "M3"
+            "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
@@ -215020,7 +217851,176 @@
         "opp": 0.4453125,
         "oppopp": 0.5046875
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 4,
+            "name": "Dhelmise",
+            "number": "39",
+            "set": "PBL"
+          },
+          {
+            "count": 4,
+            "name": "Shuppet",
+            "number": "33",
+            "set": "PBL"
+          },
+          {
+            "count": 3,
+            "name": "Banette",
+            "number": "34",
+            "set": "PBL"
+          },
+          {
+            "count": 3,
+            "name": "Dunsparce",
+            "number": "120",
+            "set": "JTG"
+          },
+          {
+            "count": 2,
+            "name": "Poltchageist",
+            "number": "5",
+            "set": "PBL"
+          },
+          {
+            "count": 2,
+            "name": "Sinistcha",
+            "number": "6",
+            "set": "PBL"
+          },
+          {
+            "count": 2,
+            "name": "Dudunsparce",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 2,
+            "name": "Lillie's Clefairy ex",
+            "number": "56",
+            "set": "JTG"
+          },
+          {
+            "count": 1,
+            "name": "Shaymin",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Patrat",
+            "number": "70",
+            "set": "CRI"
+          },
+          {
+            "count": 1,
+            "name": "Flutter Mane",
+            "number": "43",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Bloodmoon Ursaluna ex",
+            "number": "141",
+            "set": "TMW"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 3,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Gwynn",
+            "number": "78",
+            "set": "PBL"
+          },
+          {
+            "name": "Black Belt's Training",
+            "set": "JTG",
+            "number": "145",
+            "count": 1
+          },
+          {
+            "count": 4,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Special Red Card",
+            "number": "82",
+            "set": "CRI"
+          },
+          {
+            "count": 1,
+            "name": "Switch",
+            "number": "130",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Air Balloon",
+            "number": "181",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Prism Tower",
+            "number": "80",
+            "set": "CRI"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Psychic Energy",
+            "set": "MEE",
+            "number": "5",
+            "count": 2
+          },
+          {
+            "count": 4,
+            "name": "Telepathic Psychic Energy - Special",
+            "number": "88",
+            "set": "POR"
+          },
+          {
+            "count": 1,
+            "name": "Legacy Energy - Special - ACESPEC",
+            "number": "167",
+            "set": "TWM"
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -218091,61 +221091,61 @@
             "count": 4,
             "name": "Poltchageist",
             "number": "5",
-            "set": "M5"
+            "set": "PBL"
           },
           {
             "count": 4,
             "name": "Shuppet",
-            "number": "31",
-            "set": "M5"
+            "number": "33",
+            "set": "PBL"
           },
           {
             "count": 4,
             "name": "Banette",
-            "number": "32",
-            "set": "M5"
+            "number": "34",
+            "set": "PBL"
           },
           {
             "count": 4,
             "name": "Dhelmise",
-            "number": "37",
-            "set": "M5"
+            "number": "39",
+            "set": "PBL"
           },
           {
             "count": 3,
             "name": "Sinistcha",
             "number": "6",
-            "set": "M5"
+            "set": "PBL"
           },
           {
             "count": 2,
             "name": "Dunsparce",
-            "number": "78",
-            "set": "SV9"
+            "number": "120",
+            "set": "JTG"
           },
           {
             "count": 2,
             "name": "Dudunsparce",
-            "number": "130",
-            "set": "SV8a"
+            "number": "129",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Patrat",
-            "number": "68",
-            "set": "M4"
+            "number": "70",
+            "set": "CRI"
           },
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "66",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
@@ -218156,8 +221156,8 @@
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "33",
-            "set": "SV9"
+            "number": "56",
+            "set": "JTG"
           }
         ],
         "trainer": [
@@ -224894,50 +227894,50 @@
           {
             "count": 3,
             "name": "Teal Mask Ogerpon ex",
-            "number": "125",
-            "set": "SV6"
+            "number": "25",
+            "set": "TWM"
           },
           {
             "count": 2,
             "name": "Latias ex",
-            "number": "19",
-            "set": "SV7a"
+            "number": "76",
+            "set": "SSP"
           },
           {
             "count": 2,
             "name": "Lillie's Clefairy ex",
-            "number": "115",
-            "set": "SV9"
+            "set": "ASC",
+            "number": "76"
           },
           {
             "count": 2,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 2,
             "name": "Pecharunt",
-            "number": "75",
-            "set": "SV8"
+            "number": "149",
+            "set": "PR-SV"
           },
           {
             "count": 2,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Wellspring Mask Ogerpon ex",
-            "number": "127",
-            "set": "SV6"
+           "number": "27",
+            "set": "PRE"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "89",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
@@ -224948,14 +227948,14 @@
           {
             "count": 1,
             "name": "Munkidori",
-            "number": "107",
-            "set": "SV6"
+            "set": "ASC",
+            "number": "99"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
@@ -231422,26 +234422,26 @@
           {
             "count": 4,
             "name": "N's Zorua",
-            "number": "60",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "136"
           },
           {
             "count": 4,
             "name": "N's Zoroark ex",
-            "number": "61",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "137"
           },
           {
             "count": 2,
             "name": "N's Zekrom",
-            "number": "129",
-            "set": "M2a"
+            "set": "ASC",
+      "number": "155"
           },
           {
             "count": 1,
             "name": "N's Darumaka",
-            "number": "15",
-            "set": "SV9"
+            "set": "ASC",
+      "number": "32"
           },
           {
             "count": 1,
@@ -231464,20 +234464,20 @@
           {
             "count": 1,
             "name": "Yveltal",
-            "number": "40",
-            "set": "M1L"
+            "set": "MEG",
+      "number": "88"
           },
           {
             "count": 1,
             "name": "Pecharunt ex",
             "number": "39",
-            "set": "SV6a"
+            "set": "SFA"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
@@ -231890,32 +234890,32 @@
           {
             "count": 4,
             "name": "Dreepy",
-            "number": "118",
-            "set": "SV8a"
+            "number": "71",
+            "set": "PRE"
           },
           {
             "count": 4,
             "name": "Drakloak",
-            "number": "119",
-            "set": "SV8a"
+            "number": "72",
+            "set": "PRE"
           },
           {
             "count": 2,
             "name": "Dragapult ex",
-            "number": "134",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "160"
           },
           {
             "count": 2,
             "name": "Torchic",
-            "number": "18",
-            "set": "SV10"
+            "number": "40",
+            "set": "DRI"
           },
           {
             "count": 2,
             "name": "Blaziken ex",
-            "number": "16",
-            "set": "SVM"
+            "number": "24",
+            "set": "JTG"
           },
           {
             "count": 2,
@@ -231926,44 +234926,44 @@
           {
             "count": 1,
             "name": "Combusken",
-            "number": "19",
-            "set": "SV10"
+            "number": "41",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Moltres",
             "number": "14",
-            "set": "M2"
+            "set": "PFL"
           },
           {
             "count": 1,
             "name": "Lillie's Clefairy ex",
-            "number": "33",
-            "set": "SV9"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 1,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "6",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           },
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "38",
-            "set": "SV6a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Budew",
-            "number": "196",
-            "set": "M2a"
+            "number": "16",
+            "set": "ASC"
           }
         ],
         "trainer": [
@@ -248482,8 +251482,8 @@
           {
             "count": 1,
             "name": "Shaymin",
-            "number": "66",
-            "set": "SV9a"
+            "number": "10",
+            "set": "DRI"
           }
         ],
         "trainer": [
@@ -255575,7 +258575,146 @@
         "opp": 0.4375,
         "oppopp": 0.4974888392857143
       },
-      
+       "decklist": {
+        "pokemon": [
+          {
+            "count": 3,
+            "name": "Mega Lucario ex",
+            "number": "77",
+            "set": "MEG"
+          },
+          {
+            "count": 3,
+            "name": "Riolu",
+           "number": "50",
+            "set": "PRE"
+          },
+          {
+            "count": 3,
+            "name": "Dunsparce",
+            "number": "120",
+            "set": "JTG"
+          },
+          {
+            "count": 2,
+            "name": "Dudunsparce",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 2,
+            "name": "Lunatone",
+            "number": "74",
+            "set": "MEG"
+          },
+          {
+            "count": 2,
+            "name": "Solrock",
+            "number": "75",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Dudunsparce ex",
+           "number": "121",
+            "set": "JTG"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Judge",
+            "number": "76",
+            "set": "POR"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Ciphermaniac's Codebreaking",
+            "number": "104",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "AZ's Tranquility",
+            "number": "76",
+            "set": "CRI"
+          },
+          {
+            "count": 1,
+            "name": "Wally's Compassion",
+            "number": "132",
+            "set": "MEG"
+          },
+          {
+            "count": 4,
+            "name": "Fighting Gong",
+            "number": "187",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Premium Power Pro",
+            "number": "199",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Switch",
+            "number": "130",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Hero's Cape - ACESPEC",
+            "number": "152",
+            "set": "TEF"
+          },
+          {
+            "count": 2,
+            "name": "Gravity Mountain",
+            "number": "177",
+            "set": "SSP"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Fighting Energy",
+            "set": "MEE",
+            "number": "6",
+            "count": 10
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
@@ -262757,20 +265896,20 @@
           {
             "count": 4,
             "name": "Mega Kangaskhan ex",
-            "number": "51",
-            "set": "M1S"
+            "number": "104",
+            "set": "MEG"
           },
           {
             "count": 4,
             "name": "Meowth ex",
-            "number": "61",
-            "set": "M3"
+           "set": "POR",
+            "number": "62"
           },
           {
             "count": 2,
             "name": "Teal Mask Ogerpon ex",
-            "number": "16",
-            "set": "SV6"
+            "number": "25",
+            "set": "TWM"
           },
           {
             "count": 2,
@@ -262781,50 +265920,50 @@
           {
             "count": 2,
             "name": "Lillie's Clefairy ex",
-            "number": "33",
-            "set": "SV9"
+            "number": "56",
+            "set": "JTG"
           },
           {
             "count": 2,
             "name": "Fezandipiti ex",
-            "number": "114",
-            "set": "M2a"
+            "set": "ASC",
+            "number": "142"
           },
           {
             "count": 1,
             "name": "Iron Crown ex",
-            "number": "78",
-            "set": "SV8a"
+            "number": "81",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Wellspring Mask Ogerpon ex",
-            "number": "50",
-            "set": "SV8a"
+            "number": "64",
+            "set": "TWM"
           },
           {
             "count": 1,
             "name": "Chien-Pao",
-            "number": "32",
-            "set": "SV8"
+            "number": "56",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Passimian",
-            "number": "31",
-            "set": "SV7a"
+             "number": "111",
+            "set": "SSP"
           },
           {
             "count": 1,
             "name": "Iron Leaves ex",
-            "number": "16",
-            "set": "SV5M"
+            "number": "25",
+            "set": "TEF"
           },
           {
             "count": 1,
             "name": "Raging Bolt ex",
-            "number": "53",
-            "set": "SV5K"
+            "number": "123",
+            "set": "TEF"
           }
         ],
         "trainer": [
@@ -266371,8 +269510,8 @@
           {
             "count": 1,
             "name": "Metagross",
-            "number": "59",
-            "set": "M4"
+            "number": "61",
+            "set": "CRI"
           },
           {
             "count": 1,
@@ -266383,8 +269522,8 @@
           {
             "count": 1,
             "name": "Fezandipiti ex",
-            "number": "244",
-            "set": "M2a"
+           "number": "38",
+            "set": "SFA"
           },
           {
             "count": 1,
@@ -270729,7 +273868,176 @@
         "opp": 0.3560267857142857,
         "oppopp": 0.4057358099489796
       },
-      
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 3,
+            "name": "Riolu",
+            "set": "ASC",
+            "number": "112"
+          },
+          {
+            "count": 3,
+            "name": "Mega Lucario ex",
+            "number": "77",
+            "set": "MEG"
+          },
+          {
+            "count": 2,
+            "name": "Solrock",
+            "number": "75",
+            "set": "MEG"
+          },
+          {
+            "count": 2,
+            "name": "Lunatone",
+            "number": "74",
+            "set": "MEG"
+          },
+          {
+            "count": 2,
+            "name": "Makuhita",
+            "number": "72",
+            "set": "MEG"
+          },
+          {
+            "count": 2,
+            "name": "Hariyama",
+            "number": "73",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Shaymin",
+            "number": "10",
+            "set": "DRI"
+          },
+          {
+            "count": 1,
+            "name": "Genesect",
+            "number": "40",
+            "set": "SFA"
+          },
+          {
+            "count": 1,
+            "name": "Meowth ex",
+           "set": "POR",
+            "number": "62"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Wally's Compassion",
+            "number": "132",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Judge",
+            "number": "76",
+            "set": "POR"
+          },
+          {
+            "count": 1,
+            "name": "Ciphermaniac's Codebreaking",
+            "number": "104",
+            "set": "PRE"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Fighting Gong",
+            "number": "187",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Premium Power Pro",
+            "number": "199",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Night Stretcher",
+            "number": "196",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Switch",
+            "number": "130",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Special Red Card",
+            "number": "82",
+            "set": "CRI"
+          },
+          {
+            "count": 2,
+            "name": "Air Balloon",
+            "number": "181",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Maximum Belt - ACESPEC",
+            "number": "117",
+            "set": "PRE"
+          },
+          {
+            "count": 1,
+            "name": "Gravity Mountain",
+            "number": "177",
+            "set": "SSP"
+          },
+          {
+            "count": 1,
+            "name": "Battle Cage",
+            "number": "85",
+            "set": "PFL"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Fighting Energy",
+            "set": "MEE",
+            "number": "6",
+            "count": 8
+          },
+          {
+            "count": 2,
+            "name": "Rocky Fighting Energy - Special",
+            "number": "87",
+            "set": "POR"
+          }
+        ]
+      },
       "drop": 8,
       "rounds": {
         "1": {
