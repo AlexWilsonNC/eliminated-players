@@ -21524,9 +21524,144 @@
         "oppopp": 0.5078935480442177
       },
       "decklist": {
-        "pokemon": [],
-        "trainer": [],
-        "energy": []
+        "pokemon": [
+          {
+            "count": 3,
+            "name": "Riolu",
+            "number": "112",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Mega Lucario ex",
+            "number": "113",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Dudunsparce",
+            "number": "80",
+            "set": "PRE"
+          },
+          {
+            "count": 2,
+            "name": "Dunsparce",
+            "number": "120",
+            "set": "JTG"
+          },
+          {
+            "count": 2,
+            "name": "Solrock",
+            "number": "106",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Lunatone",
+            "number": "105",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Dudunsparce ex",
+            "number": "121",
+            "set": "JTG"
+          },
+          {
+            "count": 1,
+            "name": "Shaymin",
+            "number": "10",
+            "set": "DRI"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 4,
+            "name": "Lillie's Determination",
+            "number": "192",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Boss's Orders",
+            "number": "183",
+            "set": "ASC"
+          },
+          {
+            "count": 2,
+            "name": "Ciphermaniac's Codebreaking",
+            "number": "104",
+            "set": "PRE"
+          },
+          {
+            "count": 2,
+            "name": "Judge",
+            "number": "76",
+            "set": "POR"
+          },
+          {
+            "count": 4,
+            "name": "Fighting Gong",
+            "number": "187",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Poke Pad",
+            "number": "198",
+            "set": "ASC"
+          },
+          {
+            "count": 4,
+            "name": "Premium Power Pro",
+            "number": "199",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Ultra Ball",
+            "number": "213",
+            "set": "ASC"
+          },
+          {
+            "count": 3,
+            "name": "Buddy-Buddy Poffin",
+            "number": "184",
+            "set": "ASC"
+          },
+          {
+            "count": 1,
+            "name": "Switch",
+            "number": "130",
+            "set": "MEG"
+          },
+          {
+            "count": 1,
+            "name": "Hero's Cape - ACESPEC",
+            "number": "152",
+            "set": "TEF"
+          },
+          {
+            "count": 2,
+            "name": "Gravity Mountain",
+            "number": "177",
+            "set": "SSP"
+          }
+        ],
+        "energy": [
+          {
+            "name": "Basic Fighting Energy",
+            "set": "MEE",
+            "number": "6",
+            "count": 10
+          },
+          {
+            "count": 1,
+            "name": "Rocky Fighting Energy - Special",
+            "number": "87",
+            "set": "POR"
+          }
+        ]
       },
       "drop": 8,
       "rounds": {
